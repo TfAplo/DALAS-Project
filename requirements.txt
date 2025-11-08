@@ -1,0 +1,22 @@
+# Core scraping
+beautifulsoup4
+lxml<6
+requests
+pandas
+
+# Mapping / geopandas stack
+geopandas
+shapely
+folium
+
+# PDF table extraction / rasterization
+pdfplumber
+pdf2image
+
+# Computer vision (for figure/map extraction)
+opencv-python
+
+# Jupyter (kernel/notebook utilities)
+ipykernel
+jupyter
+

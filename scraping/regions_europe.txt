@@ -1,0 +1,23 @@
+# European regions for Spotify Top 200
+global
+gb
+fr
+de
+it
+es
+nl
+se
+no
+dk
+fi
+pl
+pt
+ie
+at
+ch
+be
+gr
+cz
+ro
+hu
+

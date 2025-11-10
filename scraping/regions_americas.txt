@@ -1,0 +1,23 @@
+# Americas regions for Spotify Top 200
+global
+us
+ca
+mx
+br
+ar
+cl
+co
+pe
+ve
+ec
+uy
+py
+bo
+cr
+pa
+do
+gt
+hn
+ni
+sv
+

@@ -1,0 +1,23 @@
+# Asia-Pacific regions for Spotify Top 200
+global
+jp
+kr
+cn
+in
+id
+ph
+th
+vn
+my
+sg
+tw
+hk
+au
+nz
+pk
+bd
+lk
+mm
+kh
+la
+

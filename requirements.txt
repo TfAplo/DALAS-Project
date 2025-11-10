@@ -20,3 +20,7 @@ opencv-python
 ipykernel
 jupyter
 
+# Chart collectors
+billboard.py
+spotipy
+

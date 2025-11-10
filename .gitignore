@@ -4,3 +4,4 @@ spotify_tracks.csv
 
 .venv
 scraping/.cache
+scraping/__pycache__

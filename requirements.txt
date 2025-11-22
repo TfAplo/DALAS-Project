@@ -23,4 +23,5 @@ jupyter
 # Chart collectors
 billboard.py
 spotipy
+playwright
 

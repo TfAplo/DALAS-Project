@@ -25,6 +25,7 @@ from typing import Iterable, List, Optional
 import argparse
 import csv
 import json
+import os
 import sys
 import time
 
@@ -205,40 +206,117 @@ def spotify_charts_csv_url(region: str, date: str = "latest", frequency: str = "
     return f"https://spotifycharts.com/regional/{region}/{frequency}/{date}/download"
 
 
+def spotify_charts_browser_csv(region: str, date: str = "latest", frequency: str = "daily") -> str:
+    """
+    Drive the official 'Download to CSV' via headless Chromium and return CSV text.
+    """
+    from playwright.sync_api import sync_playwright
+    from io import StringIO
+
+    region = region.lower()
+    frequency = frequency.lower()
+    page_url = f"https://spotifycharts.com/regional/{region}/{frequency}/{date}"
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True, args=["--no-sandbox"])
+        # accept_downloads=True is crucial so we can grab the CSV bytes
+        context = browser.new_context(user_agent=USER_AGENT, accept_downloads=True, locale="en-US")
+        page = context.new_page()
+        page.set_default_timeout(30000)
+        page.goto(page_url, wait_until="domcontentloaded")
+
+        # The site has used different selectors over time; try several:
+        # 1) a[href*="/download"] in header
+        # 2) explicit text 'Download to CSV'
+        # 3) a.header-csv (older)
+        # Wait for any candidate to appear
+        sel_candidates = [
+            "a[href*='/download']",
+            "a:has-text('Download to CSV')",
+            "a.header-csv",
+            "a.header__download",  # legacy
+        ]
+
+        found = None
+        for css in sel_candidates:
+            if page.locator(css).count():
+                found = css
+                break
+            try:
+                page.wait_for_selector(css, timeout=4000)
+                found = css
+                break
+            except Exception:
+                pass
+
+        if not found:
+            # As a fallback, the direct download URL sometimes works once cookies are set
+            dl_url = f"https://spotifycharts.com/regional/{region}/{frequency}/{date}/download"
+            resp = page.request.get(dl_url)
+            if resp.ok:
+                csv_text = resp.text()
+                browser.close()
+                return csv_text
+            raise RuntimeError("CSV download button not found on page; site structure may have changed.")
+
+        with page.expect_download() as dl_info:
+            page.locator(found).first.click()
+
+        download = dl_info.value
+        csv_bytes = download.bytes()
+        browser.close()
+        return csv_bytes.decode("utf-8", errors="replace")
+
+
 def collect_spotify(
     regions: Iterable[str],
     date: str = "latest",
     frequency: str = "daily",
+    force_browser: bool = False,
 ) -> List[SongRow]:
     headers = {"User-Agent": USER_AGENT, "Referer": "https://spotifycharts.com"}
     out: List[SongRow] = []
     ts = utcnow_iso()
     for rgn in regions:
-        url = spotify_charts_csv_url(rgn, date=date, frequency=frequency)
+        rgn = rgn.lower().strip()
+        if not rgn:
+            continue
+        csv_text = None
+        
+        # 1) Fast path: direct GET, unless the user forced browser mode
+        if not force_browser:
+            try:
+                url = spotify_charts_csv_url(rgn, date=date, frequency=frequency)
+                resp = requests.get(url, headers=headers, timeout=60)
+                resp.raise_for_status()
+                txt = resp.text.strip()
+                looks_like_html = txt.lower().startswith("<!doctype") or txt.lower().startswith("<html")
+                too_short = len(txt) < 100
+                has_header = "Position,Track Name" in txt
+                if not looks_like_html and not too_short and has_header:
+                    csv_text = resp.text
+                else:
+                    print(f"[spotify] Info: {rgn} direct GET returned HTML/short. Falling back to headless download.", file=sys.stderr)
+            except Exception as e:
+                print(f"[spotify] Info: {rgn} direct GET failed ({e}). Falling back to headless download.", file=sys.stderr)
+        
+        # 2) Browser fallback (or forced)
+        if csv_text is None:
+            try:
+                csv_text = spotify_charts_browser_csv(rgn, date=date, frequency=frequency)
+            except Exception as e:
+                print(f"[spotify] Skipping {rgn}: headless download failed ({e})", file=sys.stderr)
+                time.sleep(0.6)
+                continue
+        
+        # 3) Parse CSV
         try:
-            resp = requests.get(url, headers=headers, timeout=60)
-            resp.raise_for_status()
-            
-            # Debug: Check if we got actual CSV data (not HTML)
-            if not resp.text or len(resp.text.strip()) < 100:
-                print(f"[spotify] Warning: {rgn} returned empty or very short response", file=sys.stderr)
-                continue
-                
-            # Check if response is HTML instead of CSV
-            if resp.text.strip().startswith('<!DOCTYPE') or resp.text.strip().startswith('<html'):
-                print(f"[spotify] Warning: {rgn} returned HTML instead of CSV. Spotify Charts format may have changed.", file=sys.stderr)
-                continue
-                
-            # The CSV has a small heading; we let pandas handle it with skiprows
             from io import StringIO
-
-            df = pd.read_csv(StringIO(resp.text), skiprows=1)
-            
-            # Debug: Check if DataFrame is empty
+            df = pd.read_csv(StringIO(csv_text), skiprows=1)
             if df.empty:
                 print(f"[spotify] Warning: {rgn} CSV parsed but is empty", file=sys.stderr)
                 continue
-                
+            
             # Expected columns: Position, Track Name, Artist, Streams, URL
             for _, row in df.iterrows():
                 pos = int(row.get("Position"))
@@ -250,7 +328,7 @@ def collect_spotify(
                         source="spotify_charts",
                         domain="spotifycharts.com",
                         chart=f"top-200-{frequency}",
-                        region=rgn.lower(),
+                        region=rgn,
                         date=None if date == "latest" else date,
                         position=pos,
                         title=title,
@@ -259,9 +337,9 @@ def collect_spotify(
                         scraped_at=ts,
                     )
                 )
-        except Exception as e:  # pragma: no cover
-            print(f"[spotify] Skipping {rgn}: {e}", file=sys.stderr)
-        time.sleep(0.3)
+        except Exception as e:
+            print(f"[spotify] Skipping {rgn}: parse error ({e})", file=sys.stderr)
+        time.sleep(0.4)
     return out
 
 
@@ -287,6 +365,7 @@ def parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
     p.add_argument("--apple", type=str, default="", help="Comma-separated country codes for Apple RSS (e.g., us,gb,ng)")
     p.add_argument("--spotify", type=str, default="", help="Comma-separated regions for Spotify charts (e.g., global,us,gb)")
     p.add_argument("--spotify-regions-file", type=str, default="", help="Path to text file with one region code per line (e.g., regions.txt)")
+    p.add_argument("--spotify-browser", action="store_true", help="Force headless browser flow for Spotify Charts CSV")
     p.add_argument("--spotify-date", type=str, default="latest", help="Date for Spotify charts (YYYY-MM-DD or 'latest')")
     p.add_argument("--spotify-frequency", type=str, default="daily", choices=["daily", "weekly"], help="Spotify charts frequency")
     p.add_argument("--spotify-playlists", type=str, default="", help="Comma-separated Spotify playlist IDs or URLs (e.g., 37i9dQZEVXbMDoHDwVN2tF)")
@@ -312,6 +391,19 @@ def is_spotify_editorial(pid: str) -> bool:
     These typically start with '37i9dQZF' and are restricted from client-credentials access.
     """
     return pid.startswith("37i9dQZF") or pid.startswith("37i9dQZEVXb")
+
+
+def read_regions_file(path: str) -> List[str]:
+    """Read region codes from a text file (one per line, comments with #)."""
+    path = path.strip()
+    regs = []
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            regs.append(line.split()[0].lower())
+    return regs
 
 
 def collect_spotify_playlists(playlist_ids: Iterable[str], use_user_auth: bool = False) -> List[SongRow]:
@@ -472,29 +564,25 @@ def main(argv: Optional[List[str]] = None) -> int:
     # Spotify charts
     if args.spotify or args.spotify_regions_file:
         regions = []
-        # Read from file if provided
-        if args.spotify_regions_file:
-            regions_file = Path(args.spotify_regions_file)
-            if not regions_file.exists():
-                print(f"[spotify] Regions file not found: {regions_file}", file=sys.stderr)
-            else:
-                with open(regions_file, "r", encoding="utf-8") as f:
-                    regions.extend(
-                        line.strip() for line in f
-                        if line.strip() and not line.strip().startswith("#")
-                    )
-        # Add regions from command line flag
         if args.spotify:
-            regions.extend(r.strip() for r in args.spotify.split(",") if r.strip())
-        # Remove duplicates while preserving order
+            regions.extend([r.strip() for r in args.spotify.split(",") if r.strip()])
+        if args.spotify_regions_file:
+            try:
+                regions.extend(read_regions_file(args.spotify_regions_file))
+            except Exception as e:
+                print(f"[spotify] Regions file error: {e}", file=sys.stderr)
+        # de-dup while keeping order
         seen = set()
-        unique_regions = []
-        for r in regions:
-            if r and r not in seen:
-                seen.add(r)
-                unique_regions.append(r)
-        if unique_regions:
-            all_rows.extend(collect_spotify(unique_regions, date=args.spotify_date, frequency=args.spotify_frequency))
+        regions = [r for r in regions if not (r in seen or seen.add(r))]
+        if regions:
+            all_rows.extend(
+                collect_spotify(
+                    regions,
+                    date=args.spotify_date,
+                    frequency=args.spotify_frequency,
+                    force_browser=args.spotify_browser,
+                )
+            )
 
     # Spotify via Web API playlists
     if args.spotify_playlists:

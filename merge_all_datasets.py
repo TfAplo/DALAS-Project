@@ -367,10 +367,21 @@ def main():
 
     # 3. Relaxed Merge
     final_df = relaxed_merge(spotify_df, scraped_df)
+
+    # 4. Drop exact duplicate rows to keep final_dataset unique
+    if not final_df.empty:
+        before = len(final_df)
+        final_df = final_df.drop_duplicates()
+        after = len(final_df)
+        dropped = before - after
+        if dropped > 0:
+            print(f"Removed {dropped} duplicate rows. Final dataset has {after} unique rows.")
+        else:
+            print(f"Merged dataset has {after} rows (no duplicates removed).")
+    else:
+        print("Merged dataset is empty.")
     
-    print(f"Merged dataset has {len(final_df)} rows.")
-    
-    # 4. Save
+    # 5. Save
     output_path = DATA_DIR / "final_dataset.csv"
     final_df.to_csv(output_path, index=False)
     print(f"Saved final dataset to {output_path}")

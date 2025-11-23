@@ -1,6 +1,6 @@
 spotify_dataset.csv
 mxmh_survey_results.csv
-
+data/ds2.csv
 
 .venv
 scraping/.cache

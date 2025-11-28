@@ -1,0 +1,417 @@
+track_name,artists,peak_position,first_chart_date,last_chart_date,n_chart_appearances,n_distinct_charts,album_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre,playlistname,peak_charts
+'Til You Can't,Cody Johnson,82,2022-01-01,2022-01-01,1,1,Country Car Hits,1,224213,False,0.501,0.815,1,-4.865,1,0.0436,0.0513,0.0,0.106,0.46,160.087,4,country,,hot-100
+(Everything I Do) I Do It For You,Bryan Adams,13,,,2,2,90's Music Grandi Successi,2,394133,False,0.526,0.365,1,-12.605,1,0.028,0.0775,1.37e-05,0.0618,0.254,131.251,4,rock,,List of best-selling singles
+2 On (feat. ScHoolboy Q),Tinashe;ScHoolboy Q,75,2014-06-07,2014-06-07,1,1,Aquarius,72,227000,True,0.742,0.595,9,-7.51,1,0.107,0.15,0.0,0.111,0.431,101.013,4,alternative,,hot-100
+2step,Ed Sheeran;Lil Baby,56,2022-07-02,2022-07-02,1,1,Totally Rap,0,163449,False,0.693,0.643,4,-5.867,0,0.0828,0.138,0.0,0.108,0.477,95.055,4,pop,,hot-100
+5 Foot 9,Tyler Hubbard,88,2022-07-02,2022-07-02,1,1,Artsy & Colourful,1,189780,False,0.602,0.796,5,-5.609,1,0.0465,0.146,0.0,0.125,0.53,106.005,4,country,,hot-100
+7 rings,Ariana Grande,9,2019-06-01,2019-06-01,2,2,"thank u, next",84,178626,True,0.778,0.317,1,-10.732,0,0.334,0.592,0.0,0.0881,0.327,140.048,4,dance,,List of best-selling singles
+7500 OBO,Tim McGraw,93,2022-07-02,2022-07-02,1,1,Sad Country Songs,3,221400,False,0.528,0.718,7,-6.954,1,0.0337,0.1,0.0,0.304,0.51,155.759,4,country,,hot-100
+About Damn Time,Lizzo,5,2022-07-02,2022-07-02,1,1,About Damn Time,89,191822,True,0.836,0.743,10,-6.305,0,0.0656,0.0995,0.0,0.335,0.722,108.966,4,hip-hop,,hot-100
+Africa,TOTO,9,,,1,1,Toto IV,83,295893,False,0.671,0.373,9,-18.064,1,0.0323,0.257,8.01e-05,0.0481,0.732,92.718,4,rock,,List of best-selling singles
+After A Few,Travis Denning,33,2020-06-06,2020-06-06,1,1,Tailgate Country,0,214040,False,0.619,0.855,10,-4.356,0,0.0346,0.0155,0.0,0.162,0.656,107.004,4,country,,hot-100
+After Hours,The Weeknd,101,2025-11-08,2025-11-08,1,1,Halloween Party 2022,0,361946,False,0.651,0.567,5,-5.941,0,0.0317,0.0934,0.00991,0.124,0.138,108.953,4,pop,,billboard-200
+Ain't It Fun,Paramore,11,2014-06-07,2014-06-07,1,1,Alternative Rock Mixtape,1,296520,False,0.606,0.893,9,-3.681,1,0.0987,0.154,4.18e-05,0.021,0.671,103.985,4,emo,,hot-100
+Ain't No Mountain High Enough,Marvin Gaye;Tammi Terrell,25,,,1,1,United,82,151666,False,0.663,0.6,7,-10.87,1,0.032,0.43,0.0,0.184,0.8,129.991,4,funk,,List of best-selling singles
+Alive,Krewella,44,2013-06-01,2013-06-01,1,1,Get Wet,53,288880,False,0.671,0.828,9,-2.907,1,0.053,0.00304,0.00287,0.352,0.57,127.976,4,dub,,hot-100
+All In,Lil Baby,99,2020-06-06,2020-06-06,1,1,Bad Boy Club,0,156032,True,0.836,0.649,11,-6.442,1,0.332,0.0716,0.0,0.0943,0.294,95.084,4,hip-hop,,hot-100
+All The Right Moves,OneRepublic,44,2010-06-05,2010-06-05,1,1,Waking Up,67,238000,False,0.529,0.948,0,-3.527,1,0.0474,0.258,9.35e-06,0.283,0.65,146.024,4,piano,,hot-100
+All of Me,John Legend,3,2014-06-07,2014-06-07,2,2,Love In The Future (Expanded Edition),85,269560,False,0.422,0.264,8,-7.064,1,0.0322,0.922,0.0,0.132,0.331,119.93,4,soul,John Legend — All of Me;kamil,hot-100
+As It Was,Harry Styles,1,2022-07-02,2023-01-07,4,2,As It Was,95,167303,False,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,4,pop,,List of best-selling singles
+Attention,Charlie Puth,45,2017-06-03,2017-06-03,1,1,Voicenotes,83,208786,False,0.775,0.613,3,-4.586,0,0.0542,0.109,2.33e-05,0.134,0.797,100.066,4,dance,,hot-100
+BICHOTA,KAROL G,88,2021-01-02,2021-01-02,1,1,El perreo es el futuro,0,178946,True,0.863,0.666,1,-4.158,0,0.152,0.212,0.000493,0.103,0.838,163.908,4,reggae,,hot-100
+BURN IT DOWN,Linkin Park,66,2012-06-02,2012-06-02,1,1,LIVING THINGS,75,230253,False,0.585,0.972,9,-4.45,0,0.0534,0.0143,0.0,0.0707,0.585,110.006,4,alternative,,hot-100
+Baby,Justin Bieber;Ludacris,38,2010-06-05,2010-06-05,1,1,My World 2.0,82,214240,False,0.728,0.859,5,-5.237,0,0.137,0.0401,0.0,0.111,0.535,65.043,4,pop,,hot-100
+Back In Black,AC/DC,15,,,1,1,Back In Black,85,255493,False,0.31,0.7,9,-5.678,1,0.047,0.011,0.00965,0.0828,0.763,188.386,4,hard-rock,,List of best-selling singles
+Back To Black,Glee Cast,82,2011-06-04,2011-06-04,1,1,"Glee: The Music, The Complete Season Two",46,239306,False,0.538,0.721,4,-4.641,0,0.0534,0.2,0.000337,0.332,0.33,123.421,4,club,,hot-100
+Back To You,Selena Gomez,46,2018-06-02,2018-06-02,1,1,13 Reasons Why (Season 2),72,210240,False,0.6,0.683,6,-6.271,1,0.0493,0.0984,1.26e-06,0.11,0.494,102.036,4,dance,,hot-100
+Bad Habits,Ed Sheeran,6,2022-01-01,2022-07-02,3,2,=,88,230746,False,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,4,pop,,List of best-selling singles
+Bad Liar,Selena Gomez,80,2017-06-03,2017-06-03,1,1,Queda poco para la PAES,0,214647,False,0.965,0.414,1,-6.408,1,0.0712,0.189,0.0,0.0767,0.729,121.032,4,dance,,hot-100
+Bad Romance,Lady Gaga,23,2010-06-05,2010-06-05,2,2,Halloween 2022,0,294573,True,0.695,0.921,0,-3.752,1,0.0363,0.00314,5.26e-05,0.0842,0.714,119.007,4,dance,,List of best-selling singles
+Bad Romance (Glee Cast Version),Glee Cast,86,2010-06-05,2010-06-05,1,1,"Glee: The Music, Volume 3 Showstoppers",47,294226,False,0.628,0.922,9,-4.638,0,0.0759,0.0055,3.69e-06,0.181,0.532,119.005,4,club,,hot-100
+Bam Bam (feat. Ed Sheeran),Camila Cabello;Ed Sheeran,36,2022-07-02,2022-07-02,1,1,Bam Bam (feat. Ed Sheeran),87,206070,False,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,4,dance,,hot-100
+Bangarang (feat. Sirah),Skrillex;Sirah,96,2012-06-02,2012-06-02,1,1,Bangarang EP,71,215253,True,0.716,0.972,7,-2.302,1,0.196,0.0145,3.22e-05,0.317,0.576,110.026,4,edm,,hot-100
+Be Careful,Cardi B,16,2018-06-02,2018-06-02,1,1,On Chill - Rap & RnB,0,210787,False,0.835,0.561,6,-8.248,0,0.4,0.0264,0.0,0.095,0.499,152.152,4,dance,,hot-100
+"Beamer, Benz, Or Bentley",Lloyd Banks;Juelz Santana,56,2010-06-05,2010-06-05,1,1,10s Hip-Hop Hits,59,208386,True,0.652,0.671,4,-5.376,0,0.315,0.00402,2.89e-05,0.598,0.518,159.963,4,hardcore,,hot-100
+Beautiful Crazy,Luke Combs,42,2019-06-01,2019-06-01,1,1,This One's for You Too (Deluxe Edition),80,193200,False,0.551,0.402,11,-7.431,1,0.0262,0.676,0.0,0.0928,0.382,103.313,4,country,,hot-100
+Beautiful Now,Zedd;Jon Bellion,88,2015-06-06,2015-06-06,1,1,True Colors,70,218293,False,0.628,0.833,11,-4.126,0,0.0282,0.0079,1.48e-05,0.074,0.56,128.003,4,edm,,hot-100
+Believer,Imagine Dragons,20,2017-06-03,2017-06-03,1,1,Evolve,88,204346,False,0.776,0.78,10,-4.374,0,0.128,0.0622,0.0,0.081,0.666,124.949,4,rock,,hot-100
+Best Day Of My Life,American Authors,24,2014-06-07,2014-06-07,1,1,"Oh, What A Life",79,194240,False,0.673,0.902,2,-2.392,1,0.0346,0.0591,0.000262,0.0558,0.538,100.012,4,indie-pop,Best Day Of My Life,hot-100
+Blank Space,Taylor Swift,32,2015-06-06,2015-06-06,1,1,1989 (Deluxe),85,231826,False,0.76,0.703,5,-5.412,1,0.054,0.103,0.0,0.0913,0.57,95.997,4,pop,,hot-100
+Blinding Lights,The Weeknd,1,2020-06-06,2020-06-06,3,3,After Hours,91,200040,False,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,4,pop,,Greatest of All Time Hot 100 Singles;List of best-selling singles
+Blue Christmas,Elvis Presley,18,2021-01-02,2024-01-06,3,1,Santa Claus Is Coming To Town,0,128080,False,0.506,0.475,4,-7.552,1,0.0324,0.83,0.00411,0.124,0.596,94.494,4,rock-n-roll,,hot-100
+Blurred Lines,Robin Thicke;T.I.;Pharrell Williams,1,2013-06-01,2013-06-01,3,3,Blurred Lines (Deluxe),76,263826,False,0.853,0.599,7,-4.756,1,0.0411,0.00334,7.93e-06,0.0759,0.843,119.993,4,soul,,List of best-selling singles
+Body Like A Back Road,Sam Hunt,16,2017-06-03,2017-06-03,1,1,Tailgate Country,0,165386,False,0.732,0.458,5,-7.225,1,0.0311,0.447,0.0,0.136,0.661,98.942,4,country,,hot-100
+Bohemian Rhapsody,Queen,6,,,1,1,Bohemian Rhapsody (The Original Soundtrack),75,354947,False,0.39,0.397,0,-9.963,0,0.0513,0.287,0.0,0.207,0.246,144.031,4,rock,ease,List of best-selling singles
+Born This Way,Lady Gaga,24,2011-06-04,2011-06-04,1,1,Beginner Ride (Mixtape Vol. 1),0,260413,False,0.586,0.835,11,-5.117,1,0.146,0.00387,0.0,0.304,0.492,123.936,4,dance,,hot-100
+Born To Die,Lana Del Rey,124,2025-11-08,2025-11-08,1,1,Halloween & Alternative,6,286253,False,0.206,0.636,4,-6.591,0,0.0418,0.211,0.000118,0.217,0.394,77.797,4,pop,lana,billboard-200
+Boy With Luv (feat. Halsey),BTS;Halsey,71,2019-06-01,2019-06-01,1,1,MAP OF THE SOUL : PERSONA,80,229773,False,0.645,0.862,11,-4.761,0,0.0845,0.0933,0.0,0.193,0.803,119.947,4,k-pop,,hot-100
+Break My Heart,Dua Lipa,34,2020-06-06,2020-06-06,1,1,Future Nostalgia,78,221820,False,0.73,0.729,4,-3.434,0,0.0884,0.167,1.39e-06,0.349,0.467,113.011,4,dance,,hot-100
+Bright,Echosmith,50,2015-06-06,2015-06-06,1,1,Coffee Moment,0,220626,False,0.646,0.431,6,-8.517,1,0.0262,0.637,6.99e-06,0.113,0.292,90.034,4,indie-pop,,hot-100
+Budapest,George Ezra,35,2015-06-06,2015-06-06,1,1,Wanted on Voyage (Expanded Edition),79,200733,False,0.717,0.455,5,-8.303,1,0.0276,0.0846,0.0,0.11,0.389,127.812,4,folk,,hot-100
+Bulletproof,La Roux,14,2010-06-05,2010-06-05,1,1,La Roux,71,205733,False,0.674,0.882,3,-2.771,0,0.0477,0.000441,6.47e-05,0.068,0.682,123.016,4,synth-pop,,hot-100
+Butter,BTS,15,,,1,1,Proof,83,164952,False,0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0788,0.695,109.997,4,k-pop,,List of best-selling singles
+Buy Dirt,Jordan Davis;Luke Bryan,59,2022-01-01,2022-01-01,1,1,Autumn Vibe,0,167480,False,0.586,0.559,4,-6.725,1,0.05,0.639,0.0,0.0872,0.437,177.945,4,country,,hot-100
+Call Me,Blondie,64,,,1,1,Atomic/Atomix,73,212600,False,0.56,0.825,2,-6.711,0,0.0347,0.000785,0.00246,0.0892,0.74,142.669,4,power-pop,Bangles: Manic Monday;Blondie ,Greatest of All Time Hot 100 Singles
+Call Me Maybe,Carly Rae Jepsen,1,2012-06-02,2012-06-02,4,3,Kiss,80,193400,False,0.783,0.58,7,-6.548,1,0.0408,0.0114,2.28e-06,0.108,0.66,120.021,4,electro,America's next best top greatest playlist ever.,List of best-selling singles
+Call Out My Name,The Weeknd,30,2018-06-02,2018-06-02,1,1,"My Dear Melancholy,",89,228373,False,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3,pop,,hot-100
+Can't Remember to Forget You (feat. Rihanna),Shakira;Rihanna,100,2014-06-07,2014-06-07,1,1,Shakira. (Expanded Edition),75,206866,False,0.694,0.81,11,-3.556,0,0.0661,0.122,0.0,0.141,0.824,137.968,4,latin,,hot-100
+Candle In The Wind 1997,Elton John,2,,,1,1,Candle In The Wind 1997 / Something About ...,59,250106,False,0.45,0.311,4,-8.175,1,0.0314,0.977,0.00713,0.167,0.367,125.648,4,piano,,List of best-selling singles
+Centerfold,The J. Geils Band,73,,,1,1,Freeze Frame,74,216533,False,0.653,0.677,0,-12.244,1,0.0396,0.249,0.0,0.403,0.888,114.37,4,blues,,Greatest of All Time Hot 100 Singles
+Chained To The Rhythm,Katy Perry;Skip Marley,88,2017-06-03,2017-06-03,1,1,Concierto en la ducha,0,237733,False,0.562,0.8,0,-5.404,1,0.112,0.0814,0.0,0.199,0.471,95.029,4,dance,,hot-100
+Chandelier,Sia,48,2014-06-07,2014-06-07,1,1,1000 Forms Of Fear,80,216120,False,0.399,0.787,1,-2.88,1,0.0499,0.0197,6.07e-05,0.0685,0.572,117.089,5,dance,Sia - Chandelier;Sia — Chandelier;To Sing...,hot-100
+Cheap Thrills,Sia,29,2016-06-04,2016-06-04,2,2,This Is Acting,78,211666,False,0.628,0.698,6,-5.608,0,0.105,0.0472,0.00143,0.0907,0.732,89.976,4,dance,,List of best-selling singles
+Clarity,Zedd;Foxes,30,2013-06-01,2013-06-01,1,1,Workout Hits 2023,0,271426,False,0.509,0.781,8,-3.48,1,0.0721,0.0391,0.0,0.0749,0.176,128.002,4,edm,,hot-100
+Classic,MKTO,25,2014-06-07,2014-06-07,1,1,MKTO,82,175426,False,0.72,0.791,1,-4.689,1,0.124,0.0384,0.0,0.157,0.756,102.071,4,rock,MKTO - Classic,hot-100
+Closer,The Chainsmokers;Halsey,8,2017-06-03,2017-06-03,3,3,Closer,84,244960,False,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,4,dance,,List of best-selling singles
+Clout,Offset;Cardi B,56,2019-06-01,2019-06-01,1,1,GANG GANG - HIP HOP & RAP,3,205803,True,0.919,0.622,1,-7.384,1,0.0997,0.23,4.24e-06,0.122,0.423,140.022,4,hip-hop,,hot-100
+Come & Get It,Selena Gomez,7,2013-06-01,2013-06-01,1,1,Almorzando solo,0,231413,False,0.552,0.783,7,-4.138,0,0.0504,0.00887,0.00026,0.0954,0.575,79.984,4,dance,,hot-100
+Come with Me Now,KONGOS,52,2014-06-07,2014-06-07,1,1,Lunatic,67,211960,False,0.654,0.726,10,-3.803,0,0.0401,0.0311,6.35e-05,0.0618,0.728,103.987,4,blues,,hot-100
+Counting Stars,OneRepublic,26,2014-06-07,2014-06-07,1,1,Native,83,257266,False,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,0.477,122.016,4,piano,Counting Stars 2;Party modern rock,hot-100
+Country Girl (Shake It For Me),Luke Bryan,44,2011-06-04,2011-06-04,1,1,Tailgate Country,2,225560,False,0.644,0.904,2,-4.532,1,0.0464,0.0295,0.0,0.0834,0.672,105.969,4,country,,hot-100
+Dark Horse,Katy Perry;Juicy J,6,2014-06-07,2014-06-07,2,2,Halloween 2022,0,215672,False,0.647,0.585,6,-6.123,1,0.0512,0.00314,0.0,0.165,0.353,131.934,4,dance,,hot-100
+Deck The Halls,Nat King Cole,17,2021-01-02,2024-01-06,4,1,Rock Christmas 2022 - The Very Best Of,1,69000,False,0.635,0.393,9,-10.889,1,0.0394,0.652,0.0,0.0845,0.97,107.172,4,jazz,,hot-100
+Demons,Imagine Dragons,42,2013-06-01,2014-06-07,2,1,Night Visions,84,177506,False,0.505,0.71,3,-3.015,1,0.0321,0.19,0.00025,0.269,0.428,89.938,4,rock,,hot-100
+Despacito,Luis Fonsi;Daddy Yankee,3,,,1,1,VIDA,80,229360,False,0.655,0.797,2,-4.787,1,0.153,0.198,0.0,0.067,0.839,177.928,4,latin,,List of best-selling singles
+Diamond Rings And Old Barstools,Tim McGraw;Catherine Dunn,85,2015-06-06,2015-06-06,1,1,Sad Country Songs,1,198373,False,0.55,0.496,5,-6.325,1,0.025,0.463,0.000135,0.119,0.353,141.898,4,country,,hot-100
+Diamonds,Sam Smith,65,2021-01-02,2021-01-02,1,1,pov: it's 2020,3,213869,False,0.653,0.667,10,-6.764,0,0.0423,0.154,0.0,0.107,0.556,104.181,4,dance,,hot-100
+Diana,Paul Anka,19,,,1,1,Sings His Favorites,56,140520,False,0.551,0.576,7,-8.49,1,0.0325,0.762,0.0,0.803,0.919,142.814,4,rock-n-roll,,List of best-selling singles
+Die Young (feat. 347aidan),Sleepy Hallow;347aidan,94,2022-07-02,2022-07-02,1,1,Die Young (feat. 347aidan),81,148816,True,0.808,0.582,11,-6.26,1,0.338,0.827,0.0,0.111,0.675,77.471,4,r-n-b,,hot-100
+Dirty Dancer,Enrique Iglesias;Usher,20,2011-06-04,2011-06-04,1,1,Euphoria,55,214453,False,0.651,0.939,11,-3.606,1,0.0774,0.00604,0.0,0.139,0.733,133.05,4,latin,,hot-100
+Don't Call Me Up,Mabel,79,2019-06-01,2019-06-01,1,1,Ivy To Roses (Mixtape),77,178480,False,0.674,0.881,9,-2.853,1,0.147,0.296,3.01e-06,0.0793,0.234,98.994,4,edm,,hot-100
+Don't Let Me Down,The Chainsmokers;Daya,6,2016-06-04,2016-06-04,2,2,Don't Let Me Down,80,208373,False,0.532,0.869,11,-5.094,1,0.172,0.157,0.00508,0.136,0.422,159.803,4,dance,,hot-100
+Don't Start Now,Dua Lipa,7,2020-06-06,2020-06-06,2,2,Future Nostalgia,81,183290,False,0.793,0.793,11,-4.521,0,0.083,0.0123,0.0,0.0951,0.679,123.95,4,dance,,hot-100
+Don't Stop Believin',Journey,3,,,1,1,Escape (Bonus Track Version),83,250986,False,0.5,0.748,4,-9.072,1,0.0363,0.127,0.0,0.447,0.514,118.852,4,hard-rock,,List of best-selling singles
+Dream On (Glee Cast Version) (feat. Neil Patrick Harris),Glee Cast;Neil Patrick Harris,26,2010-06-05,2010-06-05,1,1,"Glee: The Music, Volume 3 Showstoppers",49,274133,False,0.417,0.622,3,-4.706,1,0.0299,0.0128,2.46e-06,0.614,0.224,154.022,4,club,,hot-100
+Dura,Daddy Yankee,47,2018-06-02,2018-06-02,1,1,El perreo es el futuro,0,200480,False,0.783,0.84,1,-3.416,1,0.051,0.174,0.0,0.412,0.838,95.002,4,hip-hop,,hot-100
+Dynamite,BTS,44,2021-01-02,2021-01-02,1,1,BE,85,199053,False,0.746,0.765,6,-4.41,0,0.0993,0.0112,0.0,0.0936,0.737,114.044,4,k-pop,,hot-100
+E.T.,Katy Perry,2,2011-06-04,2011-06-04,2,2,Halloween 2022,0,206373,False,0.603,0.863,5,-5.423,0,0.0773,0.0178,0.0,0.389,0.731,150.054,4,dance,,hot-100
+Earth,Lil Dicky,78,2019-06-01,2019-06-01,1,1,Earth,40,281500,True,0.694,0.664,2,-4.649,1,0.05,0.639,0.0,0.0929,0.676,95.941,4,comedy,,hot-100
+Easy On Me,Adele,5,2022-01-01,2022-01-01,1,1,Easy On Me,85,224694,False,0.604,0.366,5,-7.519,1,0.0282,0.578,0.0,0.133,0.13,141.981,4,british,,hot-100
+Efecto,Bad Bunny,45,2022-07-02,2022-07-02,1,1,Un Verano Sin Ti,96,213061,False,0.801,0.475,7,-8.797,0,0.0516,0.141,1.73e-05,0.0639,0.234,98.047,4,latin,,hot-100
+El Amante,Nicky Jam,97,2017-06-03,2017-06-03,1,1,Fénix,69,219506,False,0.683,0.691,8,-5.535,1,0.0432,0.243,0.0,0.14,0.732,179.91,4,latino,,hot-100
+Emotionally Scarred,Lil Baby,54,2020-06-06,2020-06-06,1,1,Drippy Drippy,2,197529,True,0.585,0.641,6,-4.269,0,0.133,0.0286,0.0,0.316,0.266,88.284,4,hip-hop,,hot-100
+End Of The Road,Boyz II Men,61,,,1,1,Cooleyhighharmony (Bonus Tracks Version),71,351466,False,0.64,0.427,5,-9.29,0,0.0241,0.0664,0.0,0.0579,0.529,149.703,3,r-n-b,,Greatest of All Time Hot 100 Singles
+Every Breath You Take,The Police,35,,,1,1,Synchronicity (Remastered 2003),86,253920,False,0.82,0.452,1,-9.796,1,0.0348,0.543,0.00294,0.0714,0.74,117.401,4,rock,Leos trumlåtar,Greatest of All Time Hot 100 Singles
+Everybody Talks,Neon Trees,42,2012-06-02,2012-06-02,1,1,Picture Show,80,177280,False,0.471,0.924,8,-3.906,1,0.0586,0.00301,0.0,0.313,0.725,154.961,4,alt-rock,,hot-100
+Eye of the Tiger,Survivor,26,,,2,2,Rocky IV,77,245640,False,0.817,0.599,0,-9.249,0,0.0328,0.132,0.000311,0.0873,0.548,108.873,4,rock,Eye of the Tiger 2,List of best-selling singles
+FAKE LOVE,BTS,10,2018-06-02,2018-06-02,1,1,Love Yourself 轉 'Tear',76,242333,False,0.557,0.719,2,-4.515,0,0.0371,0.00267,0.0,0.306,0.345,77.502,4,k-pop,,hot-100
+Faded,Alan Walker,97,2016-06-04,2016-06-04,1,1,Different World,80,212106,False,0.468,0.627,6,-5.085,1,0.0476,0.0281,7.97e-06,0.11,0.159,179.642,4,electro,,hot-100
+Fall in Love,Bailey Zimmerman,60,2022-07-02,2022-07-02,1,1,New Country,1,232058,False,0.524,0.643,9,-6.055,1,0.0297,0.451,0.0,0.221,0.397,135.962,4,country,,hot-100
+Falling,Trevor Daniel,21,2020-06-06,2020-06-06,1,1,Nicotine,79,159381,False,0.785,0.431,10,-8.756,0,0.0364,0.123,0.0,0.0887,0.236,127.085,4,pop,,hot-100
+Fancy Like,Walker Hayes,45,2022-01-01,2022-01-01,1,1,Country Stuff The Album,77,161853,False,0.647,0.765,1,-6.459,1,0.06,0.111,0.0,0.315,0.855,79.994,4,country,,hot-100
+Favorite Time Of Year,Carrie Underwood,62,2021-01-02,2021-01-02,1,1,Country Christmas Greatest Hits,1,195320,False,0.509,0.881,0,-5.302,1,0.0497,0.00489,0.0,0.359,0.509,141.881,4,country,,hot-100
+Felices los 4,Maluma,93,2017-06-03,2017-06-03,1,1,F.A.M.E.,74,230000,False,0.766,0.756,5,-5.861,1,0.132,0.213,0.0,0.349,0.716,94.027,4,latino,,hot-100
+Fernando,ABBA,17,,,1,1,Arrival,68,252960,False,0.354,0.535,9,-8.876,1,0.0303,0.627,2.9e-06,0.0808,0.434,110.821,4,swedish,Abba.,List of best-selling singles
+Fight Song,Rachel Platten,30,2015-06-06,2015-06-06,1,1,Wildfire,77,204013,False,0.564,0.714,7,-4.987,1,0.129,0.0549,0.0,0.155,0.33,175.924,4,rock,,hot-100
+Firework,Katy Perry,17,2011-06-04,2011-06-04,2,2,Del gusto de mamá,1,227973,False,0.637,0.867,8,-3.686,1,0.05,0.143,0.0,0.11,0.652,124.069,4,dance,,List of best-selling singles
+First Class,Jack Harlow,3,2022-07-02,2022-07-02,1,1,Back to School!,1,173947,True,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,hip-hop,,hot-100
+Forever After All,Luke Combs,73,2021-01-02,2021-01-02,1,1,What You See Ain't Always What You Get (Deluxe Edition),79,232533,False,0.487,0.65,0,-5.195,1,0.0253,0.191,0.0,0.0933,0.456,151.964,4,country,,hot-100
+Freaky Friday (feat. Chris Brown),Lil Dicky;Chris Brown,22,2018-06-02,2018-06-02,1,1,Freaky Friday (feat. Chris Brown),45,216631,True,0.755,0.599,8,-5.042,1,0.224,0.147,0.0,0.109,0.755,133.123,4,comedy,,hot-100
+GDFR,Flo Rida;Sage The Gemini;Lookas,21,2015-06-06,2015-06-06,1,1,Pushin P - Top Rap,1,190185,False,0.657,0.827,5,-4.034,1,0.0736,0.000698,0.0053,0.065,0.69,145.887,4,dance,,hot-100
+GOOBA,6ix9ine,22,2020-06-06,2020-06-06,1,1,TattleTales,71,132303,True,0.611,0.688,1,-5.688,1,0.341,0.0264,0.0,0.251,0.393,178.462,4,emo,,hot-100
+GOOD TIME,Niko Moon,82,2021-01-02,2021-01-02,1,1,GOOD TIME,70,214720,False,0.802,0.59,5,-7.189,1,0.0493,0.0874,0.0,0.275,0.687,138.084,4,country,,hot-100
+Gangsta's Paradise,Coolio;L.V.,98,,,1,1,Gangsta's Paradise,89,240693,False,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4,funk,,Greatest of All Time Hot 100 Singles
+Gentleman,PSY,49,2013-06-01,2013-06-01,1,1,VIP DJ,50,194546,False,0.878,0.723,3,-3.334,0,0.102,0.00227,0.0,0.0516,0.619,126.01,4,k-pop,01515;Psy;Sc2,hot-100
+Get Lucky (feat. Pharrell Williams & Nile Rodgers),Daft Punk;Pharrell Williams;Nile Rodgers,10,2013-06-01,2013-06-01,1,1,Random Access Memories,75,369626,False,0.81,0.793,6,-9.404,0,0.0403,0.0378,1.77e-06,0.072,0.863,116.05,4,electro,,hot-100
+Ghost,Justin Bieber,26,2022-01-01,2022-07-02,2,1,Justice,88,153190,False,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,4,pop,,hot-100
+Girl Crush,Little Big Town,22,2015-06-06,2015-06-06,1,1,Pain Killer,70,193320,False,0.5,0.225,0,-10.22,1,0.0302,0.842,0.0,0.112,0.355,173.788,3,country,Girl Crush,hot-100
+Girls Chase Boys,Ingrid Michaelson,89,2014-06-07,2014-06-07,1,1,Lights Out,56,221413,False,0.518,0.828,8,-5.725,1,0.04,0.03,1.33e-05,0.0456,0.69,84.835,4,acoustic,Sia - Chandelier,hot-100
+Girls Just Want to Have Fun,Cyndi Lauper,28,,,1,1,She's So Unusual,79,238266,False,0.71,0.799,6,-4.897,1,0.0328,0.22,0.000602,0.349,0.725,120.372,4,disco,Whitesnake - Here I Go Again,List of best-selling singles
+Glad You Came,The Wanted,8,2012-06-02,2012-06-02,1,1,Battleground (Deluxe Edition),79,197935,False,0.722,0.851,7,-3.873,0,0.0639,0.0319,0.0,0.108,0.452,126.885,4,rock,,hot-100
+Glimpse of Us,Joji,8,2022-07-02,2022-07-02,1,1,Glimpse of Us,94,233456,False,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3,pop,,hot-100
+God's Country,Blake Shelton,24,2019-06-01,2019-06-01,1,1,Single Saturday Night - Country Songs,0,204800,False,0.537,0.754,10,-5.102,1,0.0399,0.0586,4.8e-06,0.118,0.212,139.986,4,country,,hot-100
+God's Plan,Drake,3,2018-06-02,2018-06-02,3,3,Scorpion,84,198973,True,0.754,0.449,7,-9.211,1,0.109,0.0332,8.29e-05,0.552,0.357,77.169,4,hip-hop,,hot-100
+Godzilla (feat. Juice WRLD),Eminem;Juice WRLD,88,2020-06-06,2020-06-06,1,1,Music To Be Murdered By,83,210800,True,0.808,0.745,10,-5.26,0,0.342,0.145,0.0,0.292,0.829,165.995,4,hip-hop,,hot-100
+"Gone, Gone, Gone",Phillip Phillips,57,2013-06-01,2013-06-01,1,1,The World From The Side Of The Moon,67,209693,False,0.664,0.642,6,-5.961,1,0.038,0.129,0.0,0.114,0.501,118.002,4,folk,Practice for Sept 20th,hot-100
+Good Feeling,Flo Rida,40,2012-06-02,2012-06-02,1,1,Running Songs,1,248133,False,0.706,0.89,1,-4.447,0,0.0687,0.0588,0.00288,0.305,0.685,128.012,4,dance,,hot-100
+H.O.L.Y.,Florida Georgia Line,21,2016-06-04,2016-06-04,1,1,Dig Your Roots,71,194186,False,0.523,0.666,7,-4.081,0,0.0327,0.401,0.0,0.0728,0.564,78.077,4,country,,hot-100
+HUMBLE.,Kendrick Lamar,5,2017-06-03,2017-06-03,1,1,DAMN.,84,177000,True,0.908,0.621,1,-6.638,0,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,4,hip-hop,,hot-100
+Happier Than Ever,Billie Eilish,51,2022-01-01,2025-11-08,2,2,Autumn Vibes 2022,0,298899,False,0.314,0.238,0,-8.802,1,0.0389,0.741,0.00193,0.128,0.303,72.535,3,pop,,hot-100
+Harlem Shake,Baauer,50,2013-06-01,2013-06-01,1,1,Harlem Shake,58,196664,False,0.452,0.794,0,-5.151,1,0.0483,0.0111,0.00182,0.416,0.282,137.825,4,electronic,2/14/13;LAUREN FOR KIDS 2013-2014,hot-100
+Havana (feat. Young Thug),Camila Cabello;Young Thug,1,2018-06-02,2018-06-02,3,2,Camila,80,217306,False,0.765,0.523,2,-4.333,1,0.03,0.184,3.56e-05,0.132,0.394,104.988,4,dance,,List of best-selling singles
+Heart Attack,Demi Lovato,14,2013-06-01,2013-06-01,1,1,Demi,78,210840,False,0.504,0.785,8,-4.802,1,0.104,0.0738,0.0,0.239,0.502,173.968,4,dance,,hot-100
+Heat Waves,Glass Animals,10,2022-01-01,2022-07-02,3,2,Heat Waves,85,238805,False,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,4,indie-pop,,hot-100
+Heaven,Kane Brown,21,2018-06-02,2018-06-02,1,1,Kane Brown (Deluxe Edition),73,179506,False,0.677,0.556,9,-6.544,1,0.0306,0.263,0.0,0.105,0.521,80.006,4,country,,hot-100
+Heavy,Linkin Park;Kiiara,54,2017-06-03,2017-06-03,1,1,Heavy,18,169800,False,0.587,0.682,6,-6.091,0,0.0963,0.0345,0.0,0.0586,0.374,149.978,4,grunge,,hot-100
+Hello,Adele,18,,,1,1,25,74,295502,False,0.578,0.43,5,-6.134,0,0.0305,0.33,0.0,0.0854,0.288,78.991,4,british,,List of best-selling singles
+Here With Me,Marshmello;CHVRCHES,48,2019-06-01,2019-06-01,1,1,Here With Me,75,156346,False,0.791,0.565,5,-3.933,0,0.0439,0.0623,0.0,0.156,0.181,99.961,4,dance,,hot-100
+Hey Jude,The Beatles,1,,,2,2,Love,66,238854,False,0.462,0.632,5,-7.438,1,0.0248,0.091,0.0,0.397,0.585,74.268,4,british,,List of best-selling singles
+"Hey Look Ma, I Made It",Panic! At The Disco,47,2019-06-01,2019-06-01,1,1,Alternative Rock Mixtape,2,169666,False,0.577,0.834,5,-3.337,1,0.0689,0.0134,0.0,0.121,0.575,107.936,4,rock,,hot-100
+Hey Mama,David Guetta;Nicki Minaj;Bebe Rexha;Afrojack,8,2015-06-06,2015-06-06,1,1,Want to Want Me - 10s Pop,46,192560,False,0.596,0.73,9,-4.091,1,0.151,0.24,0.0,0.325,0.524,85.979,4,edm,,hot-100
+Hey Pretty Girl,Kip Moore,70,2013-06-01,2013-06-01,1,1,Tailgate Country,0,215920,False,0.431,0.373,2,-10.76,1,0.0277,0.16,1.41e-05,0.259,0.0884,85.548,1,country,Hey Pretty Girl,hot-100
+"Hey, Soul Sister",Train,11,2010-06-05,2010-06-05,1,1,"Save Me, San Francisco (Golden Gate Edition)",82,216773,False,0.673,0.886,1,-4.44,0,0.0431,0.185,0.0,0.0826,0.795,97.012,4,rock,Aktuelle,hot-100
+High Hopes,Panic! At The Disco,22,2019-06-01,2019-06-01,1,1,Pray for the Wicked,81,190946,False,0.579,0.904,5,-2.729,1,0.0618,0.193,0.0,0.064,0.681,82.014,4,rock,,hot-100
+High School,Nicki Minaj;Lil Wayne,78,2013-06-01,2013-06-01,1,1,Pink Friday: Roman Reloaded The Re-Up (Explicit Version),67,218746,True,0.531,0.683,1,-4.093,0,0.333,0.135,0.00265,0.22,0.212,84.817,4,dance,,hot-100
+Highway Don't Care,Tim McGraw;Taylor Swift;Keith Urban,24,2013-06-01,2013-06-01,1,1,Two Lanes Of Freedom,57,279066,False,0.477,0.79,2,-5.348,1,0.0394,0.0261,0.0,0.0841,0.505,157.797,4,country,,hot-100
+Highway to Hell,AC/DC,24,,,1,1,Highway to Hell,85,208400,False,0.574,0.913,6,-4.793,0,0.133,0.061,0.00158,0.156,0.423,115.728,4,hard-rock,,List of best-selling singles
+Hips Don't Lie (feat. Wyclef Jean),Shakira;Wyclef Jean,40,,,1,1,"Oral Fixation, Vol. 2 (Expanded Edition)",84,218093,False,0.778,0.824,10,-5.892,0,0.0707,0.284,0.0,0.405,0.758,100.024,4,dance,,List of best-selling singles
+Ho Hey,The Lumineers,33,2013-06-01,2013-06-01,1,1,The Lumineers (Deluxe Edition),79,163133,False,0.682,0.471,0,-9.182,1,0.0301,0.765,0.0,0.0908,0.421,79.907,4,folk,Familiar;Martin Bickham,hot-100
+"Honey, I'm Good.",Andy Grammer,12,2015-06-06,2015-06-06,1,1,Magazines Or Novels,48,199263,False,0.754,0.802,9,-6.424,1,0.0551,0.0349,0.0,0.335,0.583,122.026,4,rock,,hot-100
+Hot Stuff,Donna Summer,96,,,1,1,Bad Girls,67,314760,False,0.823,0.743,0,-13.98,1,0.0316,0.00559,0.0306,0.0707,0.966,120.471,4,disco,,Greatest of All Time Hot 100 Singles
+Hound Dog,Elvis Presley,26,,,1,1,Elvis' Golden Records,66,136026,False,0.494,0.756,0,-8.492,1,0.0499,0.733,0.00505,0.76,0.949,86.895,4,rock-n-roll,***Elvis Presley***;Hound Dog,List of best-selling singles
+How Deep Is Your Love,Bee Gees,27,,,1,1,Greatest,74,245200,False,0.633,0.357,5,-9.366,0,0.0264,0.105,0.0,0.133,0.674,104.938,4,disco,,Greatest of All Time Hot 100 Singles
+How Do I Live,LeAnn Rimes,6,,,1,1,Greatest Hits,69,266973,False,0.577,0.462,2,-7.989,1,0.0279,0.128,0.0,0.0822,0.258,128.303,4,country,,Greatest of All Time Hot 100 Singles
+How Not To,Dan + Shay,74,2017-06-03,2017-06-03,1,1,Finest Country,0,192000,False,0.501,0.836,11,-3.587,0,0.0488,0.208,0.0,0.152,0.617,159.849,4,country,,hot-100
+How You Remind Me,Nickelback,51,,,1,1,Silver Side Up,80,223840,False,0.446,0.764,10,-5.042,1,0.033,0.00135,0.0,0.099,0.543,172.094,4,alt-rock,,Greatest of All Time Hot 100 Singles
+Human,Rag'n'Bone Man,75,2017-06-03,2017-06-03,1,1,Human (Deluxe),78,200186,False,0.602,0.707,9,-4.097,1,0.302,0.393,0.0,0.165,0.554,75.087,4,soul,,hot-100
+I Ain't Worried,OneRepublic,78,2022-07-02,2022-07-02,1,1,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",96,148485,False,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,4,piano,,hot-100
+I Feel It Coming,The Weeknd;Daft Punk,46,2017-06-03,2017-06-03,1,1,Sunny Mornings,3,269186,False,0.773,0.82,0,-5.897,0,0.115,0.394,0.0,0.0739,0.555,92.996,4,pop,,hot-100
+I Hope,Gabby Barrett,19,2020-06-06,2021-01-02,2,1,Goldmine,74,210772,False,0.466,0.536,6,-6.227,1,0.0429,0.0951,0.0,0.114,0.377,75.998,4,country,,hot-100
+I Like It,Enrique Iglesias;Pitbull,82,2010-06-05,2010-06-05,1,1,Euphoria,64,231373,False,0.648,0.942,10,-2.881,0,0.0878,0.021,0.0,0.0594,0.73,129.007,4,latin,,hot-100
+I Like Me Better,Lauv,55,2018-06-02,2018-06-02,1,1,I met you when I was 18. (the playlist),83,197436,False,0.752,0.505,9,-7.621,1,0.253,0.535,2.55e-06,0.104,0.419,91.97,4,dance,,hot-100
+I Love It,Icona Pop;Charli XCX,9,2013-06-01,2013-06-01,1,1,Running Songs,1,155733,False,0.731,0.886,1,-3.228,1,0.027,0.0281,4.59e-06,0.226,0.797,125.992,4,edm,,hot-100
+I Love My Country,Florida Georgia Line,64,2020-06-06,2020-06-06,1,1,Country USA,0,185466,False,0.525,0.94,4,-3.546,1,0.065,0.0283,0.0,0.236,0.636,140.093,4,country,,hot-100
+I Love Rock 'N Roll,Joan Jett & the Blackhearts,80,,,1,1,I Love Rock 'N' Roll (Expanded Edition),77,175173,False,0.535,0.716,4,-5.025,1,0.0431,0.326,0.0,0.659,0.901,94.379,4,punk-rock,,Greatest of All Time Hot 100 Singles
+I Need A Doctor,Dr. Dre;Eminem;Skylar Grey,40,2011-06-04,2011-06-04,1,1,I Need A Doctor,72,283733,True,0.594,0.946,3,-4.521,1,0.452,0.0869,0.0,0.306,0.397,155.826,4,funk,,hot-100
+I Need Your Love (feat. Ellie Goulding),Calvin Harris;Ellie Goulding,58,2013-06-01,2013-06-01,1,1,18 Months,71,234506,False,0.695,0.869,8,-5.066,1,0.0483,0.41,0.0,0.237,0.58,124.989,4,electro,,hot-100
+I Really Like You,Carly Rae Jepsen,80,2015-06-06,2015-06-06,1,1,Emotion (Deluxe Expanded Edition),70,204763,False,0.62,0.805,5,-5.538,1,0.0417,0.00564,9.15e-05,0.285,0.586,122.062,4,electro,,hot-100
+I Want To Hold Your Hand,The Beatles,7,,,2,2,Love,46,82397,False,0.287,0.753,7,-7.587,1,0.0387,0.0652,0.0,0.288,0.882,130.637,4,british,,List of best-selling singles
+I Want You To Know,Zedd;Selena Gomez,69,2015-06-06,2015-06-06,1,1,True Colors,66,240000,False,0.58,0.846,9,-2.876,0,0.0573,0.00537,6.62e-06,0.145,0.366,129.998,4,edm,,hot-100
+I Won't Give Up,Jason Mraz,29,2012-06-02,2012-06-02,1,1,Love Is a Four Letter Word,69,240165,False,0.483,0.303,4,-10.058,1,0.0429,0.694,0.0,0.115,0.139,133.406,3,acoustic,,hot-100
+I Won't Let Go,Rascal Flatts,33,2011-06-04,2011-06-04,1,1,Nothing Like This,52,227760,False,0.557,0.406,4,-7.083,1,0.0278,0.742,0.0,0.113,0.222,131.96,4,country,,hot-100
+I'll Make Love To You,Boyz II Men,24,,,1,1,Los Clásicos del Pop 90s,2,245786,False,0.562,0.512,2,-6.443,1,0.0239,0.109,0.0,0.065,0.189,142.4,3,r-n-b,,Greatest of All Time Hot 100 Singles
+I'm Yours,Jason Mraz,20,,,1,1,We Sing. We Dance. We Steal Things.,80,242946,False,0.703,0.444,11,-9.331,1,0.0417,0.559,0.0,0.0973,0.712,150.96,4,acoustic,Bröllopslstan;Jason Mraz – I'm Yours,List of best-selling singles
+I'm a Believer,The Monkees,23,,,2,2,The Best of The Monkees,57,165613,False,0.502,0.772,0,-6.205,1,0.0322,0.595,2.47e-06,0.199,0.935,79.463,4,psych-rock,,List of best-selling singles
+IDGAF,Dua Lipa,51,2018-06-02,2018-06-02,1,1,Dua Lipa (Deluxe),80,217946,True,0.836,0.544,7,-5.975,1,0.0943,0.0403,0.0,0.0824,0.51,97.028,4,dance,,hot-100
+If I Can't Have You,Shawn Mendes,16,2019-06-01,2019-06-01,1,1,pov: it's 2019,0,190800,False,0.69,0.809,2,-4.198,1,0.0603,0.524,0.0,0.147,0.864,123.912,4,dance,,hot-100
+In A Minute,Lil Baby,63,2022-07-02,2022-07-02,1,1,Bad Boy Club,0,200470,True,0.643,0.605,4,-5.968,0,0.297,0.0336,0.0,0.112,0.145,84.216,4,hip-hop,,hot-100
+In Case You Didn't Know,Brett Young,23,2017-06-03,2017-06-03,1,1,Brett Young,75,224853,False,0.607,0.536,10,-7.306,1,0.0305,0.386,0.0,0.102,0.434,147.986,4,country,,hot-100
+In My Blood,Shawn Mendes,20,2018-06-02,2018-06-02,1,1,Concierto en la ducha,0,211360,False,0.622,0.711,5,-7.321,1,0.0665,0.0573,0.0,0.13,0.487,140.016,4,dance,,hot-100
+Intentions,Justin Bieber;Quavo,9,2020-06-06,2020-06-06,1,1,pov: it's 2020,0,212868,False,0.813,0.554,9,-6.631,1,0.0544,0.315,0.0,0.105,0.86,148.011,4,pop,,hot-100
+Issues,Julia Michaels,14,2017-06-03,2017-06-03,1,1,Concierto en la ducha,0,176346,False,0.722,0.417,8,-6.825,1,0.0618,0.39,0.0,0.0612,0.451,113.965,4,electro,,hot-100
+It's Now or Never,Elvis Presley,7,,,1,1,Elvis 30 #1 Hits,57,194600,False,0.643,0.491,4,-9.312,1,0.0344,0.642,0.00972,0.286,0.753,126.399,4,rock-n-roll,,List of best-selling singles
+Jack Sparrow,The Lonely Island;Michael Bolton,98,2011-06-04,2011-06-04,1,1,Turtleneck & Chain (Explicit Version),58,187746,True,0.718,0.712,8,-5.242,1,0.222,0.0225,0.0,0.0442,0.42,97.005,4,comedy,,hot-100
+Jimmy Cooks (feat. 21 Savage),Drake;21 Savage,1,2022-07-02,2022-07-02,1,1,"Honestly, Nevermind",91,218364,True,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,4,hip-hop,,hot-100
+Judas,Lady Gaga,41,2011-06-04,2011-06-04,1,1,Pop & Halloween,10,249066,False,0.661,0.937,10,-3.83,0,0.0744,0.000967,1.58e-05,0.355,0.535,130.999,4,dance,,hot-100
+Just Dance,Lady Gaga;Colby O'Donis,41,,,1,1,Halloween Party Canzoni per Bambini 2022,0,244055,False,0.813,0.74,1,-4.668,0,0.0327,0.0318,1.43e-05,0.166,0.699,118.976,4,dance,,List of best-selling singles
+Just the Way You Are,Bruno Mars,1,2011-06-04,2011-06-04,4,3,Doo-Wops & Hooligans,82,220734,False,0.635,0.841,5,-5.379,1,0.0422,0.0134,0.0,0.0622,0.424,109.021,4,dance,,List of best-selling singles
+Kings & Queens,Ava Max,41,2021-01-02,2021-01-02,1,1,Heaven & Hell,81,162398,False,0.637,0.69,1,-4.057,0,0.0405,0.00786,0.0,0.124,0.457,129.857,4,dance,,hot-100
+Knowing You,Kenny Chesney,99,2022-01-01,2022-01-01,1,1,Easy Country,0,226266,False,0.568,0.562,7,-6.12,1,0.0258,0.23,3.41e-06,0.119,0.178,125.981,3,country,,hot-100
+Kung Fu Fighting,Carl Douglas,13,,,1,1,Kung Fu Fighter,26,197935,False,0.621,0.764,2,-8.702,1,0.0578,0.146,4.97e-05,0.161,0.745,102.288,4,disco,,List of best-selling singles
+Last Christmas,Wham!,4,2021-01-02,2024-01-06,5,2,LAST CHRISTMAS,74,262960,False,0.735,0.478,2,-12.472,1,0.0293,0.189,2.48e-06,0.355,0.947,107.682,4,disco,,hot-100
+Latch,Disclosure;Sam Smith,29,2014-06-07,2014-06-07,1,1,Larga Vida al Electro,0,256040,False,0.5,0.731,1,-5.494,1,0.163,0.0179,0.000338,0.0864,0.542,121.989,4,house,,hot-100
+Let Her Go,Passenger,50,2014-06-07,2014-06-07,1,1,All the Little Lights (Deluxe),75,252733,False,0.445,0.541,7,-7.36,1,0.0736,0.359,0.0,0.109,0.217,76.289,4,folk,Sc2;arturo 1,hot-100
+Let It Snow! Let It Snow! Let It Snow!,Dean Martin,7,2021-01-02,2024-01-06,4,1,Christmas Songs 2022,3,115240,False,0.484,0.332,1,-10.312,1,0.037,0.787,0.0,0.373,0.683,134.999,4,jazz,,hot-100
+Let's Go (feat. Ne-Yo),Calvin Harris;Ne-Yo,89,2012-06-02,2012-06-02,1,1,18 Months,66,232800,False,0.71,0.882,4,-2.932,0,0.0595,0.00777,0.00771,0.294,0.875,128.016,4,progressive-house,,hot-100
+Levitating,Dua Lipa,5,2021-01-02,2021-01-02,3,3,Future Nostalgia,84,203807,False,0.695,0.884,6,-2.278,0,0.0753,0.0561,0.0,0.213,0.914,103.014,4,dance,,List of best-selling singles
+Life Goes On,Oliver Tree,81,2022-01-01,2022-01-01,1,1,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",79,161803,False,0.7,0.49,0,-5.187,1,0.076,0.186,0.0,0.117,0.569,79.982,4,alternative,,hot-100
+Lights,Ellie Goulding,22,2012-06-02,2012-06-02,1,1,Old But Gold,66,245853,False,0.699,0.732,8,-6.307,0,0.0304,0.0771,0.00198,0.131,0.676,120.028,4,edm,Electric Electronic Awesomeness,hot-100
+Linus And Lucy,Vince Guaraldi Trio,37,2022-01-01,2022-01-01,1,1,Best Christmas Playlist Ever 2022,0,185453,False,0.497,0.386,8,-14.177,1,0.038,0.784,0.927,0.167,0.695,81.774,4,jazz,DW Emotion Exercise - Joy,hot-100
+Little Saint Nick,The Beach Boys,25,2021-01-02,2024-01-06,4,1,Classic Christmas Greatest Hits,0,120226,False,0.551,0.424,6,-10.73,1,0.0353,0.637,0.0,0.165,0.925,131.746,4,psych-rock,,hot-100
+Little Talks,Of Monsters and Men,81,2012-06-02,2012-06-02,1,1,10's Music Grandi Successi,0,266333,False,0.446,0.76,1,-4.725,1,0.0321,0.0159,0.0,0.319,0.346,103.295,4,folk,I don't know;Sc2,hot-100
+Livin' On A Prayer,Bon Jovi,12,,,1,1,Обратно в клас - rock,1,250626,False,0.527,0.89,0,-3.335,1,0.0338,0.0678,0.000162,0.222,0.818,122.494,4,metal,Daddy's Rock n Roll ;Foute Bon Jovi;New Cover Down,List of best-selling singles
+Locked out of Heaven,Bruno Mars,37,2013-06-01,2013-06-01,1,1,Unorthodox Jukebox,87,233478,False,0.726,0.698,5,-4.165,1,0.0431,0.049,0.0,0.309,0.867,143.994,4,dance,,hot-100
+Look At Me!,XXXTENTACION,49,2017-06-03,2017-06-03,1,1,Look At Me!,82,126345,True,0.763,0.726,1,-6.405,1,0.282,0.259,0.0,0.0976,0.349,139.059,4,emo,,hot-100
+Love Me Like You Do,Ellie Goulding,11,2015-06-06,2015-06-06,2,2,Fifty Shades Freed (Original Motion Picture Soundtrack),79,253520,False,0.489,0.597,5,-6.633,0,0.0292,0.27,0.0,0.105,0.324,95.012,4,dance,,hot-100
+Love Me More,Sam Smith,97,2022-07-02,2022-07-02,1,1,LUGNA LÅTAR,3,190658,False,0.791,0.439,10,-5.62,1,0.0645,0.302,1.85e-05,0.126,0.559,85.004,4,dance,,hot-100
+Love Runs Out,OneRepublic,34,2014-06-07,2014-06-07,1,1,Native,64,224853,False,0.715,0.931,7,-3.793,1,0.0565,0.171,0.0,0.0757,0.742,120.025,4,piano,,hot-100
+Love Story,Taylor Swift,16,,,1,1,Fearless (Big Machine Radio Release Special),77,236266,False,0.617,0.741,2,-3.97,1,0.0311,0.131,0.0,0.0772,0.306,118.984,4,pop,Love Story,List of best-selling singles
+Love Yourself,Justin Bieber,11,2016-06-04,2016-06-04,2,2,Purpose (Deluxe),84,233720,False,0.609,0.378,4,-9.828,1,0.438,0.835,0.0,0.28,0.515,100.418,4,pop,,hot-100
+Lover,Taylor Swift,63,2025-11-08,2025-11-08,1,1,Autumn Vibes 2022,0,221306,False,0.359,0.543,7,-7.582,1,0.0915,0.492,1.57e-05,0.118,0.453,68.505,4,pop,,billboard-200
+Low,Flo Rida;T-Pain,22,,,2,2,Pop Station,0,231400,False,0.918,0.609,10,-5.64,0,0.0787,0.0914,0.0,0.139,0.305,128.007,4,dance,,List of best-selling singles
+MONTERO (Call Me By Your Name),Lil Nas X,24,,,1,1,MONTERO,83,137704,True,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,4,hip-hop,,List of best-selling singles
+Mack the Knife,Bobby Darin,4,,,1,1,That's All,62,184333,False,0.549,0.529,3,-12.291,0,0.108,0.76,0.0,0.206,0.464,82.755,4,rockabilly,,Greatest of All Time Hot 100 Singles
+Mask Off,Future,7,2017-06-03,2017-06-03,1,1,FUTURE,83,204600,True,0.833,0.434,2,-8.795,1,0.431,0.0102,0.0219,0.165,0.281,150.062,4,hip-hop,,hot-100
+Me And My Broken Heart,Rixton,21,2014-06-07,2014-06-07,1,1,Let The Road,79,193733,False,0.545,0.783,5,-4.261,0,0.0345,0.00489,0.0,0.132,0.551,174.084,4,dance,,hot-100
+Memories,Maroon 5,36,2020-06-06,2020-06-06,1,1,JORDI (Deluxe),85,189486,False,0.775,0.327,11,-7.241,1,0.0557,0.841,0.0,0.0821,0.595,91.05,4,pop,,hot-100
+Mercy,Brett Young,71,2018-06-02,2018-06-02,1,1,Sad Country Songs,2,217120,False,0.638,0.367,4,-7.906,1,0.0266,0.84,0.0,0.0999,0.219,71.957,4,country,,hot-100
+Middle,DJ Snake;Bipolar Sunshine,38,2016-06-04,2016-06-04,1,1,Mientras hago aromaterapia,0,220746,False,0.585,0.73,1,-4.038,0,0.0406,0.0171,0.0,0.0488,0.222,104.824,4,dance,,hot-100
+Midnight City,M83,78,2012-06-02,2012-06-02,1,1,"Hurry up, We're Dreaming",76,243960,False,0.507,0.729,11,-5.399,0,0.0393,0.0182,1.4e-06,0.0658,0.272,105.013,4,french,Loop Infinito,hot-100
+Mine,Bazzi,18,2018-06-02,2018-06-02,1,1,COSMIC,76,131064,True,0.71,0.789,4,-3.874,1,0.0722,0.0161,2.77e-06,0.451,0.717,142.929,4,dance,,hot-100
+Mistletoe,Justin Bieber,37,2022-01-01,2024-01-06,2,1,Holidays Are Coming,2,183066,False,0.623,0.668,6,-7.282,0,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop,,hot-100
+Mood (feat. iann dior),24kGoldn;iann dior,7,2021-01-02,2021-01-02,2,2,El Dorado,83,140533,True,0.701,0.716,7,-3.671,0,0.0361,0.174,0.0,0.324,0.732,91.007,4,pop,,hot-100
+Moonlight,XXXTENTACION,94,2018-06-02,2018-06-02,1,1,?,83,135090,True,0.921,0.537,9,-5.723,0,0.0804,0.556,0.00404,0.102,0.711,128.009,4,emo,,hot-100
+Moscow Mule,Bad Bunny,32,2022-07-02,2022-07-02,1,1,Un Verano Sin Ti,94,245939,True,0.804,0.674,5,-5.453,0,0.0333,0.294,1.18e-06,0.115,0.292,99.968,4,latin,,hot-100
+My Church,Maren Morris,64,2016-06-04,2016-06-04,1,1,HERO (Deluxe Edition),69,197930,False,0.517,0.743,9,-4.336,1,0.0363,0.243,3.36e-06,0.107,0.664,76.979,4,country,,hot-100
+My Oh My (feat. DaBaby),Camila Cabello;DaBaby,31,2020-06-06,2020-06-06,1,1,Romance,76,170746,False,0.724,0.491,8,-6.024,1,0.0296,0.018,1.29e-05,0.0887,0.383,105.046,4,dance,,hot-100
+My Sharona,The Knack,30,,,1,1,Get The Knack,75,295400,False,0.586,0.7,0,-9.558,1,0.0363,0.0589,0.00125,0.0318,0.897,147.245,4,power-pop,New Cover Down,List of best-selling singles
+My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,15,2013-06-01,2013-06-01,1,1,Halloween 2022,0,186826,False,0.557,0.924,9,-4.341,0,0.064,0.0271,3.32e-06,0.537,0.566,151.988,4,emo,,hot-100
+N95,Kendrick Lamar,96,2022-07-02,2022-07-02,1,1,Mr. Morale & The Big Steppers,83,195950,True,0.79,0.67,1,-5.527,1,0.105,0.377,2.32e-06,0.119,0.408,139.956,4,hip-hop,,hot-100
+Need to Know,Doja Cat,24,2022-01-01,2022-01-01,1,1,Planet Her,84,210560,True,0.664,0.609,1,-6.509,1,0.0707,0.304,0.0,0.0926,0.194,130.041,4,dance,,hot-100
+Never Be the Same,Camila Cabello,13,2018-06-02,2018-06-02,1,1,Camila,74,226973,False,0.637,0.713,0,-4.333,1,0.0747,0.181,0.000637,0.137,0.243,129.923,4,dance,,hot-100
+New Rules,Dua Lipa,31,2018-06-02,2018-06-02,1,1,Dua Lipa (Deluxe),81,209320,False,0.762,0.7,9,-6.021,0,0.0694,0.00261,1.56e-05,0.153,0.608,116.073,4,dance,,hot-100
+Next Thing You Know,Jordan Davis,28,2023-07-01,2023-07-01,1,1,Next Thing You Know,75,175237,False,0.557,0.597,5,-8.296,1,0.048,0.646,0.0,0.0974,0.414,78.526,4,country,,hot-100
+Nightmare,Avenged Sevenfold,51,2010-06-05,2010-06-05,1,1,Nightmare,72,374453,True,0.554,0.949,2,-4.928,1,0.0787,0.000318,9.98e-05,0.2,0.233,129.984,4,alternative,,hot-100
+Nightmare,Halsey,15,2019-06-01,2019-06-01,1,1,Nightmare,68,231998,True,0.611,0.622,9,-5.075,0,0.0734,0.0188,0.0,0.359,0.538,146.11,4,electro,,hot-100
+No One,Alicia Keys,59,,,1,1,As I Am (Expanded Edition),78,253813,False,0.644,0.549,1,-5.415,0,0.0285,0.0209,8.85e-06,0.134,0.167,90.04,4,soul,,Greatest of All Time Hot 100 Singles
+No Promises (feat. Demi Lovato),Cheat Codes;Demi Lovato,95,2017-06-03,2017-06-03,1,1,No Promises (feat. Demi Lovato),67,223503,False,0.741,0.667,10,-5.445,1,0.134,0.0575,0.0,0.106,0.595,112.956,4,edm,,hot-100
+Not Afraid,Eminem,9,2010-06-05,2010-06-05,1,1,Recovery,81,248133,True,0.855,0.954,0,-1.19,0,0.264,0.529,0.0,0.205,0.668,114.635,5,hip-hop,Not Afraid;Not Afraid - Explicit Version,hot-100
+Now Or Never,Halsey,38,2017-06-03,2017-06-03,1,1,hopeless fountain kingdom (Deluxe),67,214801,False,0.67,0.585,6,-4.861,0,0.0354,0.107,1.11e-06,0.131,0.447,110.03,4,indie-pop,,hot-100
+Numb Little Bug,Em Beihold,27,2022-07-02,2022-07-02,1,1,Numb Little Bug,78,169237,False,0.742,0.527,8,-6.892,0,0.0769,0.327,0.0,0.25,0.638,84.974,4,singer-songwriter,,hot-100
+Oh My God,Adele,57,2022-01-01,2022-01-01,1,1,30,82,225148,False,0.534,0.725,1,-3.906,1,0.046,0.091,0.0,0.0264,0.55,88.098,4,british,,hot-100
+Old Town Road,Lil Nas X,1,2019-06-01,2019-06-01,3,3,7 EP,77,113000,False,0.907,0.53,1,-6.112,1,0.127,0.0578,2.23e-06,0.101,0.507,135.998,4,hip-hop,,hot-100
+On My Way to You,Cody Johnson,95,2019-06-01,2019-06-01,1,1,Single Saturday Night - Country Songs,0,213306,False,0.445,0.537,1,-5.477,1,0.0311,0.331,5e-05,0.0866,0.246,157.98,4,country,,hot-100
+On The Floor,Jennifer Lopez;Pitbull,5,2011-06-04,2011-06-04,1,1,Love?,79,284866,False,0.73,0.777,3,-5.194,0,0.0496,0.105,0.000478,0.0691,0.575,130.0,4,dance,,hot-100
+On Top Of The World,Imagine Dragons,90,2014-06-07,2014-06-07,1,1,Autumn Vibes 2022,0,192800,False,0.588,0.925,0,-5.584,1,0.16,0.0897,4.89e-06,0.0881,0.759,99.83,4,rock,,hot-100
+One Call Away,Charlie Puth,42,2016-06-04,2016-06-04,1,1,Music for Rainy Days,0,194453,False,0.667,0.613,1,-5.353,1,0.0345,0.4,0.0,0.115,0.472,91.024,4,dance,,hot-100
+One Dance,Drake;Wizkid;Kyla,1,2016-06-04,2016-06-04,3,2,Views,66,173973,False,0.788,0.605,1,-5.586,1,0.0578,0.00899,0.00275,0.318,0.427,103.94,4,hip-hop,,List of best-selling singles;hot-100
+One Last Time,Ariana Grande,40,2015-06-06,2015-06-06,1,1,My Everything (Deluxe),83,197266,False,0.628,0.593,8,-5.036,1,0.0323,0.093,1.65e-06,0.096,0.104,125.026,4,dance,,hot-100
+PILLOWTALK,ZAYN,9,2016-06-04,2016-06-04,1,1,Mind Of Mine (Deluxe Edition),78,202746,True,0.584,0.7,11,-4.275,1,0.0456,0.117,0.0,0.0939,0.438,124.944,4,dance,,hot-100
+PROVENZA,KAROL G,40,2022-07-02,2022-07-02,1,1,Verano en Junio,0,210200,False,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,4,reggae,,hot-100
+Paris,The Chainsmokers,42,2017-06-03,2017-06-03,1,1,Memories...Do Not Open,74,221506,False,0.653,0.658,2,-6.428,1,0.0304,0.0215,1.66e-06,0.0939,0.219,99.99,4,dance,,hot-100
+Payphone,Maroon 5;Wiz Khalifa,3,2012-06-02,2012-06-02,1,1,Overexposed Track By Track,84,231173,True,0.743,0.752,4,-4.813,1,0.0414,0.0188,0.0,0.287,0.545,110.015,4,pop,,hot-100
+Peaches (feat. Daniel Caesar & Giveon),Justin Bieber;Daniel Caesar;Giveon,18,,,1,1,Justice,86,198081,True,0.677,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,0.464,90.03,4,pop,,List of best-selling singles
+Perfect,Ed Sheeran,6,2018-06-02,2018-06-02,3,3,÷ (Deluxe),87,263400,False,0.599,0.448,8,-6.312,1,0.0232,0.163,0.0,0.106,0.168,95.05,3,pop,,List of best-selling singles
+Photograph,Ed Sheeran,58,2015-06-06,2015-06-06,1,1,x (Deluxe Edition),85,258986,False,0.614,0.379,4,-10.48,1,0.0476,0.607,0.000464,0.0986,0.201,107.989,4,pop,,hot-100
+Pick Me Up,Gabby Barrett,96,2023-01-07,2023-01-07,1,1,Country Car Hits,0,169440,False,0.472,0.701,2,-4.563,1,0.0369,0.0387,0.0,0.107,0.515,79.805,4,country,,hot-100
+Play It Again,Luke Bryan,18,2014-06-07,2014-06-07,1,1,Crash My Party,75,226866,False,0.506,0.886,11,-3.225,1,0.0655,0.0916,0.0,0.0734,0.595,143.935,4,country,,hot-100
+Poker Face,Lady Gaga,1,,,2,1,Workout Hits 2023,3,238906,False,0.851,0.818,4,-4.637,1,0.0789,0.112,2.94e-06,0.0945,0.808,119.006,4,dance,,List of best-selling singles
+Pompeii,Bastille,19,2014-06-07,2014-06-07,1,1,10's Music Grandi Successi,1,216760,False,0.68,0.711,9,-6.371,1,0.0414,0.0918,0.0,0.241,0.571,127.436,4,rock,Gredos;Salvapantallas con ilustraciones de iTunes;music de jeu,hot-100
+Pumped Up Kicks,Foster The People,73,2011-06-04,2011-06-04,1,1,Torches,84,239600,False,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,4,indie,,hot-100
+Put Your Records On,Ritt Momney,100,2021-01-02,2021-01-02,1,1,Put Your Records On,77,210463,False,0.399,0.491,6,-10.778,0,0.0538,0.0563,0.00089,0.11,0.151,91.066,4,indie-pop,,hot-100
+ROCKSTAR,DaBaby;Roddy Ricch,3,2020-06-06,2020-06-06,1,1,Drippy Drippy,1,181733,True,0.746,0.69,11,-7.956,1,0.164,0.247,0.0,0.101,0.497,89.979,4,hip-hop,,hot-100
+Radioactive,Imagine Dragons,8,2013-06-01,2013-06-01,1,1,Night Visions,80,186813,False,0.448,0.784,9,-3.686,1,0.0627,0.106,0.000108,0.668,0.236,136.245,4,rock,Gredos;New Wave 2013;Party modern rock,hot-100
+Rain Is A Good Thing,Luke Bryan,55,2010-06-05,2010-06-05,1,1,Artsy & Colourful,0,176160,False,0.622,0.931,11,-4.66,0,0.0507,0.106,2.45e-06,0.328,0.521,108.051,4,country,,hot-100
+Renegades,X Ambassadors,98,2015-06-06,2015-06-06,1,1,VHS,76,195200,False,0.526,0.862,2,-6.003,1,0.0905,0.0144,0.0597,0.229,0.528,90.052,4,alt-rock,,hot-100
+Ride,Twenty One Pilots,36,2016-06-04,2016-06-04,1,1,Blurryface,82,214506,False,0.645,0.713,6,-5.355,1,0.0393,0.00835,0.0,0.113,0.566,74.989,4,rock,,hot-100
+Ride It,Regard,75,2020-06-06,2020-06-06,1,1,Ride It,81,157605,False,0.88,0.751,7,-4.258,0,0.0874,0.177,6.43e-05,0.106,0.884,117.948,4,edm,,hot-100
+Rivers of Babylon,Boney M.,28,,,1,1,Nightflight to Venus,68,261266,False,0.729,0.851,7,-7.033,1,0.0362,0.13,0.000912,0.443,0.741,115.118,4,disco,Parroquia,List of best-selling singles
+Rock Around The Clock,Bill Haley & His Comets,5,,,1,1,Biggest Hits,53,137000,False,0.609,0.526,9,-13.106,1,0.43,0.139,0.0,0.0946,0.93,173.179,4,rockabilly,,List of best-selling singles
+Rock Your Baby,George McCrae,14,,,1,1,The Singles 1974 - 76,62,200053,False,0.594,0.906,1,-5.536,1,0.0594,0.169,0.00122,0.0778,0.892,104.411,4,disco,,List of best-selling singles
+Rock and A Hard Place,Bailey Zimmerman,23,2022-07-02,2023-07-01,3,1,Rock and A Hard Place,84,207540,False,0.582,0.568,1,-7.3,1,0.0275,0.577,0.0,0.105,0.394,121.991,3,country,,hot-100
+Rockabye,Clean Bandit;Sean Paul;Anne-Marie,28,2017-06-03,2017-06-03,1,1,Cardio Tracks,4,250456,True,0.724,0.759,9,-3.996,0,0.0544,0.411,0.0,0.437,0.765,101.943,4,edm,,hot-100
+Rockin' Around The Christmas Tree,Brenda Lee,1,2021-01-02,2024-01-06,5,2,Country Christmas Greatest Hits,1,124906,False,0.708,0.593,8,-6.167,1,0.046,0.764,0.0,0.484,0.856,140.508,4,rockabilly,,hot-100
+Rockin' Around The Christmas Tree,Justin Bieber,61,2021-01-02,2021-01-02,1,1,Pop Christmas 2022,0,132732,False,0.464,0.642,5,-3.656,1,0.032,0.0189,0.0,0.0957,0.828,151.592,4,pop,,hot-100
+Rolling In The Deep (feat. Jonathan Groff),Glee Cast;Jonathan Groff,90,2011-06-04,2011-06-04,1,1,"Glee: The Music, Volume 6",46,204600,False,0.42,0.454,8,-5.993,0,0.0471,0.753,0.0,0.334,0.655,96.558,1,club,,hot-100
+Rolling in the Deep,Adele,1,2011-06-04,2011-06-04,3,3,21,81,228093,True,0.73,0.769,8,-5.114,1,0.0298,0.138,0.0,0.0473,0.507,104.948,4,british,adele faves,hot-100
+Rope,Foo Fighters,93,2011-06-04,2011-06-04,1,1,Wasting Light,61,259026,False,0.507,0.728,11,-4.874,0,0.0382,2.52e-05,7.41e-05,0.0725,0.535,138.19,4,grunge,,hot-100
+Roses,SAINt JHN,14,2020-06-06,2020-06-06,2,2,Collection One,62,173610,True,0.782,0.5,5,-6.473,0,0.0611,0.342,1.88e-05,0.133,0.28,102.008,4,house,,hot-100
+Roses,The Chainsmokers;ROZES,48,2016-06-04,2016-06-04,1,1,Roses,74,226738,False,0.713,0.802,4,-7.055,1,0.0561,0.0435,0.00377,0.309,0.343,100.001,4,edm,,hot-100
+Rude,MAGIC!,15,2014-06-07,2014-06-07,1,1,Don't Kill the Magic,81,224840,False,0.773,0.758,1,-4.993,1,0.0381,0.0422,0.0,0.305,0.925,144.033,4,reggae,,hot-100
+Rumour Has It,Adele,21,2012-06-02,2012-06-02,1,1,21,67,223266,False,0.612,0.749,0,-5.014,1,0.0446,0.615,0.0,0.167,0.574,120.052,4,british,,hot-100
+Run Rudolph Run,Chuck Berry,10,2021-01-02,2024-01-06,4,1,CHRISTMAS TOP HITS 2022,0,162897,False,0.647,0.876,10,-5.662,1,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,blues,,hot-100
+Running Up That Hill (A Deal With God),Kate Bush,9,2022-07-02,2022-07-02,1,1,Hounds Of Love,90,298933,False,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4,piano,,hot-100
+SAD!,XXXTENTACION,32,2018-06-02,2018-06-02,1,1,?,83,166605,True,0.74,0.613,8,-4.88,1,0.145,0.258,0.00372,0.123,0.473,75.023,4,emo,,hot-100
+SICKO MODE,Travis Scott,32,2019-06-01,2019-06-01,1,1,ASTROWORLD,83,312820,True,0.834,0.73,8,-3.714,1,0.222,0.00513,0.0,0.124,0.446,155.008,4,hip-hop,,hot-100
+STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,78,2023-01-07,2023-01-07,1,1,STAR WALKIN' (League of Legends Worlds Anthem),90,210575,True,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,4,hip-hop,,hot-100
+Safe And Sound,Capital Cities,90,2013-06-01,2013-06-01,1,1,In A Tidal Wave Of Mystery (Deluxe Edition),83,192789,False,0.655,0.819,0,-4.852,1,0.0316,0.000176,0.00374,0.104,0.766,117.956,5,rock,Capital Cities – Safe And Sound,hot-100
+Safety Dance,Glee Cast,81,2010-06-05,2010-06-05,1,1,Glee The 3D Concert Movie (Motion Picture Soundtrack),20,154626,False,0.609,0.947,8,-5.823,0,0.234,0.0389,0.0,0.956,0.177,105.012,4,club,,hot-100
+Santa Baby,Eartha Kitt,20,2022-01-01,2024-01-06,3,1,Classic Christmas Greatest Hits,0,168949,False,0.467,0.237,5,-13.373,0,0.0542,0.892,3.46e-06,0.148,0.388,101.759,4,jazz,,hot-100
+Save Your Tears,The Weeknd,1,,,2,1,After Hours,89,215626,True,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,4,pop,,List of best-selling singles
+Say So,Doja Cat,5,2020-06-06,2020-06-06,1,1,Hot Pink,79,237893,True,0.787,0.673,11,-4.583,0,0.159,0.264,3.35e-06,0.0904,0.779,110.962,4,dance,,hot-100
+Say You Won't Let Go,James Arthur,11,2017-06-03,2017-06-03,1,1,Back from the Edge,85,211466,False,0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,0.494,85.043,4,pop,,hot-100
+Scars To Your Beautiful,Alessia Cara,41,2017-06-03,2017-06-03,1,1,Know-It-All (Deluxe),74,230226,False,0.319,0.739,0,-5.74,1,0.272,0.0285,0.0,0.111,0.449,194.169,4,dance,,hot-100
+See You Again,Wiz Khalifa;Charlie Puth,1,2015-06-06,2015-06-06,3,2,Give You Love - Cozy Hits,2,229525,False,0.69,0.48,10,-7.503,1,0.0816,0.369,0.0,0.0649,0.286,80.025,4,dance,,List of best-selling singles
+September,"Earth, Wind & Fire",22,,,1,1,"The Best Of Earth, Wind & Fire Vol. 1",83,215093,False,0.697,0.832,9,-7.264,1,0.0298,0.168,0.00131,0.269,0.979,125.926,4,disco,Phunk,List of best-selling singles
+Set Fire to the Rain,Adele,35,2012-06-02,2012-06-02,1,1,21,80,242973,False,0.603,0.67,2,-3.882,0,0.0249,0.00408,1.68e-06,0.112,0.446,107.993,4,british,Set Fire to the Rain;adele faves,hot-100
+Shape of You,Ed Sheeran,1,2017-06-03,2017-06-03,4,3,÷ (Deluxe),86,233712,False,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,4,pop,,List of best-selling singles
+She Had Me At Heads Carolina,Cole Swindell,76,2022-07-02,2022-07-02,1,1,Stereotype,82,206106,False,0.607,0.912,8,-3.449,1,0.0611,0.124,0.0,0.332,0.722,134.944,4,country,,hot-100
+Shivers,Ed Sheeran,23,2022-01-01,2022-07-02,2,1,Today's Party Hits,0,207853,False,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,4,pop,,hot-100
+Shut Up and Dance,WALK THE MOON,4,2015-06-06,2015-06-06,1,1,TALKING IS HARD,83,199080,False,0.578,0.866,1,-3.804,1,0.0619,0.00701,0.0,0.257,0.619,128.038,4,alt-rock,,hot-100
+Singles You Up,Jordan Davis,78,2018-06-02,2018-06-02,1,1,Mientras hago aromaterapia,0,182693,False,0.634,0.903,7,-3.588,1,0.0323,0.0465,0.0,0.255,0.559,100.083,4,country,,hot-100
+Slide (feat. Frank Ocean & Migos),Calvin Harris;Frank Ocean;Migos,25,2017-06-03,2017-06-03,1,1,Slide (feat. Frank Ocean & Migos),72,230813,True,0.736,0.795,1,-3.299,0,0.0545,0.498,1.21e-06,0.254,0.511,104.066,4,electro,,hot-100
+Smells Like Teen Spirit,Nirvana,7,,,1,1,Nevermind (Remastered),83,301920,False,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,4,alt-rock,Gitarsanger;Nevermind;Nirvana - Never Mind;Nirvana – Nevermind (Remastered),List of best-selling singles
+Smooth (feat. Rob Thomas),Santana;Rob Thomas,3,,,1,1,Supernatural (Remastered),69,294986,False,0.609,0.923,9,-3.908,1,0.0338,0.16,4.73e-06,0.295,0.961,115.996,4,blues,,Greatest of All Time Hot 100 Singles
+So Good,Halsey,87,2022-07-02,2022-07-02,1,1,So Good,77,176058,False,0.576,0.627,3,-4.649,0,0.0449,0.0385,0.0,0.181,0.311,164.998,4,dance,,hot-100
+Someone Like You,Adele,18,,,1,1,21,81,285240,False,0.556,0.319,9,-8.251,1,0.0281,0.893,0.0,0.0996,0.294,135.187,4,british,Gitarrlåtar;adele faves,List of best-selling singles
+Someone You Loved,Lewis Capaldi,80,2019-06-01,2019-06-01,1,1,Divinely Uninspired To A Hellish Extent,87,182160,False,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,4,pop,,hot-100
+Something in the Orange,Zach Bryan,14,2022-07-02,2023-07-01,3,1,New Country,3,228013,False,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country,,hot-100
+Sorry,Justin Bieber,29,2016-06-04,2016-06-04,2,2,Fiesta de disfraces vol. II,0,200786,False,0.679,0.748,0,-3.624,0,0.0385,0.0878,0.0,0.299,0.438,100.035,4,pop,,hot-100
+Starboy,The Weeknd;Daft Punk,84,2025-11-08,2025-11-08,1,1,Starboy,90,230453,True,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,4,pop,,billboard-200
+Stayin Alive,Bee Gees,66,,,1,1,How Can You Mend A Broken Heart,80,285373,False,0.702,0.773,10,-9.256,0,0.0343,0.0288,0.00871,0.147,0.953,103.564,4,disco,,Greatest of All Time Hot 100 Singles
+Stitches,Shawn Mendes,41,2016-06-04,2016-06-04,1,1,Handwritten,80,206880,False,0.746,0.754,1,-6.684,1,0.0676,0.0152,0.0,0.0486,0.746,149.882,4,dance,,hot-100
+Story of My Life,One Direction,49,2014-06-07,2014-06-07,1,1,Midnight Memories (Deluxe),83,245493,False,0.6,0.663,3,-5.802,1,0.0477,0.225,0.0,0.119,0.286,121.07,4,pop,Hfdjj;One Direction — Story of My Life,hot-100
+Stressed Out,Twenty One Pilots,15,2015-06-06,2016-06-04,2,1,Blurryface,85,202333,False,0.734,0.637,4,-5.677,0,0.141,0.0462,2.29e-05,0.0602,0.648,169.977,4,rock,,hot-100
+Sucker,Jonas Brothers,4,2019-06-01,2019-06-01,1,1,Happiness Begins,81,181026,False,0.842,0.734,1,-5.065,0,0.0588,0.0427,0.0,0.106,0.952,137.958,4,dance,,hot-100
+Sugar Sugar,The Archies,1,,,2,2,Everything's Archie,69,167213,False,0.757,0.725,2,-7.259,1,0.0275,0.399,0.0,0.108,0.965,122.439,4,r-n-b,,List of best-selling singles
+Summer,Calvin Harris,12,2014-06-07,2014-06-07,1,1,Motion,82,222533,False,0.596,0.856,4,-3.556,0,0.0346,0.0211,0.0178,0.141,0.743,127.949,4,electro,Calvin Harris - Summer,hot-100
+Sunday Best,Surfaces,24,2020-06-06,2020-06-06,1,1,Where the Light Is,77,158571,False,0.878,0.525,5,-6.832,1,0.0578,0.183,0.0,0.0714,0.694,112.022,4,soul,,hot-100
+Super Freaky Girl,Nicki Minaj,51,2023-01-07,2023-01-07,1,1,Super Freaky Girl,92,170977,True,0.95,0.891,2,-2.653,1,0.241,0.0645,1.77e-05,0.309,0.912,133.01,4,dance,,hot-100
+Super Gremlin,Kodak Black,26,2022-01-01,2022-07-02,2,1,"#Multiverse, If the Multiverse Is Real",4,200547,True,0.825,0.414,2,-6.634,1,0.144,0.00265,0.0,0.357,0.106,72.993,4,hip-hop,,hot-100
+Swalla (feat. Nicki Minaj & Ty Dolla $ign),Jason Derulo;Nicki Minaj;Ty Dolla $ign,36,2017-06-03,2017-06-03,1,1,Swalla (feat. Nicki Minaj & Ty Dolla $ign),76,216408,True,0.696,0.817,1,-3.862,1,0.109,0.075,0.0,0.187,0.782,98.064,4,dance,,hot-100
+Sweet but Psycho,Ava Max,10,2019-06-01,2019-06-01,1,1,Heaven & Hell,81,187436,False,0.72,0.706,1,-4.719,1,0.0473,0.0684,0.0,0.166,0.62,133.002,4,dance,,hot-100
+THATS WHAT I WANT,Lil Nas X,37,2022-01-01,2022-07-02,2,1,MONTERO,87,143901,True,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,0.546,87.981,4,hip-hop,,hot-100
+Take Me Home for Christmas,Dan + Shay,48,2021-01-02,2021-01-02,1,1,Country Christmas Time,1,203880,False,0.694,0.769,6,-4.665,1,0.0325,0.163,0.0,0.0976,0.663,93.033,4,country,,hot-100
+Take Me To Church,Hozier,48,2015-06-06,2015-06-06,1,1,Hozier,83,241688,False,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,4,singer-songwriter,nya låtar,hot-100
+Take My Name,Parmalee,43,2022-07-02,2022-07-02,1,1,For You,33,157906,False,0.559,0.66,7,-4.143,1,0.0512,0.222,0.0,0.193,0.574,163.957,4,country,,hot-100
+Talking Body,Tove Lo,13,2015-06-06,2015-06-06,1,1,Queen Of The Clouds,67,238426,True,0.736,0.761,4,-5.449,0,0.0338,0.0966,0.0,0.0823,0.114,119.999,4,electro,Tove Lo - Talking Body,hot-100
+Tennessee Orange,Megan Moroney,43,2023-07-01,2023-07-01,1,1,Tennessee Orange,78,223119,False,0.38,0.488,9,-6.637,1,0.029,0.126,7.23e-06,0.115,0.268,156.031,3,country,,hot-100
+Tequila,Dan + Shay,44,2018-06-02,2018-06-02,1,1,Dan + Shay,72,196746,False,0.489,0.581,11,-5.731,1,0.0281,0.0312,0.0,0.132,0.494,86.016,4,country,,hot-100
+Thank God,Kane Brown;Katelyn Brown,50,2023-01-07,2023-07-01,2,1,Different Man,78,174560,False,0.738,0.455,3,-8.735,1,0.0352,0.695,0.0,0.107,0.441,99.945,4,country,,hot-100
+That's What I Like,Bruno Mars,2,2017-06-03,2017-06-03,1,1,24K Magic,83,206693,False,0.853,0.56,1,-4.961,1,0.0406,0.013,0.0,0.0944,0.86,134.066,4,dance,,hot-100
+The Bones,Maren Morris,13,2020-06-06,2020-06-06,1,1,GIRL,75,197293,False,0.612,0.57,11,-6.642,0,0.0347,0.278,0.0,0.0963,0.334,77.004,4,country,,hot-100
+The Cave,Mumford & Sons,76,2011-06-04,2011-06-04,1,1,Sigh No More,62,215626,False,0.592,0.499,4,-9.463,1,0.0375,0.0536,4.52e-05,0.113,0.346,141.937,4,folk,Grammy's Awards;The Cave,hot-100
+The Christmas Song (Merry Christmas To You),Nat King Cole,9,2021-01-02,2024-01-06,4,1,World's Best Christmas Playlist,1,192160,False,0.32,0.21,6,-15.231,1,0.0345,0.92,8.01e-05,0.138,0.208,73.196,5,jazz,,hot-100
+The Cure,Lady Gaga,53,2017-06-03,2017-06-03,1,1,Concierto en la ducha,0,211363,False,0.696,0.506,8,-4.863,1,0.0325,0.0799,0.0,0.0893,0.516,100.003,4,dance,,hot-100
+The Edge Of Glory,Lady Gaga,19,2011-06-04,2011-06-04,1,1,Workout Hits 2023,3,320626,False,0.583,0.766,9,-6.47,1,0.0408,0.000348,0.0125,0.108,0.395,127.95,4,dance,,hot-100
+The First Noel,Gabby Barrett,78,2021-01-02,2021-01-02,1,1,Country Christmas Time,0,261303,False,0.458,0.351,10,-6.049,1,0.0244,0.696,0.0,0.143,0.102,79.993,3,country,,hot-100
+The Kind of Love We Make,Luke Combs,18,2022-07-02,2022-07-02,1,1,The Kind of Love We Make,82,224426,False,0.608,0.745,1,-4.13,1,0.0277,0.0226,6.47e-06,0.0942,0.464,102.025,4,country,,hot-100
+The Sound of Silence,Disturbed,66,2016-06-04,2016-06-04,1,1,Immortalized,41,248466,False,0.322,0.28,6,-9.367,0,0.0281,0.468,1.1e-06,0.102,0.175,85.794,4,alternative,,hot-100
+The Twist,Chubby Checker,2,,,1,1,Dancin' Party: The Chubby Checker Collection (1960-1966),62,155040,False,0.571,0.618,4,-5.682,1,0.0371,0.18,2.69e-06,0.178,0.852,156.892,4,rock-n-roll,,Greatest of All Time Hot 100 Singles
+There's Nothing Holdin' Me Back,Shawn Mendes,32,2017-06-03,2017-06-03,1,1,Illuminate (Deluxe),86,199440,False,0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,0.969,121.998,4,dance,,hot-100
+Therefore I Am,Billie Eilish,42,2021-01-02,2021-01-02,1,1,pov: it's 2021,2,174321,False,0.889,0.34,11,-7.773,0,0.0697,0.218,0.13,0.055,0.716,94.009,4,electro,,hot-100
+This Afternoon,Nickelback,46,2010-06-05,2010-06-05,1,1,Dark Horse,60,273493,False,0.507,0.875,7,-7.697,1,0.0389,0.00257,0.0,0.346,0.647,160.079,4,grunge,,hot-100
+This Is What You Came For,Calvin Harris;Rihanna,12,2016-06-04,2016-06-04,1,1,This Is What You Came For,81,222160,False,0.631,0.927,9,-2.787,0,0.0332,0.199,0.119,0.148,0.465,123.962,4,dance,,hot-100
+Thousand Miles,The Kid LAROI,49,2022-07-02,2022-07-02,1,1,Thousand Miles,81,164781,True,0.376,0.657,7,-4.658,1,0.0768,0.0858,0.0,0.0884,0.203,80.565,4,hip-hop,,hot-100
+Thriller,Michael Jackson,10,2025-11-08,2025-11-08,3,3,Scream,70,358053,False,0.764,0.887,11,-3.726,1,0.0744,0.0816,0.00011,0.847,0.72,118.427,4,soul,,List of best-selling singles
+Thunder,Imagine Dragons,94,2017-06-03,2017-06-03,1,1,Evolve,85,187146,False,0.605,0.822,0,-4.833,1,0.0438,0.00671,0.134,0.147,0.288,167.997,4,rock,,hot-100
+Thunderstruck,AC/DC,8,,,1,1,The Razors Edge,84,292880,False,0.502,0.89,4,-5.175,1,0.0364,0.000147,0.0117,0.217,0.259,133.52,4,hard-rock,,List of best-selling singles
+Titanium (feat. Sia),David Guetta;Sia,30,2012-06-02,2012-06-02,1,1,Nothing but the Beat (Ultimate Edition),80,245040,False,0.604,0.787,0,-3.674,0,0.103,0.0679,0.15,0.127,0.301,126.062,4,dance,,hot-100
+To Be Loved By You,Parker McCollum,83,2022-01-01,2022-01-01,1,1,Gold Chain Cowboy (Special Edition),43,199680,False,0.475,0.805,10,-4.456,1,0.0377,0.000453,0.0,0.143,0.488,145.976,4,country,,hot-100
+Tongue Tied,Grouplove,74,2012-06-02,2012-06-02,1,1,Never Trust a Happy Song,79,218013,False,0.56,0.936,3,-5.835,1,0.0439,0.00847,0.0,0.161,0.371,112.96,4,alt-rock,Medieval Songs,hot-100
+Tonight Tonight,Hot Chelle Rae,45,2011-06-04,2011-06-04,1,1,Whatever,73,200466,False,0.686,0.783,4,-4.977,1,0.119,0.0764,0.0,0.163,0.814,99.978,4,punk-rock,,hot-100
+Toxicity,System Of A Down,151,2025-11-08,2025-11-08,1,1,Toxicity,81,218933,False,0.413,0.873,8,-4.151,1,0.0536,0.000264,0.00249,0.204,0.48,116.68,3,alternative,,billboard-200
+Trap Queen,Fetty Wap,3,2015-06-06,2015-06-06,1,1,Fetty Wap (Deluxe),74,222093,True,0.746,0.873,7,-3.803,1,0.128,0.0244,0.0,0.354,0.817,148.075,4,j-dance,,hot-100
+Truth Hurts,Lizzo,38,2019-06-01,2019-06-01,1,1,Give You Love - Cozy Hits,1,173325,True,0.715,0.622,4,-3.046,0,0.111,0.11,0.0,0.123,0.407,158.088,4,hip-hop,,hot-100
+Tunnel Vision,Kodak Black,26,2017-06-03,2017-06-03,1,1,Hiphopowe nowości,0,268186,True,0.497,0.489,11,-7.724,0,0.294,0.0576,9.91e-05,0.122,0.231,171.853,4,hip-hop,,hot-100
+Tyler Herro,Jack Harlow,76,2021-01-02,2021-01-02,1,1,Thats What They All Say,74,156578,True,0.792,0.793,5,-6.185,0,0.0841,0.0872,0.0,0.22,0.775,123.031,4,k-pop,,hot-100
+Uma Thurman,Fall Out Boy,70,2015-06-06,2015-06-06,1,1,Helloween Party,2,211573,False,0.623,0.961,4,-2.616,0,0.0869,0.102,0.000171,0.264,0.668,149.963,4,emo,,hot-100
+Un Ratito,Bad Bunny,84,2022-07-02,2022-07-02,1,1,Un Verano Sin Ti,87,176936,False,0.787,0.546,0,-7.094,0,0.0532,0.305,4.55e-05,0.122,0.222,93.05,4,latino,,hot-100
+Under The Influence,Chris Brown,39,2023-01-07,2023-07-01,2,1,Indigo (Extended),96,184613,True,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,4,dance,,hot-100
+Unforgettable,French Montana;Swae Lee,24,2017-06-03,2017-06-03,1,1,Jungle Rules,82,233901,True,0.726,0.769,6,-5.043,1,0.123,0.0293,0.0101,0.104,0.733,97.985,4,hip-hop,,hot-100
+Unsteady,X Ambassadors,99,2016-06-04,2016-06-04,1,1,VHS,74,193546,False,0.389,0.665,0,-6.169,1,0.0644,0.178,0.000732,0.116,0.199,117.055,4,alt-rock,,hot-100
+Until I Found You,Stephen Sanchez,58,2023-01-07,2023-01-07,1,1,Until I Found You,90,177720,False,0.539,0.508,10,-6.05,1,0.0288,0.727,0.0,0.174,0.227,101.358,3,pop,,hot-100
+Upside Down,Diana Ross,89,,,1,1,Disco Boogie Mood,2,243493,False,0.883,0.923,0,-6.102,1,0.0757,0.145,0.0396,0.0407,0.896,108.189,4,disco,,Greatest of All Time Hot 100 Singles
+Uptown Funk (feat. Bruno Mars),Mark Ronson;Bruno Mars,5,2015-06-06,2015-06-06,3,3,Uptown Special,83,269666,True,0.856,0.609,0,-7.223,1,0.0824,0.00801,8.15e-05,0.0344,0.928,114.988,4,dance,,Greatest of All Time Hot 100 Singles
+Vegas (From the Original Motion Picture Soundtrack ELVIS),Doja Cat,67,2022-07-02,2022-07-02,1,1,Vegas (From the Original Motion Picture Soundtrack ELVIS),90,182906,True,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,4,dance,,hot-100
+Victoria’s Secret,Jax,63,2023-01-07,2023-01-07,1,1,Victoria’s Secret,82,176124,True,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter,,hot-100
+WAIT FOR U (feat. Drake & Tems),Future;Drake;Tems,4,2022-07-02,2022-07-02,1,1,I NEVER LIKED YOU,89,189893,True,0.463,0.642,1,-4.474,1,0.34,0.314,0.0,0.0686,0.339,83.389,4,hip-hop,,hot-100
+WITHOUT YOU,The Kid LAROI,70,2021-01-02,2021-01-02,1,1,F*CK LOVE (SAVAGE),80,161384,True,0.662,0.413,0,-7.357,1,0.0299,0.213,0.0,0.134,0.467,93.005,4,hip-hop,,hot-100
+Wagon Wheel,Darius Rucker,21,2013-06-01,2013-06-01,1,1,Fishing Music,1,298400,False,0.535,0.661,9,-7.139,1,0.0304,0.46,0.0,0.142,0.596,148.121,4,country,,hot-100
+Wake Me Up,Avicii,28,2014-06-07,2014-06-07,2,2,True,85,247426,False,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,4,dance,(y);Avicii - Wake Me Up;Avicii 2;Martin Bickham,List of best-selling singles
+Want to Want Me,Jason Derulo,7,2015-06-06,2015-06-06,1,1,Running Songs,1,206280,True,0.772,0.643,0,-6.24,0,0.063,0.0102,0.0,0.0705,0.669,114.031,4,dance,,hot-100
+Wanted,Hunter Hayes,77,2012-06-02,2012-06-02,1,1,Cozy Country,0,228840,False,0.414,0.475,0,-7.692,1,0.0299,0.268,0.0,0.0816,0.3,169.726,4,country,,hot-100
+Wasted On You,Morgan Wallen,17,2022-07-02,2022-07-02,1,1,Dangerous: The Double Album,83,178520,False,0.505,0.657,11,-5.24,0,0.0318,0.373,0.00107,0.126,0.252,196.0,3,country,,hot-100
+Watermelon Sugar,Harry Styles,45,2020-06-06,2020-06-06,1,1,Fine Line,89,174000,False,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,4,pop,,hot-100
+Way Out,Jack Harlow;Big Sean,89,2021-01-02,2021-01-02,1,1,New Rap Icons,0,168906,True,0.945,0.582,11,-8.357,0,0.0719,0.114,0.0,0.103,0.907,108.025,4,hip-hop,,hot-100
+We Are Young (feat. Janelle Monáe),fun.;Janelle Monáe,4,2012-06-02,2012-06-02,1,1,Some Nights,77,250626,False,0.378,0.638,10,-5.576,1,0.075,0.02,7.66e-05,0.0849,0.735,184.086,4,rock,,hot-100
+What Makes You Beautiful,One Direction,7,2012-06-02,2012-06-02,1,1,Up All Night,84,199986,False,0.726,0.787,4,-2.494,1,0.0737,0.009,0.0,0.0596,0.888,124.99,4,pop,,hot-100
+Whatever It Takes,Imagine Dragons,17,2017-06-03,2018-06-02,2,1,Evolve,81,201240,False,0.672,0.655,10,-5.021,0,0.0311,0.0362,0.0,0.117,0.556,134.945,4,rock,,hot-100
+When You're Gone,Shawn Mendes,69,2022-07-02,2022-07-02,1,1,Autumn Vibes 2022,0,172266,False,0.605,0.713,5,-5.865,1,0.0381,0.0203,0.0,0.548,0.603,147.166,4,dance,,hot-100
+Where Them Girls At (feat. Nicki Minaj & Flo Rida),David Guetta,61,2011-06-04,2011-06-04,1,1,Nothing but the Beat (Ultimate Edition),73,194840,True,0.666,0.876,3,-3.078,1,0.0414,0.055,0.0,0.259,0.552,129.884,4,edm,,hot-100
+Wherever I Go,OneRepublic,67,2016-06-04,2016-06-04,1,1,Oh My My (Deluxe),70,169773,False,0.552,0.689,10,-6.444,0,0.0425,0.0915,0.0,0.27,0.349,99.961,4,piano,,hot-100
+Whiskey Glasses,Morgan Wallen,26,2019-06-01,2019-06-01,1,1,If I Know Me,81,234346,False,0.614,0.68,6,-4.58,1,0.0289,0.369,1.84e-06,0.115,0.707,149.959,4,country,,hot-100
+Whiskey and Rain,Michael Ray,64,2022-01-01,2022-01-01,1,1,Easy Country,0,206986,False,0.653,0.623,8,-4.56,1,0.0244,0.505,3.61e-06,0.279,0.718,100.021,4,country,,hot-100
+Who Do You Love,The Chainsmokers;5 Seconds of Summer,73,2019-06-01,2019-06-01,1,1,World War Joy,72,226733,True,0.51,0.846,3,-4.595,1,0.0461,0.0101,0.0,0.208,0.475,139.927,4,dance,,hot-100
+Who Says,Selena Gomez & The Scene,35,2011-06-04,2011-06-04,1,1,When The Sun Goes Down,77,195613,False,0.682,0.927,4,-2.915,1,0.0479,0.0843,0.0,0.149,0.744,101.019,4,dance,,hot-100
+Wiggle,Jason Derulo;Snoop Dogg,10,2014-06-07,2014-06-07,1,1,Pop Station,0,193295,False,0.696,0.621,9,-6.886,0,0.248,0.0802,0.0,0.162,0.721,81.944,4,dance,,hot-100
+Wind of Change,Scorpions,1,,,1,1,Comeblack,60,308866,False,0.491,0.613,0,-5.567,1,0.0266,0.00511,0.0,0.107,0.175,75.907,4,german,,List of best-selling singles
+Without Me,Halsey,11,2019-06-01,2019-06-01,1,1,Without Me,78,201660,True,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,4,dance,,hot-100
+Woman,Doja Cat,34,2022-01-01,2022-07-02,2,1,Planet Her,88,172626,True,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,4,dance,,hot-100
+Wonderful Christmastime,Paul McCartney,26,2021-01-02,2024-01-06,4,1,Holidays Are Coming,0,225933,False,0.672,0.601,11,-6.469,1,0.0279,0.128,0.0,0.0824,0.763,94.699,4,folk,,hot-100
+Worth It,Fifth Harmony,17,2015-06-06,2015-06-06,1,1,Worth It,64,185256,False,0.858,0.78,8,-3.739,1,0.0738,0.0478,5.72e-05,0.133,0.602,99.984,4,dance,,hot-100
+YMCA,Village People,9,,,1,1,Can't Stop the Music (Original Soundtrack 1980),66,202573,False,0.742,0.696,6,-7.871,1,0.0735,0.19,0.0,0.151,0.84,126.432,3,disco,,List of best-selling singles
+"Yes Sir, I Can Boogie",Baccara,12,,,1,1,The Collection & Tracklisting,63,273866,False,0.454,0.769,2,-7.653,1,0.0814,0.127,3.23e-06,0.175,0.491,122.531,4,disco,,List of best-selling singles
+Yet To Come,BTS,68,2022-07-02,2022-07-02,1,1,Proof,85,193593,False,0.559,0.885,1,-4.515,1,0.189,0.0432,0.0,0.333,0.683,172.029,4,k-pop,,hot-100
+Yo Perreo Sola,Bad Bunny,68,2020-06-06,2020-06-06,1,1,YHLQMDLG,79,172127,False,0.86,0.758,11,-5.16,1,0.0695,0.021,6.54e-05,0.344,0.453,97.014,4,latino,,hot-100
+You Proof,Morgan Wallen,20,2022-07-02,2023-07-01,3,1,You Proof,86,157477,False,0.731,0.85,9,-4.913,1,0.0336,0.252,0.0,0.605,0.644,119.706,4,country,,hot-100
+You Shook Me All Night Long,AC/DC,20,,,1,1,Back In Black,81,210173,False,0.532,0.767,7,-5.509,1,0.0574,0.00287,0.000513,0.39,0.755,127.361,4,hard-rock,,List of best-selling singles
+You're Still The One,Shania Twain,94,,,1,1,Los Clásicos del Pop 90s,3,212560,False,0.558,0.54,3,-7.2,1,0.0305,0.501,0.0,0.252,0.654,133.774,4,country,,Greatest of All Time Hot 100 Singles
+Zombie,Bad Wolves,85,2018-06-02,2018-06-02,1,1,Zombie,69,254805,False,0.448,0.826,2,-3.244,0,0.0319,0.00756,0.0,0.117,0.19,77.093,4,alternative,,hot-100
+abcdefu,GAYLE,27,2022-01-01,2022-01-01,1,1,abcdefu,86,168601,True,0.695,0.54,4,-5.692,1,0.0493,0.299,0.0,0.367,0.415,121.932,4,alternative,,hot-100
+bad guy,Billie Eilish,1,2019-06-01,2019-06-01,3,2,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",84,194087,False,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4,electro,,List of best-selling singles
+"break up with your girlfriend, i'm bored",Ariana Grande,20,2019-06-01,2019-06-01,1,1,"thank u, next",78,190440,True,0.726,0.554,5,-5.29,0,0.0917,0.0421,0.0,0.106,0.335,169.999,4,dance,,hot-100
+bury a friend,Billie Eilish,55,2019-06-01,2019-06-01,1,1,Halloween Songs | Witches Hour,5,193143,False,0.887,0.388,8,-14.505,1,0.349,0.739,0.143,0.106,0.205,120.035,4,electro,,hot-100
+death bed (coffee for your head),Powfu;beabadoobee,26,2020-06-06,2020-06-06,1,1,death bed (coffee for your head),83,173333,False,0.726,0.431,8,-8.765,0,0.135,0.731,0.0,0.696,0.348,144.026,4,sad,,hot-100
+do re mi,blackbear,99,2017-06-03,2017-06-03,1,1,digital druglord,73,212027,True,0.745,0.593,8,-6.35,1,0.0524,0.00522,5.06e-06,0.123,0.17,111.001,3,electro,,hot-100
+drivers license,Olivia Rodrigo,17,,,1,1,SOUR,88,242013,True,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,4,pop,,List of best-selling singles
+everything i wanted,Billie Eilish,35,2020-06-06,2020-06-06,1,1,everything i wanted,86,245425,False,0.704,0.225,6,-14.454,0,0.0994,0.902,0.657,0.106,0.243,120.006,4,electro,,hot-100
+golden hour,JVKE,49,2023-01-07,2023-01-07,1,1,this is what ____ feels like (Vol. 1-4),81,209259,False,0.515,0.593,4,-4.801,1,0.0322,0.653,0.162,0.25,0.153,94.467,3,indie-pop,,hot-100
+good 4 u,Olivia Rodrigo,23,2022-01-01,2022-01-01,2,2,SOUR,88,178146,True,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,4,pop,,List of best-selling singles
+goosebumps,Travis Scott,37,2017-06-03,2017-06-03,1,1,Birds In The Trap Sing McKnight,84,243836,True,0.841,0.728,7,-3.37,1,0.0484,0.0847,0.0,0.149,0.43,130.049,4,hip-hop,,hot-100
+hot girl bummer,blackbear,43,2020-06-06,2020-06-06,1,1,everything means nothing,80,188343,True,0.782,0.559,6,-7.106,0,0.0767,0.125,0.0,0.385,0.685,129.992,1,electro,,hot-100
+ily (i love you baby),Surf Mesa;Emilee,100,2020-06-06,2020-06-06,1,1,pov: it's 2020,0,181071,False,0.667,0.799,11,-7.318,0,0.0812,0.0589,0.0119,0.362,0.288,112.054,4,house,,hot-100
+no tears left to cry,Ariana Grande,9,2018-06-02,2018-06-02,1,1,Sweetener,78,205920,False,0.699,0.713,9,-5.507,0,0.0594,0.04,3.11e-06,0.294,0.354,121.993,4,dance,,hot-100
+positions,Ariana Grande,14,2021-01-02,2021-01-02,1,1,Positions,85,172324,True,0.737,0.802,0,-4.771,1,0.0878,0.468,0.0,0.0931,0.682,144.015,4,dance,,hot-100
+willow,Taylor Swift,38,2021-01-02,2021-01-02,1,1,Autumn Vibes 2022,0,214706,False,0.392,0.579,7,-9.195,1,0.164,0.835,0.00179,0.145,0.549,80.961,4,pop,,hot-100
+you broke me first,Tate McRae,68,2021-01-02,2021-01-02,1,1,you broke me first,84,169265,True,0.667,0.373,4,-9.389,1,0.05,0.785,0.0,0.0906,0.0823,124.148,4,pop,,hot-100

@@ -1,0 +1,128 @@
+================================================================================
+Comparative Analysis: BERT vs labMT Lyric Happiness Scoring
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total tracks analyzed: 589
+Tracks with both scores: 551
+Tracks with only BERT score: 35
+Tracks with only labMT score: 2
+
+CORRELATION ANALYSIS
+--------------------------------------------------------------------------------
+Pearson correlation: r = 0.4196 (p = 0.0000)
+Spearman correlation: ρ = 0.4196 (p = 0.0000)
+Mean absolute difference: 0.1626
+Root mean square difference: 0.2073
+Agreement within 0.1: 39.9%
+Agreement within 0.2: 67.7%
+
+LANGUAGE-SPECIFIC ANALYSIS
+--------------------------------------------------------------------------------
+en: n=519, r=0.439, MAD=0.158
+es: n=18, r=0.292, MAD=0.269
+ko: n=7, r=0.614, MAD=0.223
+fr: n=5, r=0.623, MAD=0.134
+
+HIGH DISAGREEMENT TRACKS (>0.3 difference)
+--------------------------------------------------------------------------------
+Found 75 tracks with high disagreement
+
+death bed (coffee for your head) - Powfu;beabadoobee
+  BERT: 0.225, labMT: 0.968, diff: 0.743
+  Language: en
+
+Kina Chir - The PropheC
+  BERT: 0.131, labMT: 0.764, diff: 0.633
+  Language: en
+
+Highway to Hell - AC/DC
+  BERT: 0.628, labMT: 0.053, diff: 0.574
+  Language: en
+
+Champagne - Diljit Dosanjh
+  BERT: 0.238, labMT: 0.792, diff: 0.554
+  Language: en
+
+Parshawan - Harnoor
+  BERT: 0.277, labMT: 0.828, diff: 0.552
+  Language: en
+
+Envolver - Anitta
+  BERT: 0.145, labMT: 0.686, diff: 0.541
+  Language: es
+
+Bangarang (feat. Sirah) - Skrillex;Sirah
+  BERT: 0.603, labMT: 0.068, diff: 0.535
+  Language: en
+
+PILLOWTALK - ZAYN
+  BERT: 0.817, labMT: 0.283, diff: 0.534
+  Language: en
+
+Midnight City - M83
+  BERT: 0.650, labMT: 0.127, diff: 0.523
+  Language: en
+
+Bijlee Bijlee - Harrdy Sandhu
+  BERT: 0.621, labMT: 0.102, diff: 0.518
+  Language: en
+
+Blueming - IU
+  BERT: 0.276, labMT: 0.779, diff: 0.503
+  Language: ko
+
+SI T? SUPIERAS - Feid
+  BERT: 0.200, labMT: 0.695, diff: 0.495
+  Language: es
+
+Lover - Diljit Dosanjh
+  BERT: 0.392, labMT: 0.881, diff: 0.489
+  Language: en
+
+I Need Your Love (feat. Ellie Goulding) - Calvin Harris;Ellie Goulding
+  BERT: 0.942, labMT: 0.464, diff: 0.478
+  Language: en
+
+MONTERO (Call Me By Your Name) - Lil Nas X
+  BERT: 0.097, labMT: 0.572, diff: 0.475
+  Language: en
+
+Until I Found You - Stephen Sanchez
+  BERT: 0.768, labMT: 0.297, diff: 0.471
+  Language: en
+
+Eye of the Tiger - Survivor
+  BERT: 0.824, labMT: 0.358, diff: 0.466
+  Language: en
+
+?? - LiSA
+  BERT: 0.471, labMT: 0.009, diff: 0.462
+  Language: en
+
+Demons - Imagine Dragons
+  BERT: 0.675, labMT: 0.220, diff: 0.455
+  Language: en
+
+Candle In The Wind 1997 - Elton John
+  BERT: 0.912, labMT: 0.459, diff: 0.453
+  Language: en
+
+
+================================================================================
+METHODOLOGICAL NOTES
+================================================================================
+
+BERT-based approach (happiness_from_lyrics):
+- Context-aware neural network model
+- Trained on multilingual review/rating data
+- May capture complex linguistic structures better
+- Potential biases from training data
+
+labMT-based approach (h_lyrics_norm):
+- Human-validated word-level happiness scores
+- Interpretable and transparent
+- Language-specific dictionaries
+- May miss contextual nuances
+

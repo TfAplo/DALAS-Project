@@ -476,12 +476,23 @@ def run_from_catalog(
     if "official_site" not in df.columns:
         print(f"[catalog] Column 'official_site' not found in {catalog_csv}", file=sys.stderr)
         return (0, 0)
-    sub = df.dropna(subset=["official_site"]).copy()
+
+    # Prefer official_site when present, but fall back to 'url' when it is missing.
+    # This allows us to scrape from Wikipedia \"List of ...\" pages and other chart
+    # URLs even when an explicit official site is unavailable, increasing the
+    # diversity of charts we cover.
+    has_official = df["official_site"].notna() & df["official_site"].astype(str).str.strip().ne("")
+    has_url = df["url"].notna() & df["url"].astype(str).str.strip().ne("")
+    sub = df[has_official | has_url].copy()
+
     total_rows = 0
     processed = 0
     for _, row in sub.iterrows():
         chart_name = str(row.get("chart") or "").strip() or "chart"
+        # Prefer official_site if available, otherwise fall back to 'url'
         site = str(row.get("official_site") or "").strip()
+        if not site:
+            site = str(row.get("url") or "").strip()
         if not site:
             continue
         domain = get_domain(site)

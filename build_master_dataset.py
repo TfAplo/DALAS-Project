@@ -204,6 +204,110 @@ def load_extra_official_charts() -> pd.DataFrame:
     return extra
 
 
+def fix_title_artist_parsing(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Fix cases where title and artist are incorrectly parsed:
+    1. Record Report: title contains "QUOTED TITLE"\r\nARTIST\r\nLABEL
+    2. TurnTable: title contains "TITLE ARTIST" (artist concatenated)
+    """
+    df = df.copy()
+    
+    # Find rows with missing artists but non-empty titles
+    missing_artist_mask = (df["artist"].isna() | (df["artist"].astype(str).str.strip() == "")) & df["title"].notna()
+    
+    if not missing_artist_mask.any():
+        return df
+    
+    fixed_count = 0
+    
+    for idx in df[missing_artist_mask].index:
+        title = str(df.at[idx, "title"])
+        domain = str(df.at[idx, "domain"]).lower() if "domain" in df.columns else ""
+        chart = str(df.at[idx, "chart"]).lower() if "chart" in df.columns else ""
+        
+        # Case 1: Record Report - title is "QUOTED TITLE"\r\nARTIST\r\nLABEL
+        if "recordreport" in domain or "record report" in chart:
+            # Look for quoted title followed by newlines and artist
+            # Pattern: "TITLE"\r\nARTIST\r\n...
+            match = re.match(r'^"([^"]+)"\s*\r?\n\s*([^\r\n]+)', title)
+            if match:
+                quoted_title = match.group(1).strip()
+                artist_part = match.group(2).strip()
+                # Remove label/company suffixes (common patterns: OTROS, SONY, HAF, etc.)
+                artist_part = re.sub(r'\s+(OTROS|SONY|HAF|CARBON|BOHEMI|UNIVERSAL|WARNER|EMI)$', '', artist_part, flags=re.IGNORECASE)
+                df.at[idx, "title"] = quoted_title
+                df.at[idx, "artist"] = artist_part
+                fixed_count += 1
+                continue
+        
+        # Case 2: TurnTable - title and artist concatenated (e.g., "FUN Rema" or "Who's Dat Girl Ayra Starr & Rema")
+        if "turntable" in domain or "turntable" in chart:
+            # Try to split on common patterns
+            # Pattern 1: "Title Artist1 & Artist2" format
+            # Pattern 2: "Title (Remix) Artist" format
+            # Pattern 3: "Title Artist" (simple concatenation)
+            
+            # Try splitting on " ft. ", " & ", " x ", " feat. ", etc.
+            for sep in [" ft. ", " feat. ", " featuring ", " & ", " x ", " X "]:
+                if sep in title:
+                    parts = title.split(sep, 1)
+                    if len(parts) == 2:
+                        potential_title = parts[0].strip()
+                        potential_artist = parts[1].strip()
+                        # If title part looks reasonable (not too short, has spaces or is a known pattern)
+                        if len(potential_title) > 2:
+                            df.at[idx, "title"] = potential_title
+                            df.at[idx, "artist"] = potential_artist
+                            fixed_count += 1
+                            break
+            else:
+                # No separator found - try to find where title ends and artist begins
+                # Common patterns:
+                # - "TITLE ARTIST" (artist is last 1-2 words, title is the rest)
+                # - "TITLE (Remix) ARTIST" (artist after remix note)
+                # - "TITLE ARTIST1 & ARTIST2" (multiple artists at end)
+                
+                words = title.split()
+                if len(words) >= 2:
+                    # Check for remix pattern: "TITLE (Remix) ARTIST"
+                    remix_match = re.search(r'\([^)]*[Rr]emix[^)]*\)', title)
+                    if remix_match:
+                        remix_end = remix_match.end()
+                        title_part = title[:remix_end].strip()
+                        artist_part = title[remix_end:].strip()
+                        if artist_part:
+                            df.at[idx, "title"] = title_part
+                            df.at[idx, "artist"] = artist_part
+                            fixed_count += 1
+                            continue
+                    
+                    # Try to identify artist names at the end
+                    # Common artist name patterns: all caps, or proper case with 2+ words
+                    # Try last 1-4 words as potential artist
+                    for n_words in [1, 2, 3, 4]:
+                        if len(words) > n_words:
+                            potential_artist = " ".join(words[-n_words:])
+                            potential_title = " ".join(words[:-n_words])
+                            
+                            # Heuristics:
+                            # - Title should be at least 2 chars (allow short titles like "you", "eko")
+                            # - If artist is all caps and 3+ chars, likely an artist name (e.g., "FOLA", "BNXN")
+                            # - If artist is 2+ words, more likely to be correct
+                            # - If artist is 1 word and all caps with 3+ chars, accept it
+                            if len(potential_title) >= 2:
+                                artist_is_all_caps = potential_artist.isupper() and len(potential_artist) >= 3
+                                if n_words >= 2 or artist_is_all_caps or (len(potential_artist) >= 4 and not potential_artist.isupper()):
+                                    df.at[idx, "title"] = potential_title
+                                    df.at[idx, "artist"] = potential_artist
+                                    fixed_count += 1
+                                    break
+    
+    if fixed_count > 0:
+        print(f"Fixed title/artist parsing for {fixed_count} rows.")
+    
+    return df
+
+
 def attach_chart_geography(df: pd.DataFrame) -> pd.DataFrame:
     if not RECORD_CHARTS.exists():
         return df
@@ -381,6 +485,9 @@ def build_master() -> int:
         if not extra_new.empty:
             print(f"Appending {len(extra_new)} new chart-only rows from official_charts to master base.")
             base = pd.concat([base, extra_new], ignore_index=True)
+
+    # Fix title/artist parsing issues (e.g., Record Report, TurnTable)
+    base = fix_title_artist_parsing(base)
 
     # Attach geography (applies to both original and extra rows)
     base = attach_chart_geography(base)

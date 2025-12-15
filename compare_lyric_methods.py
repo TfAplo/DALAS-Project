@@ -40,26 +40,27 @@ def load_and_merge_data() -> pd.DataFrame:
     
     print(f"\n1. Loading {FINAL_DATASET_PATH}...")
     df = pd.read_csv(FINAL_DATASET_PATH)
-    print(f"   ✓ Loaded {len(df)} tracks")
+    print(f"   [OK] Loaded {len(df)} tracks")
     
     # Load lyrics dataset with BERT scores
     if DATASET_LYRICS_PATH.exists():
         print(f"\n2. Loading {DATASET_LYRICS_PATH}...")
         lyrics_df = pd.read_csv(DATASET_LYRICS_PATH)
-        print(f"   ✓ Loaded {len(lyrics_df)} tracks with lyrics")
+        print(f"   [OK] Loaded {len(lyrics_df)} tracks with lyrics")
         
         # Merge BERT scores if not already present
         if 'happiness_from_lyrics' in lyrics_df.columns:
-            merge_cols = ['track_name', 'artists', 'happiness_from_lyrics']
+            # Use 'title' and 'artist' as merge keys (both files have these)
+            merge_cols = ['title', 'artist', 'happiness_from_lyrics']
             if 'lyrics' in lyrics_df.columns:
                 merge_cols.append('lyrics')
             
-            lyrics_merge = lyrics_df[merge_cols].dropna(subset=['track_name', 'artists'])
+            lyrics_merge = lyrics_df[merge_cols].dropna(subset=['title', 'artist'])
             
             # Merge, keeping existing data where available
             df = df.merge(
                 lyrics_merge,
-                on=['track_name', 'artists'],
+                on=['title', 'artist'],
                 how='left',
                 suffixes=('', '_from_file')
             )
@@ -76,11 +77,11 @@ def load_and_merge_data() -> pd.DataFrame:
                 df['lyrics'] = df['lyrics'].fillna(df['lyrics_from_file'])
                 df = df.drop(columns=['lyrics_from_file'])
             
-            print(f"   ✓ Merged BERT scores: {df['happiness_from_lyrics'].notna().sum()} tracks")
+            print(f"   [OK] Merged BERT scores: {df['happiness_from_lyrics'].notna().sum()} tracks")
         else:
-            print("   ⚠ No 'happiness_from_lyrics' column found in lyrics dataset")
+            print("   [WARN] No 'happiness_from_lyrics' column found in lyrics dataset")
     else:
-        print(f"\n2. ⚠ {DATASET_LYRICS_PATH} not found, skipping BERT score merge")
+        print(f"\n2. [WARN] {DATASET_LYRICS_PATH} not found, skipping BERT score merge")
     
     # Filter to tracks with both scores
     has_both = df['happiness_from_lyrics'].notna() & df['h_lyrics_norm'].notna()
@@ -101,7 +102,7 @@ def calculate_correlations(df: pd.DataFrame) -> dict:
     both_scores = df[df['happiness_from_lyrics'].notna() & df['h_lyrics_norm'].notna()].copy()
     
     if len(both_scores) == 0:
-        print("   ⚠ No tracks with both scores available")
+        print("   [WARN] No tracks with both scores available")
         return {}
     
     bert = both_scores['happiness_from_lyrics']
@@ -144,7 +145,7 @@ def calculate_correlations(df: pd.DataFrame) -> dict:
     print(f"\nSample size: {results['n_tracks']} tracks")
     print(f"\nCorrelation Statistics:")
     print(f"  Pearson r:  {results['pearson_r']:.4f} (p={results['pearson_p']:.4f})")
-    print(f"  Spearman ρ: {results['spearman_r']:.4f} (p={results['spearman_p']:.4f})")
+    print(f"  Spearman rho: {results['spearman_r']:.4f} (p={results['spearman_p']:.4f})")
     print(f"\nAgreement Metrics:")
     print(f"  Mean absolute difference: {results['mean_abs_diff']:.4f}")
     print(f"  Root mean square difference: {results['rmsd']:.4f}")
@@ -166,7 +167,7 @@ def analyze_disagreements(df: pd.DataFrame) -> pd.DataFrame:
     both_scores = df[df['happiness_from_lyrics'].notna() & df['h_lyrics_norm'].notna()].copy()
     
     if len(both_scores) == 0:
-        print("   ⚠ No tracks with both scores available")
+        print("   [WARN] No tracks with both scores available")
         return pd.DataFrame()
     
     # Calculate disagreement
@@ -208,7 +209,7 @@ def analyze_by_language(df: pd.DataFrame) -> pd.DataFrame:
     both_scores = df[df['happiness_from_lyrics'].notna() & df['h_lyrics_norm'].notna()].copy()
     
     if len(both_scores) == 0 or 'lyrics_language' not in both_scores.columns:
-        print("   ⚠ No language data available")
+        print("   [WARN] No language data available")
         return pd.DataFrame()
     
     # Filter to languages with at least 5 tracks
@@ -216,7 +217,7 @@ def analyze_by_language(df: pd.DataFrame) -> pd.DataFrame:
     valid_langs = lang_counts[lang_counts >= 5].index
     
     if len(valid_langs) == 0:
-        print("   ⚠ No languages with sufficient data (>=5 tracks)")
+        print("   [WARN] No languages with sufficient data (>=5 tracks)")
         return pd.DataFrame()
     
     lang_results = []
@@ -263,7 +264,7 @@ def create_visualizations(df: pd.DataFrame, output_dir: Path):
     both_scores = df[df['happiness_from_lyrics'].notna() & df['h_lyrics_norm'].notna()].copy()
     
     if len(both_scores) == 0:
-        print("   ⚠ No tracks with both scores available")
+        print("   [WARN] No tracks with both scores available")
         return
     
     # Set style
@@ -289,7 +290,7 @@ def create_visualizations(df: pd.DataFrame, output_dir: Path):
     
     plt.tight_layout()
     plt.savefig(output_dir / 'happiness_methods_scatter.png', dpi=300, bbox_inches='tight')
-    print(f"   ✓ Saved scatter plot to {output_dir / 'happiness_methods_scatter.png'}")
+    print(f"   [OK] Saved scatter plot to {output_dir / 'happiness_methods_scatter.png'}")
     plt.close()
     
     # 2. Distribution comparison
@@ -311,7 +312,7 @@ def create_visualizations(df: pd.DataFrame, output_dir: Path):
     
     plt.tight_layout()
     plt.savefig(output_dir / 'happiness_methods_distributions.png', dpi=300, bbox_inches='tight')
-    print(f"   ✓ Saved distribution plot to {output_dir / 'happiness_methods_distributions.png'}")
+    print(f"   [OK] Saved distribution plot to {output_dir / 'happiness_methods_distributions.png'}")
     plt.close()
     
     # 3. Difference distribution
@@ -328,7 +329,7 @@ def create_visualizations(df: pd.DataFrame, output_dir: Path):
     
     plt.tight_layout()
     plt.savefig(output_dir / 'happiness_methods_difference.png', dpi=300, bbox_inches='tight')
-    print(f"   ✓ Saved difference plot to {output_dir / 'happiness_methods_difference.png'}")
+    print(f"   [OK] Saved difference plot to {output_dir / 'happiness_methods_difference.png'}")
     plt.close()
 
 
@@ -353,7 +354,7 @@ def generate_report(df: pd.DataFrame, correlations: dict, disagreements: pd.Data
         f.write("-" * 80 + "\n")
         if correlations:
             f.write(f"Pearson correlation: r = {correlations['pearson_r']:.4f} (p = {correlations['pearson_p']:.4f})\n")
-            f.write(f"Spearman correlation: ρ = {correlations['spearman_r']:.4f} (p = {correlations['spearman_p']:.4f})\n")
+            f.write(f"Spearman correlation: rho = {correlations['spearman_r']:.4f} (p = {correlations['spearman_p']:.4f})\n")
             f.write(f"Mean absolute difference: {correlations['mean_abs_diff']:.4f}\n")
             f.write(f"Root mean square difference: {correlations['rmsd']:.4f}\n")
             f.write(f"Agreement within 0.1: {correlations['agreement_10pct']:.1%}\n")
@@ -397,7 +398,7 @@ def generate_report(df: pd.DataFrame, correlations: dict, disagreements: pd.Data
         f.write("- Language-specific dictionaries\n")
         f.write("- May miss contextual nuances\n\n")
     
-    print(f"   ✓ Saved report to {report_path}")
+    print(f"   [OK] Saved report to {report_path}")
 
 
 def main():
@@ -427,7 +428,7 @@ def main():
     # Save merged dataset with both scores
     output_path = OUTPUT_DIR / 'dataset_with_both_scores.csv'
     df.to_csv(output_path, index=False)
-    print(f"\n   ✓ Saved merged dataset to {output_path}")
+    print(f"\n   [OK] Saved merged dataset to {output_path}")
     
     print("\n" + "=" * 80)
     print("Analysis Complete!")

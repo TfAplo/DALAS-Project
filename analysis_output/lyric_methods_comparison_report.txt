@@ -4,30 +4,30 @@ Comparative Analysis: BERT vs labMT Lyric Happiness Scoring
 
 SUMMARY
 --------------------------------------------------------------------------------
-Total tracks analyzed: 589
-Tracks with both scores: 551
+Total tracks analyzed: 604
+Tracks with both scores: 566
 Tracks with only BERT score: 35
 Tracks with only labMT score: 2
 
 CORRELATION ANALYSIS
 --------------------------------------------------------------------------------
-Pearson correlation: r = 0.4196 (p = 0.0000)
-Spearman correlation: ρ = 0.4196 (p = 0.0000)
-Mean absolute difference: 0.1626
-Root mean square difference: 0.2073
-Agreement within 0.1: 39.9%
+Pearson correlation: r = 0.4240 (p = 0.0000)
+Spearman correlation: rho = 0.4241 (p = 0.0000)
+Mean absolute difference: 0.1619
+Root mean square difference: 0.2064
+Agreement within 0.1: 40.1%
 Agreement within 0.2: 67.7%
 
 LANGUAGE-SPECIFIC ANALYSIS
 --------------------------------------------------------------------------------
-en: n=519, r=0.439, MAD=0.158
+en: n=534, r=0.443, MAD=0.158
 es: n=18, r=0.292, MAD=0.269
 ko: n=7, r=0.614, MAD=0.223
 fr: n=5, r=0.623, MAD=0.134
 
 HIGH DISAGREEMENT TRACKS (>0.3 difference)
 --------------------------------------------------------------------------------
-Found 75 tracks with high disagreement
+Found 76 tracks with high disagreement
 
 death bed (coffee for your head) - Powfu;beabadoobee
   BERT: 0.225, labMT: 0.968, diff: 0.743

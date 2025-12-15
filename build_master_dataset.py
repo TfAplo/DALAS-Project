@@ -509,11 +509,32 @@ def build_master() -> int:
     for col in BASE_COLUMNS:
         if col not in base.columns:
             base[col] = pd.NA
-    base = base[BASE_COLUMNS]
+    # Keep working columns for dedupe; we'll drop helper cols just before save
+    base = base[BASE_COLUMNS + ["norm_title", "norm_artist"]] if "norm_title" in base.columns else base
 
-    # Deduplicate
+    # Deduplicate:
+    # 1) drop exact dup rows on domain/chart/date/position/title/artist
     dedup_keys = ["domain", "chart", "date", "position", "title", "artist"]
     base = base.drop_duplicates(subset=dedup_keys, keep="first")
+    # 2) tighten: collapse multiple chart rows for the same track (normalized title+artist)
+    if "norm_title" not in base.columns:
+        base["norm_title"] = base["title"].map(normalize_string)
+    if "norm_artist" not in base.columns:
+        base["norm_artist"] = base["artist"].map(normalize_string)
+    base["__pos_sort"] = base["position"].fillna(1e9)
+    sort_cols = ["__pos_sort"]
+    # Ensure date/scraped_at exist before sorting on them
+    if "date" in base.columns:
+        sort_cols.append("date")
+    if "scraped_at" in base.columns:
+        sort_cols.append("scraped_at")
+    base = base.sort_values(by=sort_cols, ascending=True)
+    base = base.drop_duplicates(subset=["norm_title", "norm_artist"], keep="first")
+
+    # Drop helper cols before save
+    base = base.drop_duplicates(subset=["title", "artist"], keep="first")
+    base = base.drop(columns=["norm_title", "norm_artist", "__pos_sort"], errors="ignore")
+    base = base[BASE_COLUMNS]
 
     MASTER_OUT.parent.mkdir(parents=True, exist_ok=True)
     base.to_csv(MASTER_OUT, index=False)

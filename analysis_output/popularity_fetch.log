@@ -1,0 +1,540 @@
+Loaded 4 environment variable(s) from .env file
+Loading master_dataset.csv...
+Loaded 973 rows.
+Found existing 'popularity' column with 437 NaN and 65 zeros.
+Will fetch popularity for rows where it's NaN or 0.
+
+Initializing Spotify API client...
+Spotify client initialized successfully.
+
+Fetching popularity for 502 rows...
+Using delay of 1.2 seconds between requests to respect rate limits.
+[1/502] Fetching: 'Alone With You' by Arz... OK - Popularity: 62
+[2/502] Fetching: 'Never Going Home' by Kungs... OK - Popularity: 64
+[3/502] Fetching: 'Crocodile Teeth' by Skillibeng... OK - Popularity: 60
+[4/502] Fetching: 'I Hate Alabama' by Conner Smith... OK - Popularity: 47
+[5/502] Fetching: 'Envolver' by Anitta... OK - Popularity: 69
+[6/502] Fetching: 'FUN' by Rema... OK - Popularity: 78
+[7/502] Fetching: 'catharsis' by FOLA... FAILED - Not found
+[8/502] Fetching: 'REGRESA AL NIDO' by PROYECTO UNO... OK - Popularity: 26
+[9/502] Fetching: 'Blinding Lights' by The Weeknd... OK - Popularity: 91
+[10/502] Fetching: '" White Christmas "' by Bing Crosby... OK - Popularity: 88
+[11/502] Fetching: '" All I Want for Christmas Is You "' by Mariah Carey... OK - Popularity: 97
+[12/502] Fetching: '" Spotlight "' by Xiao Zhan... FAILED - Not found
+[13/502] Fetching: '" Blurred Lines "' by Robin Thicke featuring T.I. and Pharrell... FAILED - Not found
+[14/502] Fetching: '" The Ballad of the Green Berets "' by Barry Sadler... OK - Popularity: 44
+[15/502] Fetching: '" Hey Jude "' by The Beatles... OK - Popularity: 72
+[16/502] Fetching: '" Sugar, Sugar "' by The Archies... OK - Popularity: 64
+[17/502] Fetching: '" Vogue "' by Madonna... OK - Popularity: 70
+[18/502] Fetching: '" Killing Me Softly "' by Fugees... OK - Popularity: 81
+[19/502] Fetching: '" My Heart Will Go On "' by Celine Dion... OK - Popularity: 76
+[20/502] Fetching: '" Girlfriend "' by Avril Lavigne... OK - Popularity: 76
+[21/502] Fetching: '" Lollipop "' by Lil Wayne... OK - Popularity: 74
+[22/502] Fetching: '" Poker Face "' by Lady Gaga... OK - Popularity: 85
+[23/502] Fetching: '" Tik Tok "' by Kesha... OK - Popularity: 84
+[24/502] Fetching: '" Just the Way You Are "' by Bruno Mars... OK - Popularity: 81
+[25/502] Fetching: '" Call Me Maybe "' by Carly Rae Jepsen... OK - Popularity: 83
+[26/502] Fetching: '" Happy "' by Pharrell Williams... OK - Popularity: 80
+[27/502] Fetching: '" See You Again "' by Wiz Khalifa featuring Charlie Puth... FAILED - Not found
+[28/502] Fetching: '" One Dance "' by Drake featuring Wizkid and Kyla... FAILED - Not found
+[29/502] Fetching: '" Shape of You "' by Ed Sheeran... OK - Popularity: 89
+[30/502] Fetching: '" Havana "' by Camila Cabello featuring Young Thug... FAILED - Not found
+[31/502] Fetching: '" Bad Guy "' by Billie Eilish... OK - Popularity: 83
+[32/[32/502] Fetching: '" Save Your Tears "' by The Weeknd... OK - Popularity: 87
+[33/502] Fetching: '" As It Was "' by Harry Styles... OK - Popularity: 89
+[34/502] Fetching: '" Flowers "' by Miley Cyrus... OK - Popularity: 85
+[35/502] Fetching: '" Beautiful Things "' by Benson Boone... OK - Popularity: 89
+[36/502] Fetching: 'Waist' by Omah Lay... OK - Popularity: 68
+[37/502] Fetching: 'FUJI MOTO Seyi' by Vibez... OK - Popularity: 72
+[38/502] Fetching: 'A FUEGO LENTO' by BANNY KOSTA... OK - Popularity: 28
+[39/502] Fetching: 'E.T.' by Katy Perry Featuring Kanye West... OK - Popularity: 68
+[40/502] Fetching: 'Who's Dat Girl Ayra Starr' by Rema... OK - Popularity: 78
+[41/502] Fetching: 'The Boy Who Played The Harp' by Dave... OK - Popularity: 75
+[42/502] Fetching: 'PLAYITA' by ELIO LEIROS Y JERRY DI... FAILED - Not found
+[43/502] Fetching: '" Something About the Way You Look Tonight "/" Candle in the Wind 1997 "' by Elton John... OK - Popularity: 61
+[44/502] Fetching: '" Bei Mir Bist Du Schön "' by The Andrews Sisters... OK - Popularity: 38
+[45/502] Fetching: '" Moves Like Jagger "' by Maroon 5 featuring Christina Aguilera... OK - Popularity: 82
+[46/502] Fetching: 'Body (danz) CKay' by Mavo... OK - Popularity: 79
+[47/502] Fetching: 'SISMO' by PALOLA... OK - Popularity: 3
+[48/502] Fetching: 'Shakabulizzy (Remix) Mavo' by Davido... OK - Popularity: 70
+[49/502] Fetching: 'INDUSTRY' by MACHINE... OK - Popularity: 0
+[50/502] Fetching: 'BRUTOS' by FARRUKO, POTRO ALVAREZ, JESSI... OK - Popularity: 40
+
+Progress: 50/502 processed. Fetched: 47, Failed: 3
+[51/502] Fetching: '" Silent Night "' by Bing Crosby... OK - Popularity: 62
+[52/502] Fetching: '" Sweet Mother "' by Prince Nico Mbarga... OK - Popularity: 30
+[53/502] Fetching: '" Stay "' by The Kid Laroi and Justin Bieber... OK - Popularity: 81
+[54/502] Fetching: 'MONEY CONSTANT DJ Maphorisa, DJ Tunez, Wizkid' by Mavo... OK - Popularity: 78
+[55/502] Fetching: 'Sanity Bella' by Shmurda... OK - Popularity: 57
+[56/502] Fetching: 'DANDO INSTRUCCIONES' by JESSI URIBE, JEAN C. CENTENO... OK - Popularity: 52
+[57/502] Fetching: '" Petit Papa Noël "' by Tino Rossi... OK - Popularity: 53
+[58/502] Fetching: '" Sukiyaki "' by Kyu Sakamoto... OK - Popularity: 53
+[59/502] Fetching: '" Billie Jean "' by Michael Jackson... OK - Popularity: 87
+[60/502] Fetching: '" Work "' by Rihanna featuring Drake... OK - Popularity: 80
+[61/502] Fetching: 'CAPTAIN' by BNXN... OK - Popularity: 58
+[62/502] Fetching: 'BUENAS NOCHES SOLEDAD' by ANDRES BRANDT... OK - Popularity: 1
+[63/502] Fetching: 'Symbol Of Hope' by Zlatan... FAILED - Not found
+[64/502] Fetching: 'QUE ME QUIERA MA' by MARC ANTHONY, WISIN... OK - Popularity: 62
+[65/502] Fetching: 'Uptown Funk!' by Mark Ronson Featuring Bruno Mars... OK - Popularity: 85
+[66/502] Fetching: '" Rudolph the Red-Nosed Reindeer "' by Gene Autry... OK - Popularity: 76
+[67/502] Fetching: '" Something Just Like This "' by The Chainsmokers and Coldplay... OK - Popularity: 87
+[68/502] Fetching: '" Levitating "' by Dua Lipa... OK - Popularity: 82
+[69/502] Fetching: 'you' by FOLA... OK - Popularity: 68
+[70/502] Fetching: 'No Sign Of Weakness' by Burna Boy... OK - Popularity: 47
+[71/502] Fetching: 'EL CANTAR TIENE SENTIDO' by MONDI, S. BRAVO, J. GLEM... OK - Popularity: 26
+[72/502] Fetching: 'Dark Horse' by Katy Perry Featuring Juicy J... OK - Popularity: 82
+[73/502] Fetching: 'Kilometer II' by Mavo... FAILED - Not found
+[74/502] Fetching: '" I Will Always Love You "' by Whitney Houston... OK - Popularity: 80
+[75/502] Fetching: '" Dragostea din tei "' by O-Zone... OK - Popularity: 71
+[76/502] Fetching: '" Perfect "' by Ed Sheeran... OK - Popularity: 89
+[77/502] Fetching: '" Sugar "' by Maroon 5... OK - Popularity: 82
+[78/502] Fetching: '" Bad Habits "' by Ed Sheeran... OK - Popularity: 82
+[79/502] Fetching: 'Come & Get It' by Selena Gomez... OK - Popularity: 71
+[80/502] Fetching: 'Getting Paid Sarz, Asake, Wizkid' by Skillibeng... OK - Popularity: 74
+[81/502] Fetching: 'Party Rock Anthem' by LMFAO Featuring Lauren Bennett & GoonRock... OK - Popularity: 76
+[82/502] Fetching: '" I Want to Hold Your Hand "' by The Beatles... OK - Popularity: 69
+[83/502] Fetching: '" Sunflower "' by Post Malone and Swae Lee... OK - Popularity: 83
+[84/502] Fetching: 'ACL' by Blaqbonez... OK - Popularity: 64
+[85/502] Fetching: 'No Excuses' by Blaqbonez... FAILED - Not found
+[86/502] Fetching: 'I Gotta Feeling' by The Black Eyed Peas... OK - Popularity: 83
+[87/502] Fetching: '" We Are the World "' by USA for Africa... OK - Popularity: 71
+[88/502] Fetching: '" Time to Say Goodbye "' by Andrea Bocelli and Sarah Brightman... OK - Popularity: 39
+[89/502] Fetching: '" Closer "' by The Chainsmokers featuring Halsey... OK - Popularity: 87
+[90/502] Fetching: '" Thrift Shop "' by Macklemore and Ryan Lewis featuring Wanz... OK - Popularity: 78
+[91/502] Fetching: '" Cruel Summer "' by Taylor Swift... OK - Popularity: 87
+[92/502] Fetching: 'Work Of Art' by Asake... FAILED - Not found
+[93/502] Fetching: 'Intentions' by Justin Bieber Featuring Quavo... OK - Popularity: 76
+[94/502] Fetching: 'INDUSTRY MACHINE' by ODUMODUBLVCK... OK - Popularity: 68
+[95/502] Fetching: 'Mr Bee' by Rybeena... FAILED - Not found
+[96/502] Fetching: 'Macarena (Bayside Boys Mix)' by Los del Rio... FAILED - Not found
+[97/502] Fetching: '" If I Didn't Care "' by Th OK - Popularity: 54
+[98/502] Fetching: '" 7 Rings "' by Ariana Grande... OK - Popularity: 86
+[99/502] Fetching: '" Dance Monkey "' by Tones and I... OK - Popularity: 74
+[100/502] Fetching: 'EASY WITH ME DJ Tunez, Wizkid' by ODUMODUBLVCK... OK - Popularity: 74
+
+Progress: 100/502 processed. Fetched: 77, Failed: 23
+[101/502] Fetching: 'Fuji Adekunle' by Gold... FAILED - Not found
+[102/502] Fetching: 'Wiggle' by Jason Derulo Featuring Snoop Dogg... FAILED - Not found
+[103/502] Fetching: 'Raindance Dave' by Tems... OK - Popularity: 86
+[104/502] Fetching: '" Do They Know It's Christmas? "' by Band Aid... OK - Popularity: 86
+[105/502] Fetching: '" Thriller "' by Michael Jackson... OK - Popularity: 78
+[106/502] Fetching: '" Lean On "' by Major Lazer & DJ Snake featuring MØ... FAILED - Not found
+[107/502] Fetching: 'Olamide' by Olamide... OK - Popularity: 61
+[108/502] Fetching: 'Only God Can Save Me Adekunle Gold' by Davido... OK - Popularity: 59
+[109/502] Fetching: 'Physical' by Olivia Newton-John... OK - Popularity: 65
+[110/502] Fetching: '" Macarena "' by Los del Río... OK - Popularity: 68
+[111/502] Fetching: '" California Gurls "' by Katy Perry featuring Snoop Dogg... FAILED - Not found
+[112/502] Fetching: '" Calm Down "' by Rema and Selena Gomez... FAILED - Not found
+[113/502] Fetching: 'Many People Adekunle' by Gold... OK - Popularity: 66
+[114/502] Fetching: 'Love' by Burna Boy... OK - Popularity: 67
+[115/502] Fetching: 'You Light Up My Life' by Debby Boone... OK - Popularity: 55
+[116/502] Fetching: '" Believe "' by Cher... OK - Popularity: 80
+[117/502] Fetching: '" Thinking Out Loud "' by Ed Sheeran... OK - Popularity: 56
+[118/502] Fetching: '" Kill Bill "' by SZA... OK - Popularity: 83
+[119/502] Fetching: 'AMA Seyi' by Vibez... OK - Popularity: 71
+[120/502] Fetching: 'Mr. Money With The Vibe' by Asake... FAILED - Not found
+[121/502] Fetching: 'BIG TIME ODUMODUBLVCK' by Wizkid... OK - Popularity: 72
+[122/502] Fetching: '" (Everything I Do) I Do It for You "' by Bryan Adams... OK - Popularity: 79
+[123/502] Fetching: '" Iris "' by Goo Goo Dolls... OK - Popularity: 93
+[124/502] Fetching: '" Somebody That I Used to Know "' by Gotye featuring Kimbra... FAILED - Not found
+[125/502] Fetching: '" Espresso "' by Sabrina Carpenter... OK - Popularity: 85
+[126/502] Fetching: 'With You Davido' by Omah Lay... OK - Popularity: 76
+[127/502] Fetching: 'Lungu Boy' by Asake... FAILED - Not found
+[128/502] Fetching: 'Issues' by Julia Michaels... OK - Popularity: 74
+[129/502] Fetching: 'Adunni Rybeena' by Joeboy... OK - Popularity: 59
+[130/502] Fetching: 'Uzama The 3rd' by EP Famous PLuto... FAILED - Not found
+[131/502] Fetching[131/502] Fetching: '" You're the One That I Want "' by John Travolta and Olivia Newton-John... OK - Popularity: 79
+[132/502] Fetching: '" I Wanna Dance with Somebody (Who Loves Me) "' by Whitney Houston... OK - Popularity: 83
+[133/502] Fetching: '" Die for You "' by The Weeknd and Ariana Grande... OK - Popularity: 87
+[134/502] Fetching: 'Muhammad Ali (Can't Relate)' by Ruger... OK - Popularity: 68
+[135/502] Fetching: 'Protect Sarz At All Cost' by Sarz... FAILED - Not found
+[136/502] Fetching: '" I Will Survive "' by Gloria Gaynor... OK - Popularity: 77
+[137/502] Fetching: 'My Songs Know What You Did In The Dark (Light Em Up)' by Fall Out Boy... OK - Popularity: 78
+[138/502] Fetching: 'Hot Body Ayra' by Starr... OK - Popularity: 73
+[139/502] Fetching: 'We Belong Together' by Mariah Carey... OK - Popularity: 78
+[140/502] Fetching: '" Paper Doll "' by Mills Brothers... OK - Popularity: 46
+[141/502] Fetching: 'PRESSURE Seyi Vibez' by French Montana... OK - Popularity: 64
+[142/502] Fetching: 'Body Like A Back Road' by Sam Hunt... OK - Popularity: 66
+[143/502] Fetching: 'Be Careful' by Cardi B... OK - Popularity: 69
+[144/502] Fetching: 'If I Can't Have You' by Shawn Mendes... OK - Popularity: 74
+[145/502] Fetching: 'HIM Shallipopi' by Gunna... OK - Popularity: 70
+[146/502] Fetching: 'Un-Break My Heart' by Toni Braxton... OK - Popularity: 77
+[147/502] Fetching: '" The Last Farewell "' by Roger Whittaker... OK - Popularity: 48
+[148/502] Fetching: '" Beat It "' by Michael Jackson... OK - Popularity: 83
+[149/502] Fetching: 'HOW ARE YOU Seyi' by Vibez... OK - Popularity: 68
+[150/502] Fetching: 'The Last Wun' by Gunna... OK - Popularity: 61
+
+Progress: 150/502 processed. Fetched: 136, Failed: 14
+[151/502] Fetching: 'IRON BOY Black' by Sherif... OK - Popularity: 52
+[152/502] Fetching: 'Yeah!' by Usher Featuring Lil Jon & Ludacris... OK - Popularity: 86
+[153/502] Fetching: '" We Will Rock You "' by Queen... OK - Popularity: 78
+[154/502] Fetching: '" Firework "' by Katy Perry... OK - Popularity: 74
+[155/502] Fetching: 'Blue Christmas' by Elvis Presley... OK - Popularity: 87
+[156/502] Fetching: 'Despacito Blaqbonez' by FOLA... OK - Popularity: 64
+[157/502] Fetching: 'Bette Davis Eyes' by Kim Carnes... OK - Popularity: 80
+[158/502] Fetching: '" Wabash Cannonball "' by Roy Acuff... OK - Popularity: 26
+[159/502] Fetching: '" Another One Bites the Dust "' by Queen... OK - Popularity: 82
+[160/502] Fetching: 'Unto The Next Famous PLuto' by Zerrydl... OK - Popularity: 72
+[161/502] Fetching: 'One Condition DJ Tunez, Wizkid' by FOLA... OK - Popularity: 74
+[162/502] Fetching: 'Circles' by Post Malone... OK - Popularity: 86
+[163/502] Fetching: '" Careless Whisper "' by George Michael... OK - Popularity: 80
+[164/502] Fetching: '" Needed Me "' by Rihanna... OK - Popularity: 82
+[165/502] Fetching: '" Lose Control "' by Teddy Swims... OK - Popularity: 90
+[166/502] Fetching: 'Isaka II (6am) Ciza, Tems & Omah Lay' by Thukuthela, Ja...... OK - Popularity: 74
+[167/502] Fetching: 'In My Blood' by Shawn Mendes... OK - Popularity: 73
+[168/502] Fetching: 'Santa Baby' by Eartha Kitt With Henri Rene And His Orchestra... OK - Popularity: 86
+[169/502] Fetching: 'Demons Zlatan' by Qing Madi... OK - Popularity: 57
+[170/502] Fetching: 'Boy Alone: Deluxe Edition' by Omah Lay... FAILED - Not found
+[171/502] Fetching: 'Endless Love' by Diana Ross & Lionel Richie... OK - Popularity: 72
+[172/502] Fetching: '" Señorita "' by Shawn Mendes and Camila Cabello... OK - Popularity: 81
+[173/502] Fetching: '" The Box "' by Roddy Ricch... OK - Popularity: 83
+[174/502] Fetching: '5ive' by Davido... FAILED - Not found
+[175/502] Fetching: 'Tonight's The Night (Gonna Be Alright)' by Rod Stewart... OK - Popularity: 58
+[176/502] Fetching: '" My Sweet Lord "' by George Harrison... OK - Popularity: 76
+[177/502] Fetching: '" Right Round "' by Flo Rida featuring Kesha... OK - Popularity: 83
+[178/502] Fetching: 'Run Rudolph Run' by Chuck Berry... OK - Popularity: 87
+[179/502] Fetching: 'Dangbana Riddim Bella Shmurda' by FOLA... OK - Popularity: 70
+[180/502] Fetching: 'Morayo' by Wizkid... FAILED - Not found
+[181/502] Fetching: 'Foolish Games/You Were Meant For Me' by Jewel... FAILED - Not found
+[182/502] Fetching: '" Chirpy Chirpy Cheep Cheep "' by Middle of the Road... OK - Popularity: 53
+[183/502] Fetching: '" Waka Waka (This Time for Africa) "' by Shakira featuring Freshlyground... OK - Popularity: 70
+[184/502] Fetching: '" Low "' by Flo Rida featuring T-Pain... OK - Popularity: 85
+[185/502] Fetching: 'Lonely At The Top' by Asake... OK - Popularity: 72
+[186/502] Fetching: 'Champion's Arrival' by EP Champz... FAILED - Not found
+[187/502] Fetching: 'Shivers' by Ed Sheeran... OK - Popularity: 82
+[188/502] Fetching: 'eko' by FOLA... OK - Popularity: 71
+[189/502] Fetching: 'Thy Kingdom Come Seyi' by Vibez... FAILED - Not found
+[190/502] Fetching: '" I'm a Believer "' by The Monkees... OK - Popularity: 72
+[191/502] Fetching: '" Roar "' by Katy Perry... OK - Popularity: 79
+[192/502] Fetching: '" Bad Romance "' by Lady Gaga... OK - Popularity: 86
+[193/502] Fetching: '" Good 4 U "' by Olivia Rodrigo... OK - Popularity: 83
+[194/502] Fetching: 'UP Seyi Vibez' by Trippie Redd... OK - Popularity: 69
+[195/502] Fetching: 'what a feeling' by EP FOLA... FAILED - Not found
+[196/502] Fetching: 'Born This Way' by Lady Gaga... OK - Popularity: 75
+[197/502] Fetching: 'God's Country' by Blake Shelton... OK - Popularity: 68
+[198/502] Fetching:  OK - Popularity: 61
+[199/502] Fetching: 'Prince Of The Street Ayo' by Maff... FAILED - Not found
+[200/502] Fetching: '" Tennessee Waltz "' by Patti Page... OK - Popularity: 50
+
+Progress: 200/502 processed. Fetched: 152, Failed: 48
+[201/502] Fetching: '" Teenage Dream "' by Katy Perry... OK - Popularity: 72
+[202/502] Fetching: '99 Olamide, Seyi Vibez, Asake' by Young Jonn ...... OK - Popularity: 70
+[203/502] Fetching: 'Little Saint Nick' by The Beach Boys... OK - Popularity: 82
+[204/502] Fetching: 'On a Kentro Fireboy DML & Pheelz' by L.A.X... OK - Popularity: 55
+[205/502] Fetching: 'The Theme From "A Summer Place"' by Percy Faith And His Orchestra... OK - Popularity: 60
+[206/502] Fetching: '" Earth Angel "' by The Penguins... OK - Popularity: 40
+[207/502] Fetching: '" Girls Like You "' by Maroon 5 featuring Cardi B... FAILED - Not found
+[208/502] Fetching: '" Life Is Good "' by Future featuring Drake... FAILED - Not found
+[209/502] Fetching: 'Nights In The Sun Odeal' by Wizkid... OK - Popularity: 70
+[210/502] Fetching: '" Ain't No Mountain High Enough "' by Marvin Gaye & Tammi Terrell... OK - Popularity: 84
+[211/502] Fetching: 'Tunnel Vision' by Kodak Black... OK - Popularity: 76
+[212/502] Fetching: 'Wonderful Christmastime' by Paul McCartney... OK - Popularity: 89
+[213/502] Fetching: 'lost FOLA' by Kizz Daniel... OK - Popularity: 70
+[214/502] Fetching: 'EZIOKWU (UNCUT)' by ODUMODUBLVCK... FAILED - Not found
+[215/502] Fetching: 'Le Freak' by Chic... OK - Popularity: 69
+[216/502] Fetching: '" Eye of the Tiger "' by Survivor... OK - Popularity: 78
+[217/502] Fetching: '" Birds of a Feather "' by Billie Eilish... OK - Popularity: 95
+[218/502] Fetching: 'caricature' by FOLA... OK - Popularity: 72
+[219/502] Fetching: 'Barrystar Vol. 1 (Deluxe) Barry' by Jhay... FAILED - Not found
+[220/502] Fetching: 'THE MACHINE IS COMING' by ODUMODUBLVCK... FAILED - Not found
+[221/502] Fetching: '" A Whiter Shade of Pale "' by Procol Harum... OK - Popularity: 69
+[222/502] Fetching: '" ...Baby One More Time "' by Britney Spears... OK - Popularity: 84
+[223/502] Fetching: '" A Bar Song (Tipsy) "' by Shaboozey... OK - Popularity: 83
+[224/502] Fetching: 'Ewo Famous PLuto, Shallipopi' by Zerrydl... OK - Popularity: 71
+[225/502] Fetching: 'Shakur (Deluxe) T.I' by BLAZE... FAILED - Not found
+[226/502] Fetching: '" Wake Me Up "' by Avicii featuring Aloe Blacc... FAILED - Not found
+[227/502] Fetching: 'Latch' by Disclosure Featuring Sam Smith... FAILED - Not found
+[228/502] Fetching: 'Sorry' by Justin Bieber... OK - Popularity: 86
+[229/502] Fetching: 'Children Of Africa' by EP Seyi Vibez... FAILED - Not found
+[230/502] Fetching: 'We Found Love' by Rihanna Featuring Calvin Harris... FAILED - Not found
+[231/502] Fetching: '" Cheap Thrills "' by Sia featuring Sean Paul... FAILED - Not found
+[232/502] Fetching: 'Ukanigbe' [232/502] Fetching: 'Ukanigbe' by Mavo... OK - Popularity: 53
+[233/502] Fetching: 'Clarity' by Zedd Featuring Foxes... OK - Popularity: 79
+[234/502] Fetching: 'Made In Lagos: Deluxe Edition' by Wizkid... FAILED - Not found
+[235/502] Fetching: '" All About That Bass "' by Meghan Trainor... OK - Popularity: 66
+[236/502] Fetching: 'UNIVERSE Seyi' by Vibez... OK - Popularity: 68
+[237/502] Fetching: 'Very Soon BNXN' by FOLA... OK - Popularity: 72
+[238/502] Fetching: 'Uncle K: Lemon Chase Kizz' by Daniel... FAILED - Not found
+[239/502] Fetching: '"Be Apart"' by Tia Ray... OK - Popularity: 53
+[240/502] Fetching: 'MARIO KART Seyi' by Vibez... OK - Popularity: 67
+[241/502] Fetching: 'Rave' by Roses (Ultra) Rema... FAILED - Not found
+[242/502] Fetching: 'CELINE DION' by Zinoleesky... OK - Popularity: 69
+[243/502] Fetching: 'Loseyi Professor Seyi' by Vibez... FAILED - Not found
+[244/502] Fetching: '" Let It Go "' by Idina Menzel... OK - Popularity: 78
+[245/502] Fetching: 'The Fate of Ophelia Taylor' by Swift... OK - Popularity: 100
+[246/502] Fetching: 'Sincerely, Benson' by BNXN... FAILED - Not found
+[247/502] Fetching: 'After A Few' by Travis Denning... OK - Popularity: 56
+[248/502] Fetching: 'I Just Want To Be Your Everything' by Andy Gibb... OK - Popularity: 68
+[249/502] Fetching: 'History Dave' by James Blake... OK - Popularity: 74
+[250/502] Fetching: 'Too Close' by Next... OK - Popularity: 67
+
+Progress: 250/502 processed. Fetched: 218, Failed: 32
+[251/502] Fetching: '" 7 Years "' by Lukas Graham... OK - Popularity: 61
+[252/502] Fetching: 'BADMAN GANGSTA Asake' by Tiakola... OK - Popularity: 73
+[253/502] Fetching: 'GEN Z' by Zinoleesky... FAILED - Not found
+[254/502] Fetching: '" I Don't Care "' by Ed Sheeran and Justin Bieber... OK - Popularity: 76
+[255/502] Fetching: 'DEM GO PAY Wande' by Coal... OK - Popularity: 56
+[256/502] Fetching: 'GROOVING ODUMODUBLVCK, Davido' by Seun Kuti... OK - Popularity: 66
+[257/502] Fetching: 'Timeless' by Davido... OK - Popularity: 0
+[258/502] Fetching: '" Shallow "' by Lady Gaga and Bradley Cooper... OK - Popularity: 85
+[259/502] Fetching: 'Make E No Tey Mr' by Eazi... OK - Popularity: 46
+[260/502] Fetching: 'WALK WITH ME Kweku' by Smoke... FAILED - Not found
+[261/502] Fetching: 'Linus And Lucy (Peanuts Theme)' by Vince Guaraldi Trio... OK - Popularity: 19
+[262/502] Fetching: 'Bounce Bella Shmurda' by Seyi Vibez... OK - Popularity: 62
+[263/502] Fetching: 'HEIS' by Rema... OK - Popularity: 54
+[264/502] Fetching: 'Despacito' by Luis Fonsi & Daddy Yankee Featuring Justin Bieber... OK - Popularity: 81
+[265/502] Fetching: 'Olayemi' by Fido... FAILED - Not found
+[266/502] Fetching: 'Middle' by DJ Snake Featuring Bipolar Sunshine... OK - Popularity: 79
+[267/502] Fetching: 'Willow' by Taylor Swift... OK - Popularity: 74
+[268/502] Fetching: 'Sawa Lojay' by Victony... OK - Popularity: 47
+[269/502] Fetching: 'Twice As Tall' by Burna Boy... OK - Popularity: 38
+[270/502] Fetching: 'Flashdance...What A Feeling' by Irene Cara... OK - Popularity: 75
+[271/502] Fetching: '" Grenade "' by Bruno Mars... OK - Popularity: 81
+[272/502] Fetching: 'ABANGANI DJ Maphorisa, DJ Tunez' by Wizkid... OK - Popularity: 64
+[273/502] Fetching: 'Billion Dollar Baby 2.0 Seyi' by Vibez... OK - Popularity: 40
+[274/502] Fetching: '" I Took a Pill in Ibiza "' by Mike Posner... OK - Popularity: 81
+[275/502] Fetching: 'Provenza' by Karol G... OK - Popularity: 82
+[276/502] Fetching: 'Appraisal Bella' by Shmurda... OK - Popularity: 66
+[277/502] Fetching: 'Choir Refix Urban' by Chords... FAILED - Not found
+[278/502] Fetching: 'Tossin' And Turnin'' by Bobby Lewis... OK - Popularity: 35
+[279/502] Fetching: 'Love, Damini' by Burna Boy... OK - Popularity: 34
+[280/502] Fetching: 'Skido Victony' by Olamide... OK - Popularity: 58
+[281/502] Fetching: '" Just Dance "' by Lady Gaga featuring Colby O'Donis... OK - Popularity: 84
+[282/502] Fetching: 'TENSION Ayo' by Maff... OK - Popularity: 67
+[283/502] Fetching: 'One Call Away' by Charlie Puth... OK - Popularity: 77
+[284/502] Fetching: 'Laho II Shallipopi' by Burna Boy... OK - Popularity: 71
+[285/502] Fetching: 'KPop Demon Hunters (Soundtrack From The Netflix Film) Kpop Demon Hunters Cast, HUNTRX' by Saja B...... FAILED - Not found
+[286/502] Fetching: 'The Battle Of New Orleans' by Johnny Horton... OK - Popularity: 52
+[287/502] Fetching: '" Royals "' by Lorde... OK - Popularity: 80
+[288/502] Fetching: 'CHANEL' by Tyla... OK - Popularity: 90
+[289/502] Fetching: 'FEAR' by EP NF... OK - Popularity: 0
+[290/502] Fetching: 'Ring Joeboy' by Shoday... OK - Popularity: 56
+[291/502] Fetching: 'Jiggy forever Young' by Jonn... FAILED - Not found
+[292/502] Fetching: 'One Sweet Day' by Mariah Carey & Boyz II Men... OK - Popularity: 70
+[293/502] Fetching: 'Ask Of Me' by Phyno... OK - Popularity: 62
+[294/502] Fetching: 'then 1t g0t crazy' by Zaylevelten... FAILED - Not found
+[295/502] Fetching: 'Dem Dey' by Burna Boy... OK - Popularity: 55
+[296/502] Fetching: 'One Of Wun' by Gunna... OK - Popularity: 82
+[297/502] Fetching: 'Truly Madly Deeply' by Savage Garden... OK - Popularity: 74
+[298/502] Fetching: 'FUJI HOUSE Seyi' by Vibez... OK - Popularity: 66
+[299/502] Fetching: 'healer' by FOLA... OK - Popularity: 70
+[300/502] Fetching: 'Sweet Songs 4 You Lasmid'
+
+Progress: 300/502 processed. Fetched: 224, Failed: 76
+[301/502] Fetching: 'Silly Love Songs' by Wings... OK - Popularity: 64
+[302/502] Fetching: 'Big 7' by Burna Boy... OK - Popularity: 54
+[303/502] Fetching: 'who does that? FOLA' by Bella Shmurda... OK - Popularity: 69
+[304/502] Fetching: 'MAFFIAN Ayo' by Maff... FAILED - Not found
+[305/502] Fetching: 'Let's Get It On' by Marvin Gaye... OK - Popularity: 70
+[306/502] Fetching: 'Agba Baller joki' by 1da Banton... OK - Popularity: 43
+[307/502] Fetching: 'Dura' by Daddy Yankee... OK - Popularity: 71
+[308/502] Fetching: 'PAWON 1da' by Banton... OK - Popularity: 48
+[309/502] Fetching: 'I Told Them' by Burna Boy... OK - Popularity: 44
+[310/502] Fetching: 'Night Fever' by Bee Gees... OK - Popularity: 76
+[311/502] Fetching: 'FUJI PARTY Seyi Vibez' by Olamide... OK - Popularity: 67
+[312/502] Fetching: 'Billionaires Club Olamide, Wizkid' by Darkoo... OK - Popularity: 67
+[313/502] Fetching: 'Barrystar Vol. 1 Barry' by Jhay... FAILED - Not found
+[314/502] Fetching: 'golibe FOLA' by Victony... OK - Popularity: 70
+[315/502] Fetching: 'Blessed' by MohBad... FAILED - Not found
+[316/502] Fetching: 'Coco Money Adekunle' by Gold... OK - Popularity: 63
+[317/502] Fetching: 'Bright' by Echosmith... OK - Popularity: 57
+[318/502] Fetching: 'Body Go Moliy' by Tyla... OK - Popularity: 70
+[319/502] Fetching: 'Shakespopi' by Shallipopi... FAILED - Not found
+[320/502] Fetching: 'Say Say Say' by Paul McCartney And Michael Jackson... FAILED - Not found
+[321/502] Fetching: 'Happier Than Ever' by Billie Eilish... OK - Popularity: 85
+[322/502] Fetching: 'Na So' by Shallipopi... OK - Popularity: 71
+[323/502] Fetching: 'Escaladizzy II Mavo, Ayra Starr & Shallipopi' by Zlatan... OK - Popularity: 68
+[324/502] Fetching: 'Tie A Yellow Ribbon Round The Ole Oak Tree' by Dawn Featuring Tony Orlando... FAILED - Not found
+[325/502] Fetching: 'Tumo Weto' by Mavo... OK - Popularity: 72
+[326/502] Fetching: 'Laughter, Tears' by Goosebumps Fireboy DML... FAILED - Not found
+[327/502] Fetching: 'The Cure' by Lady Gaga... OK - Popularity: 64
+[328/502] Fetching: 'IF YOU LIKE GYM ODUMODUBLVCK' by Modenine... OK - Popularity: 57
+[329/502] Fetching: 'It's All In The Game' by Tommy Edwards... OK - Popularity: 56
+[330/502] Fetching: 'Jungle' by Balloranking... OK - Popularity: 63
+[331/502] Fetching: 'Playboy Fireboy' by DML... OK - Popularity: 65
+[332/502] Fetching: 'Cash Flow Young Jonn' by Wizkid... OK - Popularity: 67
+[333/502] Fetching: 'Homeless' by Llona... FAILED - Not found
+[334/502] Fetching: 'WHERE IS MY HUSBAND!' by RAYE... OK - Popularity: 95
+[335/502] Fetching: 'Rain Is A Good Thing' by Luke Bryan... OK - Popularity: 66
+[336/502] Fetching: 'Rover Khaid' by Ayo Maff... OK - Popularity: 58
+[337/502] Fetching: 'African Giant' by Burna Boy... OK - Popularity: 47
+[338/502] Fetching: 'Shadow Dancing'[338/502] Fetching: 'Shadow Dancing' by Andy Gibb... OK - Popularity: 58
+[339/502] Fetching: 'RnB Ruger' by Bnxn... FAILED - Not found
+[340/502] Fetching: '2step' by Ed Sheeran Featuring Lil Baby... OK - Popularity: 64
+[341/502] Fetching: 'NAHAMciaga' by EP Seyi Vibez... FAILED - Not found
+[342/502] Fetching: 'Believe Adekunle' by Gold... OK - Popularity: 50
+[343/502] Fetching: 'The Villain I Never Was Black' by Sherif... OK - Popularity: 60
+[344/502] Fetching: 'house party Gyakie' by Young Jonn... OK - Popularity: 47
+[345/502] Fetching: 'Presido La Pluto' by Shallipopi... FAILED - Not found
+[346/502] Fetching: 'Amiri (Trumpet) Tml' by Vibez... OK - Popularity: 53
+[347/502] Fetching: 'Candle In The Wind 1997/Something About The Way You Look Tonight' by Elton John... FAILED - Not found
+[348/502] Fetching: 'TORTOISE MAMBO Seyi' by Vibez... OK - Popularity: 65
+[349/502] Fetching: 'Carpe Diem' by Olamide... FAILED - Not found
+[350/502] Fetching: 'Buy Dirt' by Jordan Davis Featuring Luke Bryan... OK - Popularity: 77
+
+Progress: 350/502 processed. Fetched: 298, Failed: 52
+[351/502] Fetching: 'Pressure Seyi' by Vibez... OK - Popularity: 67
+[352/502] Fetching: 'Rema Compilation' by Rema... OK - Popularity: 0
+[353/502] Fetching: 'YSF Wale, Teni' by Seyi Vibez... OK - Popularity: 59
+[354/502] Fetching: 'NSNV Seyi' by Vibez... OK - Popularity: 59
+[355/502] Fetching: 'Champion Sound' by Champz... OK - Popularity: 68
+[356/502] Fetching: 'Kaizen' by EP Bhadboi OML... FAILED - Not found
+[357/502] Fetching: 'Rockin' Around The Christmas Tree' by Justin Bieber... OK - Popularity: 63
+[358/502] Fetching: '175 Months' by Dave... OK - Popularity: 70
+[359/502] Fetching: 'The Year I Turned 21 Ayra' by Starr... OK - Popularity: 37
+[360/502] Fetching: 'LET'S GO!' by PsychoYP... OK - Popularity: 51
+[361/502] Fetching: 'Chapter 16 Dave' by Kano... OK - Popularity: 73
+[362/502] Fetching: 'Legends Never Die Juice' by WRLD... FAILED - Not found
+[363/502] Fetching: 'Candor' by Monaky... FAILED - Not found
+[364/502] Fetching: 'In A Minute' by Lil Baby... OK - Popularity: 66
+[365/502] Fetching: 'Lover' by Taylor Swift... OK - Popularity: 85
+[366/502] Fetching: 'Titi Kizz Daniel' by FOLA... OK - Popularity: 65
+[367/502] Fetching: 'Boom Boom Pow' by The Black Eyed Peas... OK - Popularity: 72
+[368/502] Fetching: 'Big Daddy' by Tems... OK - Popularity: 73
+[369/502] Fetching: 'I Love My Country' by Florida Georgia Line... OK - Popularity: 48
+[370/502] Fetching: 'Whiskey And Rain' by Michael Ray... OK - Popularity: 60
+[371/502] Fetching: 'Mad Oh Peruzzi' by The Cavemen.... OK - Popularity: 43
+[372/502] Fetching: 'Dopamine Fireboy' by DML... OK - Popularity: 65
+[373/502] Fetching: 'Let Me Love You' by Mario... OK - Popularity: 77
+[374/502] Fetching: 'OLOLUFE Oxlade' by Sarkodie... OK - Popularity: 57
+[375/502] Fetching: 'forever be mine Gunna' by Wizkid... OK - Popularity: 75
+[376/502] Fetching: 'Head Comot Ice' by Prince... OK - Popularity: 34
+[377/502] Fetching: 'The Second Wave (Deluxe)' by Ruger... FAILED - Not found
+[378/502] Fetching: 'Lonely Road T.I BLAZE' by Llona... OK - Popularity: 64
+[379/502] Fetching: 'PSYCHODRAMA' by Dave... FAILED - Not found
+[380/502] Fetching: 'Lady' by Kenny Rogers... OK - Popularity: 67
+[381/502] Fetching: 'Man I Need Olivia' by Dean... OK - Popularity: 97
+[382/502] Fetching: 'Laye Mi' by BNXN... OK - Popularity: 66
+[383/502] Fetching: 'Shoot For The Stars, Aim For The Moon Pop' by Smoke... FAILED - Not found
+[384/502] Fetching: 'Tik Tok' by Ke$ha... OK - Popularity: 84
+[385/502] Fetching: 'BOSS UP' by Shenseea... OK - Popularity: 65
+[386/502] Fetching: 'When You're Gone' by Shawn Mendes... OK - Popularity: 68
+[387/502] Fetching: 'Lifestyle' by EP Balloranking... FAILED - Not found
+[388/502] Fetching: 'Vibez Incorporation Mixtape, Vol.1 Vibez Inc' by Seyi Vibez... FAILED - Not found
+[389/502] Fetching: 'Hey Pretty Girl' by Kip Moore... OK - Popularity: 56
+[390/502] Fetching: 'NBA LADIPOE' by Ayo Maff... OK - Popularity: 57
+[391/502] Fetching: 'Timileyin 2.0' by EP Tml Vibez... FAILED - Not found
+[392/502] Fetching: 'Gold Digger' by Kanye West Featuring Jamie Foxx... OK - Popularity: 81
+[393/502] Fetching: 'FIESTA DJ Maphorisa, DJ Tunez & Wizkid' by Zaba...... OK - Popularity: 63
+[394/502] Fetching: 'Before We Became Strangers' by EP Kunmie... FAILED - Not found
+[395/502] Fetching: 'Apologize' by Timbaland Featuring OneRepublic... OK - Popularity: 79
+[396/502] Fetching: 'Addiction' by DeeYasso... OK - Popularity: 27
+[397/502] Fetching: 'The Sign' by Ace of Base... OK - Popularity: 76
+[398/502] Fetching: 'Goodbye' by Good Riddance Juice WRLD... FAILED - Not found
+[399/502] Fetching: 'Hip Hop Messiah Zlatan' by Davido... OK - Popularity: 60
+[400/502] Fetching: 'Bad Habits King Promise' by Davido... OK - Popularity: 62
+
+Progress: 400/502 processed. Fetched: 337, Failed: 63
+[401/502] Fetching: 'How Not To' by Dan + Shay... OK - Popularity: 64
+[402/502] Fetching: 'No Weapons Dave' by Jim Legxacy... OK - Popularity: 73
+[403/502] Fetching: 'Palava' by CupidSZN... OK - Popularity: 49
+[404/502] Fetching: 'Full Control Young' by Jonn... OK - Popularity: 62
+[405/502] Fetching: 'Sunflower (Spider-Man: Into The Spider-Verse)' by Post Malone & Swae Lee... OK - Popularity: 83
+[406/502] Fetchi OK - Popularity: 53
+[407/502] Fetching: 'Please Excuse Me For Being Antisocial Roddy' by Ricch... FAILED - Not found
+[408/502] Fetching: 'Oluwatosin Tkeyz' by Stevehills... OK - Popularity: 67
+[409/502] Fetching: 'Dominion Sounds Of' by Salem... FAILED - Not found
+[410/502] Fetching: '(Just Like) Starting Over' by John Lennon... OK - Popularity: 61
+[411/502] Fetching: 'Onwa December' by Nasboi... OK - Popularity: 53
+[412/502] Fetching: 'Wanted' by Hunter Hayes... OK - Popularity: 55
+[413/502] Fetching: 'My 27th Birthday' by Dave... OK - Popularity: 71
+[414/502] Fetching: 'Feeling' by FOLA... OK - Popularity: 71
+[415/502] Fetching: 'Born In The Wild' by Tems... OK - Popularity: 50
+[416/502] Fetching: 'Singles You Up' by Jordan Davis... OK - Popularity: 67
+[417/502] Fetching: 'The First Noel' by Gabby Barrett... OK - Popularity: 48
+[418/502] Fetching: 'Sanity Bella Shmurda' by Kunmie... OK - Popularity: 57
+[419/502] Fetching: 'We're All Alone This Together' by Dave... OK - Popularity: 61
+[420/502] Fetching: 'The Boy Is Mine' by Brandy & Monica... OK - Popularity: 76
+[421/502] Fetching: 'Better Days' by Hotkid... OK - Popularity: 60
+[422/502] Fetching: 'The Fresh Prince of Lagos' by EP T.I BLAZE... FAILED - Not found
+[423/502] Fetching: 'Because I Love You (The Postman Song)' by Stevie B... OK - Popularity: 46
+[424/502] Fetching: 'Ayo' by Wizkid... FAILED - Not found
+[425/502] Fetching: 'Bad Liar' by Selena Gomez... OK - Popularity: 64
+[426/502] Fetching: 'Selfish Dave' by James Blake... OK - Popularity: 72
+[427/502] Fetching: 'Vibe Till Thy Kingdom Come Seyi' by Vibez... FAILED - Not found
+[428/502] Fetching: 'RU The World' by Ruger... OK - Popularity: 1
+[429/502] Fetching: 'Little Talks' by Of Monsters and Men... OK - Popularity: 82
+[430/502] Fetching: 'Make Way' by Ruger... OK - Popularity: 57
+[431/502] Fetching: 'Pawon Boy Vol. 1 (Deluxe) Tml Vibez' by DJ 4kerty... FAILED - Not found
+[432/502] Fetching: 'Aquarius/Let The Sunshine In (The Flesh Failures)' by The 5th Dimension... OK - Popularity: 58
+[433/502] Fetching: 'Get Layd' by Omah [433/502] Fetching: 'Get Layd' by Omah Lay... FAILED - Not found
+[434/502] Fetching: 'WWP' by EP Tyla... FAILED - Not found
+[435/502] Fetching: 'Whoomp! (There It Is)' by Tag Team... OK - Popularity: 62
+[436/502] Fetching: 'Wallah Wallah Badshah' by Davido... OK - Popularity: 68
+[437/502] Fetching: 'adedamola Fireboy' by DML... FAILED - Not found
+[438/502] Fetching: 'Gaddem Rybeena' by Shoday... OK - Popularity: 60
+[439/502] Fetching: 'Virtuoso' by EP Rybeena... FAILED - Not found
+[440/502] Fetching: 'What We Call It Dami Oniru' by Oladapo... OK - Popularity: 28
+[441/502] Fetching: 'Calculate II Kidd Carder' by Young Jonn... OK - Popularity: 63
+[442/502] Fetching: 'XOXO' by Lojay... FAILED - Not found
+[443/502] Fetching: 'MACHO Seyi Vibez' by NLE Choppa... OK - Popularity: 61
+[444/502] Fetching: 'Ebony And Ivory' by Paul McCartney And Stevie Wonder... OK - Popularity: 33
+[445/502] Fetching: 'Zoo (From "Zootropolis 2")' by Shakira... FAILED - Not found
+[446/502] Fetching: 'cruise control' by FOLA... OK - Popularity: 67
+[447/502] Fetching: 'Rush Rush' by Paula Abdul... OK - Popularity: 62
+[448/502] Fetching: 'TTGG Lil Kesh' by Balloranking... OK - Popularity: 55
+[449/502] Fetching: 'SPIRIT' by Vicoka... OK - Popularity: 59
+[450/502] Fetching: 'disco FOLA' by Young Jonn... OK - Popularity: 66
+
+Progress: 450/502 processed. Fetched: 375, Failed: 75
+[451/502] Fetching: 'That's What Friends Are For' by Dionne & Friends Featuring Elton John, Gladys Knight And Stevie Wonder... OK - Popularity: 66
+[452/502] Fetching: 'AWAKENING' by Xploitcomedy... FAILED - Not found
+[453/502] Fetching: 'Chained To The Rhythm' by Katy Perry Featuring Skip Marley... OK - Popularity: 70
+[454/502] Fetching: 'Bichota' by Karol G... OK - Popularity: 69
+[455/502] Fetching: 'wgft Gunna' by Burna Boy... OK - Popularity: 81
+[456/502] Fetching: 'Trench Kid (Deluxe Edition)' by Balloranking... OK - Popularity: 55
+[457/502] Fetching: 'Way Out' by Jack Harlow Featuring Big Sean... OK - Popularity: 63
+[458/502] Fetching: 'DYNAMITE Tyla' by Wizkid... OK - Popularity: 72
+[459/502] Fetching: 'ASTROWORLD Travis' by Scott... FAILED - Not found
+[460/502] Fetching: 'Working II Keith Sweat, Lil Wayne' by Qing Madi... OK - Popularity: 56
+[461/502] Fetching: 'Bad Since '97' by BNXN... OK - Popularity: 54
+[462/502] Fetching: 'On Top Of The World' by Imagine Dragons... OK - Popularity: 76
+[463/502] Fetching: 'Golden (from the Netflix film Kpop Demon Hunters) HUNTRX, EJAE, AUDREY NUNA, REI AMI' by KPo...... FAILED - Not found
+[464/502] Fetching: 'A Good Time' by Davido... OK - Popularity: 54
+[465/502] Fetching: 'Death Race For Love Juice' by WRLD... FAILED - Not found
+[466/502] Fetching: 'Osusu Famous PLuto' by Jeriq... OK - Popularity: 66
+[467/502] Fetching: '19 & Dangerous (Deluxe) Ayra' by Starr... FAILED - Not found
+[468/502] Fetching: 'Fairchild Dave' by Nicole Blakk... OK - Popularity: 69
+[469/502] Fetching: 'Dilemma' by Nelly Featuring Kelly Rowland... OK - Popularity: 82
+[470/502] Fetching: 'Ordinary Things' by Victony... OK - Popularity: 61
+[471/502] Fetching: 'Encore (Deluxe Version)' by Eminem... OK - Popularity: 52
+[472/502] Fetching: 'To Be A Man Kizz' by Daniel... OK - Popularity: 62
+[473/502] Fetching: 'Synergy' by EP Hyce, BoyPee & Brown Joel... FAILED - Not found
+[474/502] Fetching: 'I Heard It Through The Grapevine' by Marvin Gaye... OK - Popularity: 73
+[475/502] Fetching: 'Famous Shizzi' by Tayor... OK - Popularity: 44
+[476/502] Fetching: 'SOS Deluxe: LANA' by SZA... OK - Popularity: 52
+[477/502] Fetching: 'Qing Madi Qing' by Madi... OK - Popularity: 48
+[478/502] Fetching: 'On My Way To You' by Cody Johnson... OK - Popularity: 70
+[479/502] Fetching: 'More Love, Less Ego' by Wizkid... FAILED - Not found
+[480/502] Fetching: 'Speed Teni' by Gunna... OK - Popularity: 64
+[481/502] Fetching: 'Finally Over It (The Afterparty) Summer' by Walker... OK - Popularity: 57
+[482/502] Fetching: 'Pick Me Up' by Gabby Barrett... OK - Popularity: 54
+[483/502] Fetching: 'See What We've Done King Promise' by Mr Eazi... OK - Popularity: 59
+[484/502] Fetching: 'Son Of Spergy Daniel' by Caesar... OK - Popularity: 74
+[485/502] Fetching: 'SANKO (She Always Needs Kilogbede One)' by Mavo... FAILED - Not found
+[486/502] Fetching: 'I Alone' by BNXN... OK - Popularity: 65
+[487/502] Fetching: 'Rockstar' by Post Malone Featuring 21 Savage... OK - Popularity: 82
+[488/502] Fetching: 'Che Che Young Jonn' by Asake... OK - Popularity: 67
+[489/502] Fetching: 'Can't Rush Greatness' by Central Cee... FAILED - Not found
+[490/502] Fetching: 'All In' by Lil Baby... OK - Popularity: 57
+[491/502] Fetching: 'Knowing You' by Kenny Chesney... OK - Popularity: 61
+[492/502] Fetching: 'Marvellous' by Dave... OK - Popularity: 72
+[493/502] Fetching: 'KIARI' by Offset... FAILED - Not found
+[494/502] Fetching: 'Abracadabra' by The Steve Miller Band... OK - Popularity: 70
+[495/502] Fetching: 'DROWN Nonso' by Amadi... OK - Popularity: 52
+[496/502] Fetching: 'HIT ME HARD AND SOFT Billie' by Eilish... FAILED - Not found
+[497/502] Fetching: 'ily' by Surf Mesa Featuring Emilee... OK - Popularity: 75
+[498/502] Fetching: 'Jealous Type' by Doja Cat... OK - Popularity: 78
+[499/502] Fetching: 'You're So Vain' by Carly Simon... OK - Popularity: 77
+[500/502] Fetching: 'bye bye' by FOLA... OK - Popularity: 58
+
+Progress: 500/502 processed. Fetched: 414, Failed: 86
+[501/502] Fetching: 'Ghetto Gospel' by Balloranking... FAILED - Not found
+[502/502] Fetching: 'After Hours' by The Weeknd... OK - Popularity: 83
+
+
+Completed!
+  Successfully fetched: 415
+  Failed/not found: 87
+  Total rows with popularity: 886/973
+Saved updated dataset to: C:\Users\cuqui\dalas\DALAS-Project\data\master_dataset.csv

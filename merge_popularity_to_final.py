@@ -12,6 +12,7 @@ This script:
 from pathlib import Path
 import pandas as pd
 import sys
+import re
 
 PROJECT_ROOT = Path(__file__).parent
 DATA_DIR = PROJECT_ROOT / "data"
@@ -23,7 +24,11 @@ def normalize_text(s):
     """Normalize text for matching."""
     if pd.isna(s):
         return ""
-    return str(s).lower().strip()
+    t = str(s).lower().strip()
+    # Drop wrapping quotes and normalize whitespace
+    t = re.sub(r'^[\'"]+|[\'"]+$', "", t).strip()
+    t = re.sub(r"\s+", " ", t)
+    return t
 
 
 def main():
@@ -76,9 +81,16 @@ def main():
         suffixes=('', '_from_master')
     )
     
-    # Update popularity: use master's value if available and current is NaN
+    # Update popularity: use master's Spotify-derived value wherever it exists.
+    # We always trust master (which we refresh directly from Spotify) over any
+    # popularity carried in from earlier Kaggle merges.
     if 'popularity_from_master' in final_df.columns:
-        final_df['popularity'] = final_df['popularity'].fillna(final_df['popularity_from_master'])
+        # Coerce to numeric for robust comparisons/merging
+        final_df['popularity'] = pd.to_numeric(final_df['popularity'], errors='coerce')
+        final_df['popularity_from_master'] = pd.to_numeric(final_df['popularity_from_master'], errors='coerce')
+
+        mask_has_master = final_df['popularity_from_master'].notna()
+        final_df.loc[mask_has_master, 'popularity'] = final_df.loc[mask_has_master, 'popularity_from_master']
         final_df = final_df.drop(columns=['popularity_from_master'])
     
     after_count = final_df['popularity'].notna().sum()

@@ -23,6 +23,7 @@ from __future__ import annotations
 import os
 import sys
 import time
+import re
 from pathlib import Path
 from typing import Optional
 
@@ -74,8 +75,8 @@ except ImportError:
 DATA_DIR = PROJECT_ROOT / "data"
 MASTER_PATH = DATA_DIR / "master_dataset.csv"
 
-# Rate limiting: Spotify allows 300 requests per minute
-# We'll be conservative and use 50 requests per minute (1.2 seconds between requests)
+# Rate limiting: Spotify allows 300 requests per minute.
+# We'll be conservative and use ~50 requests per minute (1.2 seconds between requests).
 REQUEST_DELAY = 1.2
 BATCH_SIZE = 50  # Process in batches to allow for rate limit reset
 
@@ -127,8 +128,34 @@ def search_track(
     if not title or not artist:
         return None
 
+    def clean_title_for_search(s: str) -> str:
+        s = str(s).strip()
+        # Remove wrapping quotes and normalize whitespace
+        s = re.sub(r'^[\'"]+|[\'"]+$', "", s).strip()
+        s = re.sub(r"\s+", " ", s)
+        # Drop trailing metadata after " - " (e.g., remastered/edit versions)
+        if " - " in s:
+            s = s.split(" - ", 1)[0].strip()
+        return s
+
+    def clean_artist_for_search(s: str) -> str:
+        s = str(s).strip()
+        s = re.sub(r'^[\'"]+|[\'"]+$', "", s).strip()
+        # Remove featuring/with segments
+        s = re.split(r"\b(feat\.|ft\.|featuring|with)\b", s, flags=re.IGNORECASE)[0]
+        # Prefer the primary artist when multiple are present
+        for sep in [";", ",", "&", " x ", " X ", " and "]:
+            if sep in s:
+                s = s.split(sep, 1)[0]
+        s = re.sub(r"\s+", " ", s).strip()
+        return s
+
     # Clean up the search query
-    query = f"track:{title} artist:{artist}"
+    title_q = clean_title_for_search(title)
+    artist_q = clean_artist_for_search(artist)
+    if not title_q or not artist_q:
+        return None
+    query = f"track:{title_q} artist:{artist_q}"
     try:
         results = sp.search(q=query, type="track", limit=1)
         tracks = results.get("tracks", {}).get("items", [])
@@ -184,20 +211,11 @@ def main() -> int:
     df = pd.read_csv(MASTER_PATH)
     print(f"Loaded {len(df)} rows.")
 
-    # Check if popularity column already exists
-    has_popularity = "popularity" in df.columns
-    if has_popularity:
-        missing_popularity = df["popularity"].isna().sum()
-        print(f"Found existing 'popularity' column with {missing_popularity} missing values.")
-        print("Will only fetch popularity for rows where it's missing.")
-    else:
-        df["popularity"] = pd.NA
-        missing_popularity = len(df)
-        print("No existing 'popularity' column. Will fetch for all rows.")
-
-    if missing_popularity == 0:
-        print("All rows already have popularity scores. Nothing to do.")
-        return 0
+    # For full accuracy, ignore any existing popularity values and refetch everything from Spotify.
+    # This guarantees that master_dataset.csv reflects current Spotify popularity for every track we can match.
+    df["popularity"] = pd.NA
+    rows_needing_popularity = pd.Series(True, index=df.index)
+    print("Will fetch popularity for ALL rows from Spotify (ignoring any existing values).")
 
     # Initialize Spotify client
     print("\nInitializing Spotify API client...")
@@ -208,19 +226,29 @@ def main() -> int:
         print(f"Error initializing Spotify client: {e}", file=sys.stderr)
         return 1
 
-    # Process rows that need popularity
-    rows_to_process = df[df["popularity"].isna()].copy()
+    # Process rows that need popularity (here: all rows)
+    rows_to_process = df[rows_needing_popularity].copy()
     print(f"\nFetching popularity for {len(rows_to_process)} rows...")
     print(f"Using delay of {REQUEST_DELAY} seconds between requests to respect rate limits.")
 
     fetched_count = 0
     failed_count = 0
 
+    def safe_console(s: object) -> str:
+        """Avoid Windows console UnicodeEncodeError by forcing ASCII-safe output."""
+        try:
+            return str(s).encode("ascii", "replace").decode("ascii")
+        except Exception:
+            return "<unprintable>"
+
     for idx, (row_idx, row) in enumerate(rows_to_process.iterrows(), 1):
         title = str(row.get("title", "")).strip()
         artist = str(row.get("artist", "")).strip()
         
-        print(f"[{idx}/{len(rows_to_process)}] Fetching: '{title}' by {artist}...", end=" ")
+        print(
+            f"[{idx}/{len(rows_to_process)}] Fetching: '{safe_console(title)}' by {safe_console(artist)}...",
+            end=" ",
+        )
 
         popularity = get_popularity_for_row(sp, row, use_search=True)
         

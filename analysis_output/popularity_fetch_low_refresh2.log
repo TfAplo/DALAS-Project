@@ -1,0 +1,142 @@
+Loaded 4 environment variable(s) from .env file
+Loading master_dataset.csv...
+Loaded 973 rows.
+Found existing 'popularity' column with 87 NaN and 33 values < 10.
+Will fetch popularity for rows where it's NaN or < 10.
+
+Initializing Spotify API client...
+Spotify client initialized successfully.
+
+Fetching popularity for 120 rows...
+Using delay of 1.2 seconds between requests to respect rate limits.
+[1/120] Fetching: 'TENGO FE' by Feid... OK - Popularity: 62
+[2/120] Fetching: 'SI T? SUPIERAS (Bonus Track)' by Feid... OK - Popularity: 71
+[3/120] Fetching: 'AMOR DE MI VIDA' by Feid... OK - Popularity: 68
+[4/120] Fetching: 'Come My Way' by Wande Coal... OK - Popularity: 52
+[5/120] Fetching: 'catharsis' by FOLA... FAILED - Not found
+[6/120] Fetching: '" Spotlight "' by Xiao Zhan... FAILED - Not found
+[7/120] Fetching: 'PLAYITA' by ELIO LEIROS Y JERRY DI... FAILED - Not found
+[8/120] Fetching: 'SISMO' by PALOLA... OK - Popularity: 3
+[9/120] Fetching: 'INDUSTRY' by MACHINE... OK - Popularity: 0
+[10/120] Fetching: 'BUENAS NOCHES SOLEDAD' by ANDRES BRANDT... OK - Popularity: 1
+[11/120] Fetching: 'Symbol Of Hope' by Zlatan... FAILED - Not found
+[12/120] Fetching: 'Kilometer II' by Mavo... FAILED - Not found
+[13/120] Fetching: 'Let It Snow! Let It Snow! Let It Snow!' by Dean Martin... OK - Popularity: 93
+[14/120] Fetching: 'No Excuses' by Blaqbonez... FAILED - Not found
+[15/120] Fetching: 'Work Of Art' by Asake... FAILED - Not found
+[16/120] Fetching: 'Mr Bee' by Rybeena... FAILED - Not found
+[17/120] Fetching: 'Macarena (Bayside Boys Mix)' by Los del Rio... FAILED - Not found
+[18/120] Fetching: 'Fuji Adekunle' by Gold... FAILED - Not found
+[19/120] Fetching: 'Mr. Money With The Vibe' by Asake... FAILED - Not found
+[20/120] Fetching: 'Lungu Boy' by Asake... FAILED - Not found
+[21/120] Fetching: 'Uzama The 3rd' by EP Famous PLuto... FAILED - Not found
+[22/120] Fetching: 'Protect Sarz At All Cost' by Sarz... FAILED - Not found
+[23/120] Fetching: 'The Edge Of Glory' by Lady Gaga... OK - Popularity: 69
+[24/120] Fetching: 'Boy Alone: Deluxe Edition' by Omah Lay... FAILED - Not found
+[25/120] Fetching: '5ive' by Davido... FAILED - Not found
+[26/120] Fetching: 'Morayo' by Wizkid... FAILED - Not found
+[27/120] Fetching: 'Foolish Games/You Were Meant For Me' by Jewel... FAILED - Not found
+[28/120] Fetching: 'Champion's Arrival' by EP Champz... FAILED - Not found
+[29/120] Fetching: 'Thy Kingdom Come Seyi' by Vibez... FAILED - Not found
+[30/120] Fetching: 'what a feeling' by EP FOLA... FAILED - Not found
+[31/120] Fetching: 'Prince Of The Street Ayo' by Maff... FAILED - Not found
+[32/120] Fetching: 'I'Ll Make Love To You' by Boyz II Men... OK - Popularity: 70
+[33/120] Fetching: 'Super Gremlin' by Kodak Black... OK - Popularity: 71
+[34/120] Fetching: 'EZIOKWU (UNCUT)' by ODUMODUBLVCK... FAILED - Not found
+[35/120] Fetching: 'Barrystar Vol. 1 (Deluxe) Barry' by Jhay... FAILED - Not found
+[36/120] Fetching: 'THE MACHINE IS COMING' by ODUMODUBLVCK... FAILED - Not found
+[37/120] Fetching: 'Rockabye' by Clean Bandit Featuring Sean Paul & Anne-Marie... OK - Popularity: 80
+[38/120] Fetching: 'Shakur (Deluxe) T.I' by BLAZE... FAILED - Not found
+[39/120] Fetching: 'Children Of Africa' by EP Seyi Vibez... FAILED - Not found
+[40/120] Fetching: 'Made In Lagos: Deluxe Edition' by Wizkid... FAILED - Not found
+[41/120] Fetching: 'Uncle K: Lemon Chase Kizz' by Daniel... FAILED - Not found
+[42/120] Fetching: 'Rave' by Roses (Ultra) Rema... FAILED - Not found
+[43/120] Fetching: 'Loseyi Professor Seyi' by Vibez... FAILED - Not found
+[44/120] Fetching: 'Sincerely, Benson' by BNXN... FAILED - Not found
+[45/120] Fetching: 'GEN Z' by Zinoleesky... FAILED - Not found
+[46/120] Fetching: 'Timeless' by Davido... OK - Popularity: 0
+[47/120] Fetching: 'WALK WITH ME Kweku' by Smoke... FAILED - Not found
+[48/120] Fetching: 'Mistletoe' by Justin Bieber... OK - Popularity: 91
+[49/120] Fetching: 'Olayemi' by Fido... FAILED - Not found
+[50/120] Fetching: 'Choir Refix Urban' by Chords... FAILED - Not found
+
+Progress: 50/120 processed. Fetched: 14, Failed: 36
+[51/120] Fetching: 'Therefore I Am' by Billie Eilish... OK - Popularity: 73
+[52/120] Fetching: 'Something In The Orange' by Zach Bryan... OK - Popularity: 86
+[53/120] Fetching: 'KPop Demon Hunters (Soundtrack From The Netflix Film) Kpop Demon Hunters Cast, HUNTRX' by Saja B...... FAILED - Not found
+[54/120] Fetching: 'FEAR' by EP NF... OK - Popularity: 0
+[55/120] Fetching: 'Jiggy forever Young' by Jonn... FAILED - Not found
+[56/120] Fetching: 'then 1t g0t crazy' by Zaylevelten... FAILED - Not found
+[57/120] Fetching: 'Country Girl (Shake It For Me)' by Luke Bryan... OK - Popularity: 76
+[58/120] Fetching: 'Sweet Songs 4 You Lasmid' by Tml Vibez... FAILED - Not found
+[59/120] Fetching: 'I Feel It Coming' by The Weeknd Featuring Daft Punk... OK - Popularity: 78
+[60/120] Fetching: 'MAFFIAN Ayo' by Maff... FAILED - Not found
+[61/120] Fetching: 'Hey Look Ma, I Made It' by Panic! At The Disco... OK - Popularity: 66
+[62/120] Fetching: 'Barrystar Vol. 1 Barry' by Jhay... FAILED - Not found
+[63/120] Fetching: 'Blessed' by MohBad... FAILED - Not found
+[64/120] Fetching: 'Shakespopi' by Shallipopi... FAILED - Not found
+[65/120] Fetching: 'Say Say Say' by Paul McCartney And Michael Jackson... FAILED - Not found
+[66/120] Fetching: 'Laughter, Tears' by Goosebumps Fireboy DML... FAILED - Not found
+[67/120] Fetching: 'Emotionally Scarred' by Lil Baby... OK - Popularity: 72
+[68/120] Fetching: 'Homeless' by Llona... FAILED - Not found
+[69/120] Fetching: 'Bury A Friend' by Billie Eilish... OK - Popularity: 75
+[70/120] Fetching: 'RnB Ruger' by Bnxn... FAILED - Not found
+[71/120] Fetching: 'Clout' by Offset Featuring Cardi B... OK - Popularity: 66
+[72/120] Fetching: 'NAHAMciaga' by EP Seyi Vibez... FAILED - Not found
+[73/120] Fetching: 'Presido La Pluto' by Shallipopi... FAILED - Not found
+[74/120] Fetching: 'Candle In The Wind 1997/Something About The Way You Look Tonight' by Elton John... FAILED - Not found
+[75/120] Fetching: 'Carpe Diem' by Olamide... FAILED - Not found
+[76/120] Fetching: 'Rema Compilation' by Rema... OK - Popularity: 0
+[77/120] Fetching: 'Kaizen' by EP Bhadboi OML... FAILED - Not found
+[78/120] Fetching: 'Legends Never Die Juice' by WRLD... FAILED - Not found
+[79/120] Fetching: 'Candor' by Monaky... FAILED - Not found
+[80/120] Fetching: 'Diamonds' by Sam Smith... OK - Popularity: 68
+[81/120] Fetching: 'The Second Wave (Deluxe)' by Ruger... FAILED - Not found
+[82/120] Fetching: 'PSYCHODRAMA' by Dave... FAILED - Not found
+[83/120] Fetching: 'Shoot For The Stars, Aim For The Moon Pop' by Smoke... FAILED - Not found
+[84/120] Fetching: 'Lifestyle' by EP Balloranking... FAILED - Not found
+[85/120] Fetching: 'Vibez Incorporation Mixtape, Vol.1 Vibez Inc' by Seyi Vibez... FAILED - Not found
+[86/120] Fetching: 'Uma Thurman' by Fall Out Boy... OK - Popularity: 69
+[87/120] Fetching: 'Timileyin 2.0' by EP Tml Vibez... FAILED - Not found
+[88/120] Fetching: 'Mercy' by Brett Young... OK - Popularity: 68
+[89/120] Fetching: 'Before We Became Strangers' by EP Kunmie... FAILED - Not found
+[90/120] Fetching: 'Goodbye' by Good Riddance Juice WRLD... FAILED - Not found
+[91/120] Fetching: 'Please Excuse Me For Being Antisocial Roddy' by Ricch... FAILED - Not found
+[92/120] Fetching: 'Dominion Sounds Of' by Salem... FAILED - Not found
+[93/120] Fetching: 'The Fresh Prince of Lagos' by EP T.I BLAZE... FAILED - Not found
+[94/120] Fetching: 'Ayo' by Wizkid... FAILED - Not found
+[95/120] Fetching: 'Vibe Till Thy Kingdom Come Seyi' by Vibez... FAILED - Not found
+[96/120] Fetching: 'RU The World' by Ruger... OK - Popularity: 1
+[97/120] Fetching: 'Pawon Boy Vol. 1 (Deluxe) Tml Vibez' by DJ 4kerty... FAILED - Not found
+[98/120] Fetching: 'Get Layd' by Omah Lay... FAILED - Not found
+[99/120] Fetching: 'WWP' by EP Tyla... FAILED - Not found
+[100/120] Fetching: 'adedamola Fireboy' by DML... FAILED - Not found
+
+Progress: 100/120 processed. Fetched: 28, Failed: 72
+[101/120] Fetching: 'Virtuoso' by EP Rybeena... FAILED - Not found
+[102/120] Fetching: 'XOXO' by Lojay... FAILED - Not found
+[103/120] Fetching: 'Zoo (From "Zootropolis 2")' by Shakira... FAILED - Not found
+[104/120] Fetching: 'AWAKENING' by Xploitcomedy... FAILED - Not found
+[105/120] Fetching: 'ASTROWORLD Travis' by Scott... FAILED - Not found
+[106/120] Fetching: 'Upside Down' by Diana Ross... OK - Popularity: 80
+[107/120] Fetching: 'Golden (from the Netflix film Kpop Demon Hunters) HUNTRX, EJAE, AUDREY NUNA, REI AMI' by KPo...... FAILED - Not found
+[108/120] Fetching: 'Death Race For Love Juice' by WRLD... FAILED - Not found
+[109/120] Fetching: '19 & Dangerous (Deluxe) Ayra' by Starr... FAILED - Not found
+[110/120] Fetching: '7500 OBO' by Tim McGraw... OK - Popularity: 55
+[111/120] Fetching: 'Synergy' by EP Hyce, BoyPee & Brown Joel... FAILED - Not found
+[112/120] Fetching: 'You're Still The One' by Shania Twain... OK - Popularity: 76
+[113/120] Fetching: 'More Love, Less Ego' by Wizkid... FAILED - Not found
+[114/120] Fetching: 'SANKO (She Always Needs Kilogbede One)' by Mavo... FAILED - Not found
+[115/120] Fetching: 'Love Me More' by Sam Smith... OK - Popularity: 60
+[116/120] Fetching: 'Can't Rush Greatness' by Central Cee... FAILED - Not found
+[117/120] Fetching: 'KIARI' by Offset... FAILED - Not found
+[118/120] Fetching: 'HIT ME HARD AND SOFT Billie' by Eilish... FAILED - Not found
+[119/120] Fetching: 'Ghetto Gospel' by Balloranking... FAILED - Not found
+[120/120] Fetching: 'Born To Die' by Lana Del Rey... OK - Popularity: 60
+
+
+Completed!
+  Successfully fetched: 33
+  Failed/not found: 87
+  Total rows with popularity: 886/973
+Saved updated dataset to: C:\Users\cuqui\dalas\DALAS-Project\data\master_dataset.csv

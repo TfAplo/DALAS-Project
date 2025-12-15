@@ -77,7 +77,7 @@ def load_all_labmt_dicts() -> Dict[str, Dict[str, float]]:
     labmt_dicts = {}
     
     for lang_code, filename in LABMT_LANGUAGES.items():
-        filepath = DATA_DIR / filename
+        filepath = DATA_DIR / "hedonometer" / filename
         if filepath.exists():
             try:
                 df = pd.read_csv(filepath)

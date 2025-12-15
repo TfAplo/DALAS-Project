@@ -10,7 +10,7 @@ Outputs:
 
 Unified columns:
   source,domain,chart,region,country,continent,date,position,title,artist,url,scraped_at,
-  city,track_id,album,energy,danceability,valence,tempo,loudness,acousticness,instrumentalness,speechiness,liveness
+  city,track_id,album,popularity,energy,danceability,valence,tempo,loudness,acousticness,instrumentalness,speechiness,liveness
 """
 from __future__ import annotations
 
@@ -40,7 +40,7 @@ EXTRACTED_TABLES_DIR = DATA_DIR / "extracted_tables"
 BASE_COLUMNS = [
     "source", "domain", "chart", "region", "country", "continent",
     "date", "position", "title", "artist", "url", "scraped_at",
-    "city", "track_id", "album",
+    "city", "track_id", "album", "popularity",
     "energy", "danceability", "valence", "tempo", "loudness",
     "acousticness", "instrumentalness", "speechiness", "liveness",
 ]
@@ -94,6 +94,8 @@ def load_base_charts() -> pd.DataFrame:
         if "album" not in df.columns:
             # Map from album_name if present
             df["album"] = df.get("album_name", pd.NA)
+        if "popularity" not in df.columns:
+            df["popularity"] = pd.NA
         for col in ["city", "track_id"]:
             if col not in df.columns:
                 df[col] = pd.NA

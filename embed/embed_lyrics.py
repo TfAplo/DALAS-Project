@@ -54,7 +54,7 @@ class LyricsEmbedder:
 
         return t
 
-    def process_csv(self, input_path, output_path, column_name):
+    def process_csv(self, input_path, output_path, column_name, keep_all: bool = False):
         """
         Loads CSV, embeds the specific column, and saves the result.
         """
@@ -73,17 +73,22 @@ class LyricsEmbedder:
             raise ValueError(f"Column '{column_name}' not found. Available columns: {list(df.columns)}")
 
         # 3. Pre-processing (Basic + lyric cleaning)
-        # Handle NaN/Empty values to prevent crashes
         print(f"Cleaning data in column '{column_name}'...")
         original_count = len(df)
-        df = df.dropna(subset=[column_name])  # Drop rows with no lyrics
-        df = df[df[column_name].astype(str).str.strip() != ""]  # Drop rows with empty strings
+        if not keep_all:
+            # Historical behavior: drop missing/empty lyrics rows.
+            df = df.dropna(subset=[column_name])  # Drop rows with no lyrics
+            df = df[df[column_name].astype(str).str.strip() != ""]  # Drop rows with empty strings
+        else:
+            # Keep all rows; embed empty lyrics as empty strings (will produce a valid embedding vector).
+            df[column_name] = df[column_name].fillna("")
 
         # Create a cleaned column for embedding (keeps original text intact)
         cleaned_col = f"{column_name}_clean"
         print(f"Applying lyric cleaning -> '{cleaned_col}'...")
         df[cleaned_col] = df[column_name].apply(self.clean_lyrics_text)
-        df = df[df[cleaned_col].str.strip() != ""]
+        if not keep_all:
+            df = df[df[cleaned_col].str.strip() != ""]
         
         if len(df) < original_count:
             print(f"Dropped {original_count - len(df)} rows due to missing/empty data.")
@@ -137,8 +142,9 @@ if __name__ == "__main__":
     parser.add_argument('--output', type=str, default='output_with_embeddings.csv', help="Path for the output file.")
     parser.add_argument('--model', type=str, default='all-MiniLM-L6-v2', help="HuggingFace model name.")
     parser.add_argument('--batch_size', type=int, default=32, help="Batch size for embedding.")
+    parser.add_argument('--keep_all', action='store_true', help="Keep all rows (embed empty lyrics as empty strings).")
 
     args = parser.parse_args()
 
     embedder = LyricsEmbedder(model_name=args.model, batch_size=args.batch_size)
-    embedder.process_csv(args.input_file, args.output, args.column_name)
+    embedder.process_csv(args.input_file, args.output, args.column_name, keep_all=args.keep_all)

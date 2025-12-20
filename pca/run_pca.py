@@ -26,20 +26,20 @@ class PCAAnalyzer:
             raise FileNotFoundError(f"Input file not found: {file_path}")
             
         print(f"Loading {file_path}...")
-        df = pd.read_csv(file_path)
+        if file_path.endswith('.pkl'):
+            df = pd.read_pickle(file_path)
+        else:
+            df = pd.read_csv(file_path)
         
         if embedding_col not in df.columns:
             raise ValueError(f"Column '{embedding_col}' not found.")
 
-        # Check if the first element is a string. If so, parse it.
-        # This handles the "CSV converts lists to strings" issue.
+        # If embeddings are stringified (CSV), parse them back into lists.
         if isinstance(df[embedding_col].iloc[0], str):
             print(f"Parsing stringified embeddings in '{embedding_col}'...")
-            # ast.literal_eval safely evaluates a string containing a Python literal
             df[embedding_col] = df[embedding_col].apply(ast.literal_eval)
         
-        # Convert column of lists into a 2D Numpy array for Sklearn
-        # Result shape: (n_samples, n_features)
+        # Convert column of lists/arrays into a 2D Numpy array for Sklearn
         feature_matrix = np.vstack(df[embedding_col].values)
         
         return df, feature_matrix
@@ -124,7 +124,10 @@ if __name__ == "__main__":
     final_df = pd.concat([df, pca_df], axis=1)
     
     print(f"Saving data to {args.output_csv}...")
-    final_df.to_csv(args.output_csv, index=False)
+    if args.output_csv.endswith('.pkl'):
+        final_df.to_pickle(args.output_csv)
+    else:
+        final_df.to_csv(args.output_csv, index=False)
 
     # 5. Plot (if 2D)
     if args.components == 2:

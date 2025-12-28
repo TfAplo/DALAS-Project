@@ -1,0 +1,1551 @@
+index,source_title,source_artist,spotify_name,spotify_artists,track_id,matches,reason
+0,Under The Influence,Chris Brown,Under The Influence,Chris Brown,5IgjP7X4th6nMNDh4akUHb,True,Perfect match
+1,7500 OBO,Tim McGraw,7500 OBO,Tim McGraw,7A4WmJcWx6KrVRfQ2CP8e7,True,Perfect match
+2,Something In The Orange,Zach Bryan,Something in the Orange,Zach Bryan,3WMj8moIAXJhHsyLaqIIHI,True,Perfect match
+3,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,2uFaJJtFpPDc5Pa95XzTvg,True,Perfect match
+4,Rockabye,Clean Bandit Featuring Sean Paul & Anne-Marie,Rockabye,Clean Bandit;Sean Paul;Anne-Marie,,True,Perfect match
+5,Super Gremlin,Kodak Black,Super Gremlin,Kodak Black,1Y5Jvi3eLi4Chwqch9GMem,True,Perfect match
+6,Bury A Friend,Billie Eilish,bury a friend,Billie Eilish,4SSnFejRGlZikf02HLewEF,True,Perfect match
+7,Born To Die,Lana Del Rey,Born To Die,Lana Del Rey,5wEreUfwxZxWnEol61ulIi,True,Perfect match
+8,Judas,Lady Gaga,Judas,Lady Gaga,7F25roCtYi55JouckaayPC,True,Perfect match
+9,Heavy,Linkin Park Featuring Kiiara,Heavy,Linkin Park;Kiiara,,True,Perfect match
+10,Love Me More,Sam Smith,Love Me More,Sam Smith,16MQETUgqXwY4lZcyRafU3,True,Perfect match
+11,Safety Dance,Glee Cast,Safety Dance,Glee Cast,3PYRn2lgbjuVB4w3BPQ8gs,True,Perfect match
+12,Earth,Lil Dicky,Earth,Lil Dicky,7lakl3bPRdQqUGX9m755jX,True,Perfect match
+13,The Sound Of Silence,Disturbed,The Sound of Silence,Disturbed,1LY3GhF0zxIVgbYEQjCbUO,True,Perfect match
+14,To Be Loved By You,Parker McCollum,To Be Loved By You,Parker McCollum,2pUQX4d3Cjh3umGkVz0XyI,True,Perfect match
+15,Hey Mama,"David Guetta Featuring Nicki Minaj, Bebe Rexha & Afrojack",Hey Mama,David Guetta;Nicki Minaj;Bebe Rexha;Afrojack,,True,Perfect match
+16,Back To Black,Glee Cast,Back To Black,Glee Cast,3ElRruui1pSlpqr5mLTn4y,True,Perfect match
+17,Bad Romance,Glee Cast,Bad Romance (Glee Cast Version),Glee Cast,0LpE5tfNe15QLvQL4YDi7T,False,Artist matches but title differs: 'Bad Romance' vs 'Bad Romance (Glee Cast Version)'
+18,"Honey, I'm Good.",Andy Grammer,"Honey, I'm Good.",Andy Grammer,4Tt6GiWS2V9sQjZjS2xjp2,True,Perfect match
+19,Gentleman,PSY,Gentleman,PSY,6djlRvx69CBXQAoXKqk082,True,Perfect match
+20,I Won't Let Go,Rascal Flatts,I Won't Let Go,Rascal Flatts,2KBudV1Lf6ZDIS9hi60Lc5,True,Perfect match
+21,Take My Name,Parmalee,Take My Name,Parmalee,7g0Zfd5J6Hzx9M2fRUMuba,True,Perfect match
+22,Diamonds,Sam Smith,Diamonds,Sam Smith,1hJIbOjWpid6LtnozHmzRS,True,Perfect match
+23,The Edge Of Glory,Lady Gaga,The Edge Of Glory,Lady Gaga,57F80059mWaWFvWG3tBTbO,True,Perfect match
+24,Clout,Offset Featuring Cardi B,Clout,Offset;Cardi B,,True,Perfect match
+25,Pompeii,Bastille,Pompeii,Bastille,4Ub8UsjWuewQrPhuepfVpd,True,Perfect match
+26,Ain't It Fun,Paramore,Ain't It Fun,Paramore,1j8z4TTjJ1YOdoFEDwJTQa,True,Perfect match
+27,Wagon Wheel,Darius Rucker,Wagon Wheel,Darius Rucker,3xdjjKMcMOFgo1eQrfbogM,True,Perfect match
+28,Good Feeling,Flo Rida,Good Feeling,Flo Rida,2LEF1A8DOZ9wRYikWgVlZ8,True,Perfect match
+29,Firework,Katy Perry,Firework,Katy Perry,3lXbHd0EoryoQh3vpevNEP,True,Perfect match
+30,Favorite Time Of Year,Carrie Underwood,Favorite Time Of Year,Carrie Underwood,2aq7ZO1is1czoQAh076QFU,True,Perfect match
+31,Take Me Home For Christmas,Dan + Shay,Take Me Home for Christmas,Dan + Shay,7jTPldVF7Zt9KBQ94Mgr0M,True,Perfect match
+32,5 Foot 9,Tyler Hubbard,5 Foot 9,Tyler Hubbard,0U4iRayct65wsaBMQGiLbg,True,Perfect match
+33,Fall In Love,Bailey Zimmerman,Fall in Love,Bailey Zimmerman,0rCFRyEy4WXjRXNpO80Dzs,True,Perfect match
+34,First Class,Jack Harlow,First Class,Jack Harlow,0wHFktze2PHC5jDt3B17DC,True,Perfect match
+35,'Til You Can't,Cody Johnson,'Til You Can't,Cody Johnson,4k3lPl8YTKuY8c1HelVnm3,True,Perfect match
+36,Deck The Halls,Nat King Cole,Deck The Halls,Nat King Cole,0rHToGels2lt8Y0mCYoF90,True,Perfect match
+37,The Christmas Song (Merry Christmas To You),"Nat ""King"" Cole",The Christmas Song (Merry Christmas To You),Nat King Cole,,True,Perfect match
+38,Rockin' Around The Christmas Tree,Brenda Lee,Rockin' Around The Christmas Tree,Brenda Lee,2EjXfH91m7f8HiJN1yQg97,True,Perfect match
+39,See You Again,Wiz Khalifa Featuring Charlie Puth,See You Again,Wiz Khalifa;Charlie Puth,,True,Perfect match
+40,Emotionally Scarred,Lil Baby,Emotionally Scarred,Lil Baby,7ge7BHazYbVKi8qyZUX1Bm,True,Perfect match
+41,"Hey Look Ma, I Made It",Panic! At The Disco,"Hey Look Ma, I Made It",Panic! At The Disco,22oEJW6r2rMb9z4IntfyEa,True,Perfect match
+42,Mercy,Brett Young,Mercy,Brett Young,2VIPU72L6tIR4w8J8ap6Kp,True,Perfect match
+43,Uma Thurman,Fall Out Boy,Uma Thurman,Fall Out Boy,5PUawWFG1oIS2NwEcyHaCr,True,Perfect match
+44,Country Girl (Shake It For Me),Luke Bryan,Country Girl (Shake It For Me),Luke Bryan,0JbSghVDghtFEurrSO8JrC,True,Perfect match
+45,Mistletoe,Justin Bieber,Mistletoe,Justin Bieber,7xapw9Oy21WpfEcib2ErSA,True,Perfect match
+46,Alive,Krewella,Alive,Krewella,59mrqUmhpmcfUns8BKkV30,True,Perfect match
+47,Want To Want Me,Jason Derulo,Want to Want Me,Jason Derulo,7oGZAicScQt96OAW4AruYy,True,Perfect match
+48,Dirty Dancer,Enrique Iglesias With Usher Featuring Lil Wayne,Dirty Dancer,Enrique Iglesias;Usher,,True,Perfect match
+49,Highway Don't Care,Tim McGraw With Taylor Swift,Highway Don't Care,Tim McGraw;Taylor Swift;Keith Urban,,True,Perfect match
+50,Wherever I Go,OneRepublic,Wherever I Go,OneRepublic,46jLy47W8rkf8rEX04gMKB,True,Perfect match
+51,I Really Like You,Carly Rae Jepsen,I Really Like You,Carly Rae Jepsen,1mKXfxIOA7eQQJ844OFm7L,True,Perfect match
+52,Girl Crush,Little Big Town,Girl Crush,Little Big Town,11qh54D0PKkBwelpDxxiEU,True,Perfect match
+53,Good Time,Niko Moon,GOOD TIME,Niko Moon,2S8UMuLJ0z8agFgFGJ6Ztt,True,Perfect match
+54,Thriller,Michael Jackson,Thriller,Michael Jackson,2LlQb7Uoj1kKyGhlkBf9aC,True,Perfect match
+55,Gooba,6ix9ine,GOOBA,6ix9ine,2zvDnNLW4yZ4a0YcGiOEBX,True,Perfect match
+56,H.O.L.Y.,Florida Georgia Line,H.O.L.Y.,Florida Georgia Line,0BCy325UZyR9z0t0uxwn2N,True,Perfect match
+57,Bulletproof,La Roux,Bulletproof,La Roux,3kMrazSvILsgcwtidZd1Qd,True,Perfect match
+58,I Need A Doctor,Dr. Dre Featuring Eminem & Skylar Grey,I Need A Doctor,Dr. Dre;Eminem;Skylar Grey,,True,Perfect match
+59,Beautiful Now,Zedd Featuring Jon Bellion,Beautiful Now,Zedd;Jon Bellion,51tGeVhhW7S3HCXMaZSUzK,True,Perfect match
+60,Who Do You Love,The Chainsmokers Featuring 5 Seconds of Summer,Who Do You Love,The Chainsmokers;5 Seconds of Summer,,True,Perfect match
+61,Tequila,Dan + Shay,Tequila,Dan + Shay,42fw0rxRO2xbesF6mJfd4Y,True,Perfect match
+62,Nightmare,Avenged Sevenfold,Nightmare,Avenged Sevenfold,4UEo1b0wWrtHMC8bVqPiH8,True,Perfect match
+63,Heaven,Kane Brown,Heaven,Kane Brown,1HXy5I3HTWq8OvxCn0z7G7,True,Perfect match
+64,Do Re Mi,Blackbear,do re mi,blackbear,6Se3x9ANMLv0dCDsjGmEjh,True,Perfect match
+65,Tonight Tonight,Hot Chelle Rae,Tonight Tonight,Hot Chelle Rae,2i0AUcEnsDm3dsqLrFWUCq,True,Perfect match
+66,Roses,The Chainsmokers Featuring ROZES,Roses,The Chainsmokers;ROZES,,True,Perfect match
+67,Never Be The Same,Camila Cabello,Never Be the Same,Camila Cabello,4eWQlBRaTjPPUlzacqEeoQ,True,Perfect match
+68,Felices Los 4,Maluma,Felices los 4,Maluma,1RouRzlg8OKFeqc6LvdxmB,True,Perfect match
+69,Paris,The Chainsmokers,Paris,The Chainsmokers,72jbDTw1piOOj770jWNeaG,True,Perfect match
+70,Back To You,Selena Gomez,Back To You,Selena Gomez,4hQ6UGyWQIGJmHSo0J88JW,True,Perfect match
+71,I Won't Give Up,Jason Mraz,I Won't Give Up,Jason Mraz,5ivF4eQBqJiVL5IAE9jRyl,True,Perfect match
+72,My Church,Maren Morris,My Church,Maren Morris,1LM5zQv5pBKPyO7rm7Uz6U,True,Perfect match
+73,El Amante,Nicky Jam,El Amante,Nicky Jam,3umS4y3uQDkqekNjVpiRUs,True,Perfect match
+74,Jack Sparrow,The Lonely Island Featuring Michael Bolton,Jack Sparrow,The Lonely Island;Michael Bolton,,True,Perfect match
+75,Harlem Shake,Baauer,Harlem Shake,Baauer,01XFgRZfZI7oBagNf1Loml,True,Perfect match
+76,"Beamer, Benz, Or Bentley",Lloyd Banks Featuring Juelz Santana,"Beamer, Benz, Or Bentley",Lloyd Banks;Juelz Santana,,True,Perfect match
+77,This Afternoon,Nickelback,This Afternoon,Nickelback,1RG8MABX0VciDk6WYb8pBv,True,Perfect match
+78,Rope,Foo Fighters,Rope,Foo Fighters,7v0mtl6oInUtHOmTk2b0gC,True,Perfect match
+79,Roses,Saint Jhn,Roses,SAINt JHN,24Yi9hE78yPEbZ4kxyoXAI,True,Perfect match
+80,The Cave,Mumford & Sons,The Cave,Mumford & Sons,2F79HavLHwJlfvvJOkkIQD,True,Perfect match
+81,I Like It,Enrique Iglesias Featuring Pitbull,I Like It,Enrique Iglesias;Pitbull,,True,Perfect match
+82,Worth It,Fifth Harmony Featuring Kid Ink,Worth It,Fifth Harmony,,True,Perfect match
+83,Love Runs Out,OneRepublic,Love Runs Out,OneRepublic,3cOO5IQtOYs7huq4Z6lYfr,True,Perfect match
+84,One Dance,Drake Featuring Wizkid & Kyla,One Dance,Drake;Wizkid;Kyla,,True,Perfect match
+85,I Want You To Know,Zedd Featuring Selena Gomez,I Want You To Know,Zedd;Selena Gomez,,True,Perfect match
+86,Lights,Ellie Goulding,Lights,Ellie Goulding,0LRCcpSgeozipxPpRg5wzx,True,Perfect match
+87,High School,Nicki Minaj Featuring Lil Wayne,High School,Nicki Minaj;Lil Wayne,,True,Perfect match
+88,Now Or Never,Halsey,Now Or Never,Halsey,126oeltvIg79HHP4yAi4rq,True,Perfect match
+89,Talking Body,Tove Lo,Talking Body,Tove Lo,7cgu4JBW3hq1GwTM1ilkKQ,True,Perfect match
+90,"Gone, Gone, Gone",Phillip Phillips,"Gone, Gone, Gone",Phillip Phillips,56sxN1yKg1dgOZXBcAHkJG,True,Perfect match
+91,Rumour Has It,Adele,Rumour Has It,Adele,5mFMb5OHI3cN0UjITVztCj,True,Perfect match
+92,All The Right Moves,OneRepublic,All The Right Moves,OneRepublic,5XRHGXut00SrJUFmcn2lQF,True,Perfect match
+93,Nightmare,Halsey,Nightmare,Halsey,12ZCF1YHZTtygHyl1h0wEe,True,Perfect match
+94,Zombie,Bad Wolves,Zombie,Bad Wolves,5d8Wq39QLT6OQWsY9paz5n,True,Perfect match
+95,Girls Chase Boys,Ingrid Michaelson,Girls Chase Boys,Ingrid Michaelson,3tInTDUq8wdIMw5ftohmqJ,True,Perfect match
+96,Scars To Your Beautiful,Alessia Cara,Scars To Your Beautiful,Alessia Cara,0wI7QkCcs8FUQE1OkXUIqd,True,Perfect match
+97,Truth Hurts,Lizzo,Truth Hurts,Lizzo,3HWzoMvoF3TQfYg4UPszDq,True,Perfect match
+98,Diamond Rings And Old Barstools,Tim McGraw With Catherine Dunn,Diamond Rings And Old Barstools,Tim McGraw;Catherine Dunn,,True,Perfect match
+99,Uptown Funk!,Mark Ronson Featuring Bruno Mars,Uptown Funk (feat. Bruno Mars),Mark Ronson;Bruno Mars,,False,Artist matches but title differs: 'Uptown Funk!' vs 'Uptown Funk (feat. Bruno Mars)'
+100,Mood,24kGoldn Featuring iann dior,Mood (feat. iann dior),24kGoldn;iann dior,,False,Artist matches but title differs: 'Mood' vs 'Mood (feat. iann dior)'
+101,Bam Bam,Camila Cabello Featuring Ed Sheeran,Bam Bam (feat. Ed Sheeran),Camila Cabello;Ed Sheeran,,False,Artist matches but title differs: 'Bam Bam' vs 'Bam Bam (feat. Ed Sheeran)'
+102,Wait For U,Future Featuring Drake & Tems,WAIT FOR U (feat. Drake & Tems),Future;Drake;Tems,,False,Artist matches but title differs: 'Wait For U' vs 'WAIT FOR U (feat. Drake & Tems)'
+103,Starboy,The Weeknd,Starboy,The Weeknd;Daft Punk,7MXVkk9YMctZqd1Srtv4MB,True,Perfect match
+104,Running Up That Hill (A Deal With God),Kate Bush,Running Up That Hill (A Deal With God),Kate Bush,1PtQJZVZIdWIYdARpZRDFO,True,Perfect match
+105,Jimmy Cooks,Drake Featuring 21 Savage,Jimmy Cooks (feat. 21 Savage),Drake;21 Savage,,False,Artist matches but title differs: 'Jimmy Cooks' vs 'Jimmy Cooks (feat. 21 Savage)'
+106,ily,Surf Mesa Featuring Emilee,ily (i love you baby),Surf Mesa;Emilee,,False,Artist matches but title differs: 'ily' vs 'ily (i love you baby)'
+107,Intentions,Justin Bieber Featuring Quavo,Intentions,Justin Bieber;Quavo,,True,Perfect match
+108,Godzilla,Eminem Featuring Juice WRLD,Godzilla (feat. Juice WRLD),Eminem;Juice WRLD,,False,Artist matches but title differs: 'Godzilla' vs 'Godzilla (feat. Juice WRLD)'
+109,Chained To The Rhythm,Katy Perry Featuring Skip Marley,Chained To The Rhythm,Katy Perry;Skip Marley,,True,Perfect match
+110,Latch,Disclosure Featuring Sam Smith,Latch,Disclosure;Sam Smith,,True,Perfect match
+111,Wiggle,Jason Derulo Featuring Snoop Dogg,Wiggle,Jason Derulo;Snoop Dogg,,True,Perfect match
+112,Dark Horse,Katy Perry Featuring Juicy J,Dark Horse,Katy Perry;Juicy J,,True,Perfect match
+113,Clarity,Zedd Featuring Foxes,Clarity,Zedd;Foxes,,True,Perfect match
+114,Way Out,Jack Harlow Featuring Big Sean,Way Out,Jack Harlow;Big Sean,,True,Perfect match
+115,2step,Ed Sheeran Featuring Lil Baby,2step,Ed Sheeran;Lil Baby,,True,Perfect match
+116,Buy Dirt,Jordan Davis Featuring Luke Bryan,Buy Dirt,Jordan Davis;Luke Bryan,,True,Perfect match
+117,After Hours,The Weeknd,After Hours,The Weeknd,2p8IUWQDrpjuFltbdgLOag,True,Perfect match
+118,Lover,Taylor Swift,Lover,Taylor Swift,1dGr1c8CrMLDpV6mPbImSI,True,Perfect match
+119,Middle,DJ Snake Featuring Bipolar Sunshine,Middle,DJ Snake;Bipolar Sunshine,,True,Perfect match
+120,Die Young,Sleepy Hallow Featuring 347aidan,Die Young (feat. 347aidan),Sleepy Hallow;347aidan,,False,Artist matches but title differs: 'Die Young' vs 'Die Young (feat. 347aidan)'
+121,Titanium,David Guetta Featuring Sia,Titanium (feat. Sia),David Guetta;Sia,,False,Artist matches but title differs: 'Titanium' vs 'Titanium (feat. Sia)'
+122,Havana,Camila Cabello Featuring Young Thug,Havana (feat. Young Thug),Camila Cabello;Young Thug,,False,Artist matches but title differs: 'Havana' vs 'Havana (feat. Young Thug)'
+123,I Feel It Coming,The Weeknd Featuring Daft Punk,I Feel It Coming,The Weeknd;Daft Punk,,True,Perfect match
+124,Freaky Friday,Lil Dicky Featuring Chris Brown,Freaky Friday (feat. Chris Brown),Lil Dicky;Chris Brown,,False,Artist matches but title differs: 'Freaky Friday' vs 'Freaky Friday (feat. Chris Brown)'
+125,Rolling In The Deep,Glee Cast Featuring Jonathan Groff,Rolling In The Deep (feat. Jonathan Groff),Glee Cast;Jonathan Groff,,False,Artist matches but title differs: 'Rolling In The Deep' vs 'Rolling In The Deep (feat. Jonathan Groff)'
+126,Dream On,Glee Cast Featuring Neil Patrick Harris,Dream On (Glee Cast Version) (feat. Neil Patrick Harris),Glee Cast;Neil Patrick Harris,,False,Artist matches but title differs: 'Dream On' vs 'Dream On (Glee Cast Version) (feat. Neil Patrick Harris)'
+127,Let's Go,Calvin Harris Featuring Ne-Yo,Let's Go (feat. Ne-Yo),Calvin Harris;Ne-Yo,,False,Artist matches but title differs: 'Let's Go' vs 'Let's Go (feat. Ne-Yo)'
+128,No Promises,Cheat Codes Featuring Demi Lovato,No Promises (feat. Demi Lovato),Cheat Codes;Demi Lovato,,False,Artist matches but title differs: 'No Promises' vs 'No Promises (feat. Demi Lovato)'
+129,Come With Me Now,KONGOS,Come with Me Now,KONGOS,2kWowW0k4oFymhkr7LmvzO,True,Perfect match
+130,I Need Your Love,Calvin Harris Featuring Ellie Goulding,I Need Your Love (feat. Ellie Goulding),Calvin Harris;Ellie Goulding,,False,Artist matches but title differs: 'I Need Your Love' vs 'I Need Your Love (feat. Ellie Goulding)'
+131,Bangarang,Skrillex Featuring Sirah,Bangarang (feat. Sirah),Skrillex;Sirah,,False,Artist matches but title differs: 'Bangarang' vs 'Bangarang (feat. Sirah)'
+132,Slide,Calvin Harris Featuring Frank Ocean & Migos,Slide (feat. Frank Ocean & Migos),Calvin Harris;Frank Ocean;Migos,,False,Artist matches but title differs: 'Slide' vs 'Slide (feat. Frank Ocean & Migos)'
+133,2 On,Tinashe Featuring ScHoolboy Q,2 On (feat. ScHoolboy Q),Tinashe;ScHoolboy Q,,False,Artist matches but title differs: '2 On' vs '2 On (feat. ScHoolboy Q)'
+134,Where Them Girls At,David Guetta Featuring Flo Rida & Nicki Minaj,Where Them Girls At (feat. Nicki Minaj & Flo Rida),David Guetta,,False,Artist matches but title differs: 'Where Them Girls At' vs 'Where Them Girls At (feat. Nicki Minaj & Flo Rida)'
+135,Get Lucky,Daft Punk Featuring Pharrell Williams,Get Lucky (feat. Pharrell Williams & Nile Rodgers),Daft Punk;Pharrell Williams;Nile Rodgers,,False,Artist matches but title differs: 'Get Lucky' vs 'Get Lucky (feat. Pharrell Williams & Nile Rodgers)'
+136,Here With Me,Marshmello Featuring Chvrches,Here With Me,Marshmello;CHVRCHES,,True,Perfect match
+137,Can't Remember To Forget You,Shakira Featuring Rihanna,Can't Remember to Forget You (feat. Rihanna),Shakira;Rihanna,,False,Artist matches but title differs: 'Can't Remember To Forget You' vs 'Can't Remember to Forget You (feat. Rihanna)'
+138,Swalla,Jason Derulo Featuring Nicki Minaj & Ty Dolla $ign,Swalla (feat. Nicki Minaj & Ty Dolla $ign),Jason Derulo;Nicki Minaj;Ty Dolla $ign,,False,Artist matches but title differs: 'Swalla' vs 'Swalla (feat. Nicki Minaj & Ty Dolla $ign)'
+139,My Oh My,Camila Cabello Featuring DaBaby,My Oh My (feat. DaBaby),Camila Cabello;DaBaby,,False,Artist matches but title differs: 'My Oh My' vs 'My Oh My (feat. DaBaby)'
+140,We Are Young,fun. Featuring Janelle Monae,We Are Young (feat. Janelle Monáe),fun.;Janelle Monáe,,False,Artist matches but title differs: 'We Are Young' vs 'We Are Young (feat. Janelle Monáe)'
+141,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,"break up with your girlfriend, i'm bored",Ariana Grande,4kV4N9D1iKVxx1KLvtTpjS,True,Perfect match
+142,No Tears Left To Cry,Ariana Grande,no tears left to cry,Ariana Grande,2qT1uLXPVPzGgFOx4jtEuo,True,Perfect match
+143,Boy With Luv,BTS Featuring Halsey,Boy With Luv (feat. Halsey),BTS;Halsey,,False,Artist matches but title differs: 'Boy With Luv' vs 'Boy With Luv (feat. Halsey)'
+144,All In,Lil Baby,All In,Lil Baby,0zlru783fmr588D5RY9ERU,True,Perfect match
+145,I Love It,Icona Pop Featuring Charli xcx,I Love It,Icona Pop;Charli XCX,,True,Perfect match
+146,I Love My Country,Florida Georgia Line,I Love My Country,Florida Georgia Line,0clSHsrHl2irBkObcLEZqS,True,Perfect match
+147,On My Way To You,Cody Johnson,On My Way to You,Cody Johnson,3OjNkFFZavF89xvRqWCXmU,True,Perfect match
+148,Bichota,Karol G,BICHOTA,KAROL G,1WvrDdouh6C51In1SdATbq,True,Perfect match
+149,The First Noel,Gabby Barrett,The First Noel,Gabby Barrett,25W3eewfp10geV3fzWIGq3,True,Perfect match
+150,Rockin' Around The Christmas Tree,Justin Bieber,Rockin' Around The Christmas Tree,Justin Bieber,19pDGIQMBBBzteNjmzzjDN,True,Perfect match
+151,Willow,Taylor Swift,willow,Taylor Swift,0lx2cLdOt3piJbcaXIV74f,True,Perfect match
+152,When You're Gone,Shawn Mendes,When You're Gone,Shawn Mendes,0U1W2LZVUX7qTm7dDpqxh6,True,Perfect match
+153,In A Minute,Lil Baby,In A Minute,Lil Baby,31lopd32BkJBTSgYE16c5e,True,Perfect match
+154,Provenza,Karol G,PROVENZA,KAROL G,3HqcNJdZ2seoGxhn0wVNDK,True,Perfect match
+155,Knowing You,Kenny Chesney,Knowing You,Kenny Chesney,2EEfUuBRZA4Ax1vYcluFS0,True,Perfect match
+156,Whiskey And Rain,Michael Ray,Whiskey and Rain,Michael Ray,1tf4Bfk8JIKryLpWYRvyiI,True,Perfect match
+157,Bad Romance,Lady Gaga,Bad Romance,Lady Gaga,0SiywuOBRcynK0uKGWdCnn,True,Perfect match
+158,Happier Than Ever,Billie Eilish,Happier Than Ever,Billie Eilish,4RVwu0g32PAqgUiJoXsdF8,True,Perfect match
+159,Shivers,Ed Sheeran,Shivers,Ed Sheeran,50nfwKoDiSYg8zOCREWAm5,True,Perfect match
+160,Pick Me Up,Gabby Barrett,Pick Me Up,Gabby Barrett,2jB7EAkahL97QysjRYecTS,True,Perfect match
+161,Wonderful Christmastime,Paul McCartney,Wonderful Christmastime,Paul McCartney,1SV1fxF65n9NhRHp3KlBuu,True,Perfect match
+162,Little Saint Nick,The Beach Boys,Little Saint Nick,The Beach Boys,5xlS0QkVrSH7ssEbBgBzbM,True,Perfect match
+163,Run Rudolph Run,Chuck Berry,Run Rudolph Run,Chuck Berry,2pnPe4pJtq7689i5ydzvJJ,True,Perfect match
+164,Santa Baby,Eartha Kitt With Henri Rene And His Orchestra,Santa Baby,Eartha Kitt,1foCxQtxBweJtZmdxhEHVO,True,Perfect match
+165,Blue Christmas,Elvis Presley,Blue Christmas,Elvis Presley,3QiAAp20rPC3dcAtKtMaqQ,True,Perfect match
+166,G.D.F.R.,Flo Rida Featuring Sage The Gemini & Lookas,GDFR,Flo Rida;Sage The Gemini;Lookas,,False,Artist matches but title differs: 'G.D.F.R.' vs 'GDFR'
+167,Rockstar,DaBaby Featuring Roddy Ricch,ROCKSTAR,DaBaby;Roddy Ricch,,True,Perfect match
+168,Linus And Lucy (Peanuts Theme),Vince Guaraldi Trio,Linus And Lucy,Vince Guaraldi Trio,,False,Artist matches but title differs: 'Linus And Lucy (Peanuts Theme)' vs 'Linus And Lucy'
+169,Rain Is A Good Thing,Luke Bryan,Rain Is A Good Thing,Luke Bryan,1YhFtqwcN138S6ng3MT1nN,True,Perfect match
+170,E.T.,Katy Perry Featuring Kanye West,E.T.,Katy Perry,,True,Perfect match
+171,Born This Way,Lady Gaga,Born This Way,Lady Gaga,30XU4suKzCeoCK9YFzdufg,True,Perfect match
+172,God's Country,Blake Shelton,God's Country,Blake Shelton,4TCeFZNjGNQIpCuZmJkkE2,True,Perfect match
+173,If I Can't Have You,Shawn Mendes,If I Can't Have You,Shawn Mendes,2bT1PH7Cw3J9p3t7nlXCdh,True,Perfect match
+174,Singles You Up,Jordan Davis,Singles You Up,Jordan Davis,4LiMQ6G9n84rDUBs9wtwz6,True,Perfect match
+175,Dura,Daddy Yankee,Dura,Daddy Yankee,6KuqAtoeVzxAYOaMveLNpH,True,Perfect match
+176,In My Blood,Shawn Mendes,In My Blood,Shawn Mendes,2QZ7WLBE8h2y1Y5Fb8RYbH,True,Perfect match
+177,Be Careful,Cardi B,Be Careful,Cardi B,2Yl4OmDby9iitgNWZPwxkd,True,Perfect match
+178,Bad Liar,Selena Gomez,Bad Liar,Selena Gomez,2fZQIJew3nkNe99s2PKzul,True,Perfect match
+179,How Not To,Dan + Shay,How Not To,Dan + Shay,4n0xztUAbHPUV8G3NQvF30,True,Perfect match
+180,The Cure,Lady Gaga,The Cure,Lady Gaga,34oB5r0lcN3fYWCs2uA1k5,True,Perfect match
+181,Tunnel Vision,Kodak Black,Tunnel Vision,Kodak Black,4Q3N4Ct4zCuIHuZ65E3BD4,True,Perfect match
+182,Body Like A Back Road,Sam Hunt,Body Like A Back Road,Sam Hunt,7FpBQ067pHB67deawpbbcY,True,Perfect match
+183,Issues,Julia Michaels,Issues,Julia Michaels,7vu0JkJh0ldukEYbTVcqd0,True,Perfect match
+184,One Call Away,Charlie Puth,One Call Away,Charlie Puth,5MwIGPDKeDb7SpblcaQP6O,True,Perfect match
+185,Sorry,Justin Bieber,Sorry,Justin Bieber,09CtPGIpYB4BrO8qb1RGsF,True,Perfect match
+186,Bright,Echosmith,Bright,Echosmith,3WKg25vrbjJlkhsgl2W4p3,True,Perfect match
+187,On Top Of The World,Imagine Dragons,On Top Of The World,Imagine Dragons,213x4gsFDm04hSqIUkg88w,True,Perfect match
+188,Hey Pretty Girl,Kip Moore,Hey Pretty Girl,Kip Moore,75p6fgACKYIyIhsoG411SZ,True,Perfect match
+189,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,2E43WFS4rRc09za2r2GmZl,True,Perfect match
+190,Come & Get It,Selena Gomez,Come & Get It,Selena Gomez,6LoQHIo74tOzQ8EsLEkhgF,True,Perfect match
+191,Little Talks,Of Monsters and Men,Little Talks,Of Monsters and Men,2ihCaVdNZmnHZWt0fvAM7B,True,Perfect match
+192,Wanted,Hunter Hayes,Wanted,Hunter Hayes,0f1svjHSiaCJif6noKKVHa,True,Perfect match
+193,After A Few,Travis Denning,After A Few,Travis Denning,1z6wl2rwKatfmza6usanWw,True,Perfect match
+194,Unsteady,X Ambassadors,Unsteady,X Ambassadors,7lGKEWMXVWWTt3X71Bv44I,True,Perfect match
+195,Therefore I Am,Billie Eilish,Therefore I Am,Billie Eilish,20R4HfKloPKgXDqU7UKk3x,True,Perfect match
+196,Tyler Herro,Jack Harlow,Tyler Herro,Jack Harlow,3w1WjD2zJqjBjDz5fwqQPJ,True,Perfect match
+197,Whatever It Takes,Imagine Dragons,Whatever It Takes,Imagine Dragons,6Qn5zhYkTa37e91HC1D7lb,True,Perfect match
+198,Rude,MAGIC!,Rude,MAGIC!,6RtPijgfPKROxEzTHNRiDp,True,Perfect match
+199,Rolling In The Deep,Adele,Rolling in the Deep,Adele,4OSBTYWVwsQhGLF9NHvIbR,True,Perfect match
+200,Not Afraid,Eminem,Not Afraid,Eminem,7Ie9W94M7OjPoZVV216Xus,True,Perfect match
+201,Kings & Queens,Ava Max,Kings & Queens,Ava Max,7a53HqqArd4b9NF4XAmlbI,True,Perfect match
+202,Thousand Miles,The Kid LAROI,Thousand Miles,The Kid LAROI,1r8ZCjfrQxoy2wVaBUbpwg,True,Perfect match
+203,Golden Hour,JVKE,golden hour,JVKE,5odlY52u43F5BjByhxg7wg,True,Perfect match
+204,All Of Me,John Legend,All of Me,John Legend,3U4isOIWM3VvDubwSI3y7a,True,Perfect match
+205,Unforgettable,French Montana Featuring Swae Lee,Unforgettable,French Montana;Swae Lee,,True,Perfect match
+206,Baby,Justin Bieber Featuring Ludacris,Baby,Justin Bieber;Ludacris,,True,Perfect match
+207,Look At Me!,XXXTENTACION,Look At Me!,XXXTENTACION,7floNISpH8VF4z4459Qo18,True,Perfect match
+208,Ride,Twenty One Pilots,Ride,Twenty One Pilots,2Z8WuEywRWYTKe1NybPQEW,True,Perfect match
+209,Classic,MKTO,Classic,MKTO,6FE2iI43OZnszFLuLtvvmg,True,Perfect match
+210,Summer,Calvin Harris,Summer,Calvin Harris,6YUTL4dYpB9xZO5qExPf05,True,Perfect match
+211,Just The Way You Are,Bruno Mars,Just the Way You Are,Bruno Mars,47Slg6LuqLaX0VodpSCvPt,True,Perfect match
+212,Dynamite,BTS,Dynamite,BTS,5QDLhrAOJJdNAmCTJ8xMyW,True,Perfect match
+213,Positions,Ariana Grande,positions,Ariana Grande,35mvY5S1H3J2QZyna3TFe0,True,Perfect match
+214,Yet To Come,BTS,Yet To Come,BTS,10SRMwb9EuVS1K9rYsBfHQ,True,Perfect match
+215,New Rules,Dua Lipa,New Rules,Dua Lipa,2ekn2ttSfGqwhhate0LSR0,True,Perfect match
+216,Everybody Talks,Neon Trees,Everybody Talks,Neon Trees,2iUmqdfGZcHIhS3b9E9EWq,True,Perfect match
+217,Set Fire To The Rain,Adele,Set Fire to the Rain,Adele,3di5hcvxxciiqwMH1jarhY,True,Perfect match
+218,Call Me Maybe,Carly Rae Jepsen,Call Me Maybe,Carly Rae Jepsen,20I6sIOMTCkB6w7ryavxtO,True,Perfect match
+219,Without You,The Kid LAROI,WITHOUT YOU,The Kid LAROI,1KMkcUvF7m3SDChDOa7i5L,True,Perfect match
+220,This Is What You Came For,Calvin Harris Featuring Rihanna,This Is What You Came For,Calvin Harris;Rihanna,,True,Perfect match
+221,Shape Of You,Ed Sheeran,Shape of You,Ed Sheeran,7qiZfU4dY1lWllzX7mPBI3,True,Perfect match
+222,There's Nothing Holdin' Me Back,Shawn Mendes,There's Nothing Holdin' Me Back,Shawn Mendes,7JJmb5XwzOO8jgpou264Ml,True,Perfect match
+223,Wake Me Up!,Avicii,Wake Me Up,Avicii,0nrRP2bk19rLc0orkWPQk2,True,Perfect match
+224,Toxicity,System of a Down,Toxicity,System Of A Down,0snQkGI5qnAmohLE7jTsTn,True,Perfect match
+225,Easy On Me,Adele,Easy On Me,Adele,46IZ0fSY2mpAiktS3KOqds,True,Perfect match
+226,Ride It.,Regard,Ride It,Regard,2tnVG71enUj33Ic2nFN6kZ,True,Perfect match
+227,Don't Start Now,Dua Lipa,Don't Start Now,Dua Lipa,3PfIrDoz19wz7qK7tYeu62,True,Perfect match
+228,Heat Waves,Glass Animals,Heat Waves,Glass Animals,3USxtqRwSYz57Ewm6wWRMp,True,Perfect match
+229,Whiskey Glasses,Morgan Wallen,Whiskey Glasses,Morgan Wallen,57TEkZN3f84tFJFHFrD4pO,True,Perfect match
+230,High Hopes,Panic! At The Disco,High Hopes,Panic! At The Disco,1rqqCSm0Qe4I9rUvWncaom,True,Perfect match
+231,Sweet But Psycho,Ava Max,Sweet but Psycho,Ava Max,7DnAm9FOTWE3cUvso43HhI,True,Perfect match
+232,Sucker,Jonas Brothers,Sucker,Jonas Brothers,22vgEDb5hykfaTwLuskFGD,True,Perfect match
+233,Everything I Wanted,Billie Eilish,everything i wanted,Billie Eilish,3ZCTVFBt2Brf31RLEnCkWJ,True,Perfect match
+234,Need To Know,Doja Cat,Need to Know,Doja Cat,3Vi5XqYrmQgOYBajMWSvCi,True,Perfect match
+235,"Hey, Soul Sister",Train,"Hey, Soul Sister",Train,4HlFJV71xXKIGcU3kRyttv,True,Perfect match
+236,The Kind Of Love We Make,Luke Combs,The Kind of Love We Make,Luke Combs,48UKTR66uUOT9LaUvooTNx,True,Perfect match
+237,N95,Kendrick Lamar,N95,Kendrick Lamar,0fX4oNGBWO3dSGUZcVdVV2,True,Perfect match
+238,Wasted On You,Morgan Wallen,Wasted On You,Morgan Wallen,5YanmSgudc0CaxZrn40YnM,True,Perfect match
+239,Closer,The Chainsmokers Featuring Halsey,Closer,The Chainsmokers;Halsey,,True,Perfect match
+240,Payphone,Maroon 5 Featuring Wiz Khalifa,Payphone,Maroon 5;Wiz Khalifa,,True,Perfect match
+241,7 Rings,Ariana Grande,7 rings,Ariana Grande,6ocbgoVGwYJhOv1GgI9NsF,True,Perfect match
+242,Bad Guy,Billie Eilish,bad guy,Billie Eilish,2Fxmhks0bxGSBdJ92vM42m,True,Perfect match
+243,God's Plan,Drake,God's Plan,Drake,6DCZcSspjsKoFjzjrWoCdn,True,Perfect match
+244,Goosebumps,Travis Scott,goosebumps,Travis Scott,6gBFPUFcJLzWGx4lenP6h2,True,Perfect match
+245,Humble.,Kendrick Lamar,HUMBLE.,Kendrick Lamar,7KXjTSCq5nL1LoYtL7XAwS,True,Perfect match
+246,Love Yourself,Justin Bieber,Love Yourself,Justin Bieber,50kpGaPAhYJ3sGmk6vplg0,True,Perfect match
+247,Demons,Imagine Dragons,Demons,Imagine Dragons,5qaEfEh1AtSdrdrByCP7qR,True,Perfect match
+248,What Makes You Beautiful,One Direction,What Makes You Beautiful,One Direction,4cluDES4hQEUhmXj6TXkSo,True,Perfect match
+249,Pumped Up Kicks,Foster the People,Pumped Up Kicks,Foster The People,7w87IxuO7BDcJ3YUqCyMTT,True,Perfect match
+250,You Broke Me First.,Tate McRae,you broke me first,Tate McRae,4l0RmWt52FxpVxMNni6i63,True,Perfect match
+251,Levitating,Dua Lipa,Levitating,Dua Lipa,5nujrmhLynf4yMoMtj8AQF,True,Perfect match
+252,Safe And Sound,Capital Cities,Safe And Sound,Capital Cities,5JVbvCHX10U2pLa5DEqGav,True,Perfect match
+253,Counting Stars,OneRepublic,Counting Stars,OneRepublic,2tpWsVSb9UEmDRxAl1zhX1,True,Perfect match
+254,Story Of My Life,One Direction,Story of My Life,One Direction,4nVBt6MZDDP6tRVdQTgxJg,True,Perfect match
+255,Shut Up And Dance,Walk the Moon,Shut Up and Dance,WALK THE MOON,4kbj5MwxO1bq9wjT5g9HaA,True,Perfect match
+256,Oh My God,Adele,Oh My God,Adele,3Kkjo3cT83cw09VJyrLNwX,True,Perfect match
+257,Victoria's Secret,Jax,Victoria’s Secret,Jax,4svaKoxMMP7ImmKrD5hfQu,False,Artist matches but title differs: 'Victoria's Secret' vs 'Victoria’s Secret'
+258,Death Bed,Powfu Featuring beabadoobee,death bed (coffee for your head),Powfu;beabadoobee,,False,Artist matches but title differs: 'Death Bed' vs 'death bed (coffee for your head)'
+259,Blank Space,Taylor Swift,Blank Space,Taylor Swift,1u8c2t2Cy7UBoG4ArRcF5g,True,Perfect match
+260,Photograph,Ed Sheeran,Photograph,Ed Sheeran,1HNkqx9Ahdgi1Ixy2xkKkL,True,Perfect match
+261,Stressed Out,Twenty One Pilots,Stressed Out,Twenty One Pilots,3CRDbSIZ4r5MsZ0YwxuEkn,True,Perfect match
+262,Say You Won't Let Go,James Arthur,Say You Won't Let Go,James Arthur,5uCax9HTNlzGybIStD3vDh,True,Perfect match
+263,Thunder,Imagine Dragons,Thunder,Imagine Dragons,1zB4vmk8tFRmM9UULNzbLB,True,Perfect match
+264,She Had Me At Heads Carolina,Cole Swindell,She Had Me At Heads Carolina,Cole Swindell,200x8ONbPfFzByUr3fVz46,True,Perfect match
+265,Memories,Maroon 5,Memories,Maroon 5,4cktbXiXOapiLBMprHFErI,True,Perfect match
+266,Moonlight,XXXTENTACION,Moonlight,XXXTENTACION,0JP9xo3adEtGSdUEISiszL,True,Perfect match
+267,I Like Me Better,Lauv,I Like Me Better,Lauv,4MagTPnkPiDuIa4P8GtW1b,True,Perfect match
+268,Sad!,XXXTENTACION,SAD!,XXXTENTACION,3ee8Jmje8o58CHK66QrVC2,True,Perfect match
+269,Attention,Charlie Puth,Attention,Charlie Puth,5cF0dROlMOK5uNZtivgu50,True,Perfect match
+270,Mask Off,Future,Mask Off,Future,0VgkVdmE4gld66l8iyGjgx,True,Perfect match
+271,That's What I Like,Bruno Mars,That's What I Like,Bruno Mars,0KKkJNfGyhkQ5aFogxQAPU,True,Perfect match
+272,Take Me To Church,Hozier,Take Me To Church,Hozier,3dYD57lRAUcMHufyqn9GcI,True,Perfect match
+273,One Last Time,Ariana Grande,One Last Time,Ariana Grande,50rGbTr2wrWnlIelPQxi87,True,Perfect match
+274,Sicko Mode,Travis Scott,SICKO MODE,Travis Scott,2xLMifQCjDGFmkHkpNLD9h,True,Perfect match
+275,Chandelier,Sia,Chandelier,Sia,4VrWlk8IQxevMvERoX08iC,True,Perfect match
+276,Radioactive,Imagine Dragons,Radioactive,Imagine Dragons,62yJjFtgkhUrXktIoSjgP2,True,Perfect match
+277,Cheap Thrills,Sia Featuring Sean Paul,Cheap Thrills,Sia,,True,Perfect match
+278,Sunday Best,Surfaces,Sunday Best,Surfaces,1qYKWcEOrh2tM8PlgIm8K1,True,Perfect match
+279,Don't Call Me Up,Mabel,Don't Call Me Up,Mabel,5WHTFyqSii0lmT9R21abT8,True,Perfect match
+280,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,Old Town Road,Lil Nas X,,False,Title matches but artist differs: 'Lil Nas X Featuring Billy Ray Cyrus' vs 'Lil Nas X'
+281,Fight Song,Rachel Platten,Fight Song,Rachel Platten,37f4ITSlgPX81ad2EvmVQr,True,Perfect match
+282,Who Says,Selena Gomez & The Scene,Who Says,Selena Gomez & The Scene,3TcL0dyCMyr0kyTTc4NLgI,True,Perfect match
+283,Put Your Records On,Ritt Momney,Put Your Records On,Ritt Momney,6AGOKlMZWLCaEJGnaROtF9,True,Perfect match
+284,So Good,Halsey,So Good,Halsey,6kxaaIeowajN7w21PfMLbu,True,Perfect match
+285,Star Walkin' (League Of Legends Worlds Anthem),Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,38T0tPVZHcPZyhtOcCP7pF,True,Perfect match
+286,Vegas,Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Doja Cat,0hquQWY3xvYqN4qtiquniF,False,Artist matches but title differs: 'Vegas' vs 'Vegas (From the Original Motion Picture Soundtrack ELVIS)'
+287,Fancy Like,Walker Hayes,Fancy Like,Walker Hayes,58UKC45GPNTflCN6nwCUeF,True,Perfect match
+288,About Damn Time,Lizzo,About Damn Time,Lizzo,6HMtHNpW6YPi1hrw9tgF8P,True,Perfect match
+289,Call Out My Name,The Weeknd,Call Out My Name,The Weeknd,09mEdoA6zrmBPgTEN5qXmN,True,Perfect match
+290,Thank God,Kane Brown With Katelyn Brown,Thank God,Kane Brown;Katelyn Brown,,True,Perfect match
+291,Watermelon Sugar,Harry Styles,Watermelon Sugar,Harry Styles,6UelLqGlWMcVH1E5c4H7lY,True,Perfect match
+292,Break My Heart,Dua Lipa,Break My Heart,Dua Lipa,017PF4Q3l4DBUiWoXk4OWT,True,Perfect match
+293,Without Me,Halsey,Without Me,Halsey,6FZDfxM3a3UCqtzo5pxSLZ,True,Perfect match
+294,Human,Rag'n'Bone Man,Human,Rag'n'Bone Man,58zsLZPvfflaiIbNWoA22O,True,Perfect match
+295,Until I Found You,Stephen Sanchez,Until I Found You,Stephen Sanchez,6VhuP99TE6gYNQRJIlAWFD,True,Perfect match
+296,Blinding Lights,The Weeknd,Blinding Lights,The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,True,Perfect match
+297,Midnight City,M83.,Midnight City,M83,6GyFP1nfCDB8lbD2bG0Hq9,True,Perfect match
+298,I Hope,Gabby Barrett Featuring Charlie Puth,I Hope,Gabby Barrett,,True,Perfect match
+299,Last Christmas,Wham!,Last Christmas,Wham!,2FRnf9qhLbvw8fu4IBXx78,True,Perfect match
+300,Efecto,Bad Bunny,Efecto,Bad Bunny,5Eax0qFko2dh7Rl2lYs3bx,True,Perfect match
+301,I Ain't Worried,OneRepublic,I Ain't Worried,OneRepublic,4h9wh7iOZ0GGn8QVp4RAOB,True,Perfect match
+302,As It Was,Harry Styles,As It Was,Harry Styles,4Dvkj6JhhA12EX05fT7y2e,True,Perfect match
+303,Glimpse Of Us,Joji,Glimpse of Us,Joji,2mlNgAeIBnL78ZriXgrRHz,True,Perfect match
+304,Moscow Mule,Bad Bunny,Moscow Mule,Bad Bunny,6Xom58OOXk2SoU711L2IXO,True,Perfect match
+305,The Bones,Maren Morris,The Bones,Maren Morris,7yFhA2fUsL2oIMWlw5DaHQ,True,Perfect match
+306,Stitches,Shawn Mendes,Stitches,Shawn Mendes,5jsw9uXEGuKyJzs0boZ1bT,True,Perfect match
+307,In Case You Didn't Know,Brett Young,In Case You Didn't Know,Brett Young,10M2Ex445zw585Ducldzkw,True,Perfect match
+308,Super Freaky Girl,Nicki Minaj,Super Freaky Girl,Nicki Minaj,4C6Uex2ILwJi9sZXRdmqXp,True,Perfect match
+309,Play It Again,Luke Bryan,Play It Again,Luke Bryan,03fT3OHB9KyMtGMt2zwqCT,True,Perfect match
+310,Burn It Down,Linkin Park,BURN IT DOWN,Linkin Park,7oVEtyuv9NBmnytsCIsY5I,True,Perfect match
+311,Next Thing You Know,Jordan Davis,Next Thing You Know,Jordan Davis,39OclE5hZematADrdfaWvE,True,Perfect match
+312,Blurred Lines,Robin Thicke Featuring T.I. + Pharrell,Blurred Lines,Robin Thicke;T.I.;Pharrell Williams,,True,Perfect match
+313,Mine,Bazzi,Mine,Bazzi,7uzmGiiJyRfuViKKK3lVmR,True,Perfect match
+314,Fake Love,BTS,FAKE LOVE,BTS,6m1TWFMeon7ai9XLOzdbiR,True,Perfect match
+315,Renegades,X Ambassadors,Renegades,X Ambassadors,0fYVliAYKHuPmECRs1pbRf,True,Perfect match
+316,Let Her Go,Passenger,Let Her Go,Passenger,5kWcIgj5CszKQBB0Lg7sGY,True,Perfect match
+317,Pillowtalk,ZAYN,PILLOWTALK,ZAYN,0PDUDa38GO8lMxLCRc4lL1,True,Perfect match
+318,Rock And A Hard Place,Bailey Zimmerman,Rock and A Hard Place,Bailey Zimmerman,1TE8AAk9koG0UJco6ZAUfx,True,Perfect match
+319,Love Me Like You Do,Ellie Goulding,Love Me Like You Do,Ellie Goulding,3zHq9ouUJQFQRf3cm1rRLu,True,Perfect match
+320,Me And My Broken Heart,Rixton,Me And My Broken Heart,Rixton,1oew3nFNY3vMacJAsvry0S,True,Perfect match
+321,Locked Out Of Heaven,Bruno Mars,Locked out of Heaven,Bruno Mars,3w3y8KPTfNeOKPiqUTakBh,True,Perfect match
+322,Beautiful Crazy,Luke Combs,Beautiful Crazy,Luke Combs,2rxQMGVafnNaRaXlRMWPde,True,Perfect match
+323,Perfect,Ed Sheeran,Perfect,Ed Sheeran,0tgVpDi06FyKpA1z0VMD4v,True,Perfect match
+324,Ho Hey,The Lumineers,Ho Hey,The Lumineers,0DwClY2t9YAWHBROMIgrXb,True,Perfect match
+325,Tongue Tied,Grouplove,Tongue Tied,Grouplove,0GO8y8jQk1PkHzS31d699N,True,Perfect match
+326,Hot Girl Bummer,Blackbear,hot girl bummer,blackbear,6jRq8gaZhMUyy5RclRPcAf,True,Perfect match
+327,Glad You Came,The Wanted,Glad You Came,The Wanted,5yDL13y5giogKs2fSNf7sj,True,Perfect match
+328,Forever After All,Luke Combs,Forever After All,Luke Combs,6IBcOGPsniK3Pso1wHIhew,True,Perfect match
+329,Trap Queen,Fetty Wap,Trap Queen,Fetty Wap,0TzxcB6dK46vgXZT2P8qeR,True,Perfect match
+330,abcdefu,GAYLE,abcdefu,GAYLE,4fouWK6XVHhzl78KzQ1UjL,True,Perfect match
+331,Life Goes On,Oliver Tree,Life Goes On,Oliver Tree,0eu4C55hL6x29mmeAjytzC,True,Perfect match
+332,Don't Let Me Down,The Chainsmokers Featuring Daya,Don't Let Me Down,The Chainsmokers;Daya,,True,Perfect match
+333,Best Day Of My Life,American Authors,Best Day Of My Life,American Authors,5Hroj5K7vLpIG4FNCRIjbP,True,Perfect match
+334,Someone You Loved,Lewis Capaldi,Someone You Loved,Lewis Capaldi,7qEHsqek33rTcFNT9PFqLf,True,Perfect match
+335,You Proof,Morgan Wallen,You Proof,Morgan Wallen,57a4iloBWqan5rtqPJBoVY,True,Perfect match
+336,Thats What I Want,Lil Nas X,THATS WHAT I WANT,Lil Nas X,0e8nrvls4Qqv5Rfa2UhqmO,True,Perfect match
+337,Bad Habits,Ed Sheeran,Bad Habits,Ed Sheeran,3rmo8F54jFF8OgYsqTxm5d,True,Perfect match
+338,Faded,Alan Walker,Faded,Alan Walker,698ItKASDavgwZ3WjaWjtz,True,Perfect match
+339,Heart Attack,Demi Lovato,Heart Attack,Demi Lovato,1V6gIisPpYqgFeWbMLI0bA,True,Perfect match
+340,Numb Little Bug,Em Beihold,Numb Little Bug,Em Beihold,3o9kpgkIcffx0iSwxhuNI2,True,Perfect match
+341,Tennessee Orange,Megan Moroney,Tennessee Orange,Megan Moroney,6DLbBlGIOjjEj0dNN25zhZ,True,Perfect match
+342,On The Floor,Jennifer Lopez Featuring Pitbull,On The Floor,Jennifer Lopez;Pitbull,,True,Perfect match
+343,Good 4 U,Olivia Rodrigo,good 4 u,Olivia Rodrigo,4ZtFanR9U6ndgddUvNcjcG,True,Perfect match
+344,Ghost,Justin Bieber,Ghost,Justin Bieber,6I3mqTwhRpn34SLVafSH7G,True,Perfect match
+345,Yo Perreo Sola,Bad Bunny,Yo Perreo Sola,Bad Bunny,0SqqAgdovOE24BzxIClpjw,True,Perfect match
+346,Falling,Trevor Daniel,Falling,Trevor Daniel,0Aqi7ArnBrGblW5T6p2jmD,True,Perfect match
+347,Woman,Doja Cat,Woman,Doja Cat,6Uj1ctrBOjOas8xZXGqKk4,True,Perfect match
+348,Believer,Imagine Dragons,Believer,Imagine Dragons,0pqnGHJpmpxLKifKRmU6WP,True,Perfect match
+349,IDGAF,Dua Lipa,IDGAF,Dua Lipa,76cy1WJvNGJTj78UqeA5zr,True,Perfect match
+350,Say So,Doja Cat Featuring Nicki Minaj,Say So,Doja Cat,,True,Perfect match
+351,Budapest,George Ezra,Budapest,George Ezra,2ixsaeFioXJmMgkkbd4uj1,True,Perfect match
+352,Un Ratito,Bad Bunny,Un Ratito,Bad Bunny,5CzixCxDkRXX9mScCmah8O,True,Perfect match
+353,Gangsta's Paradise,Coolio Featuring L.V.,Gangsta's Paradise,Coolio;L.V.,,True,Perfect match
+354,Smooth,Santana Featuring Rob Thomas,Smooth (feat. Rob Thomas),Santana;Rob Thomas,,False,Artist matches but title differs: 'Smooth' vs 'Smooth (feat. Rob Thomas)'
+355,Every Breath You Take,The Police,Every Breath You Take,The Police,1JSTJqkT5qHq8MDJnJbRE1,True,Perfect match
+356,""" Back in Black """,AC/DC,Back In Black,AC/DC,,True,Perfect match
+357,""" Hips Don't Lie """,Shakira featuring Wyclef Jean,Hips Don't Lie (feat. Wyclef Jean),Shakira;Wyclef Jean,,False,"Artist matches but title differs: '"" Hips Don't Lie ""' vs 'Hips Don't Lie (feat. Wyclef Jean)'"
+358,""" Save Your Tears """,The Weeknd,Save Your Tears,The Weeknd,,True,Perfect match
+359,""" Drivers License """,Olivia Rodrigo,drivers license,Olivia Rodrigo,,True,Perfect match
+360,Low,Flo Rida Featuring T-Pain,Low,Flo Rida;T-Pain,,True,Perfect match
+361,""" Just Dance """,Lady Gaga featuring Colby O'Donis,Just Dance,Lady Gaga;Colby O'Donis,,True,Perfect match
+362,""" Peaches """,Justin Bieber featuring Daniel Caesar and Giveon,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber;Daniel Caesar;Giveon,,False,"Artist matches but title differs: '"" Peaches ""' vs 'Peaches (feat. Daniel Caesar & Giveon)'"
+363,""" Thunderstruck """,AC/DC,Thunderstruck,AC/DC,,True,Perfect match
+364,""" Wind of Change """,Scorpions,Wind of Change,Scorpions,,True,Perfect match
+365,""" Rock Your Baby """,George McCrae,Rock Your Baby,George McCrae,,True,Perfect match
+366,Mack The Knife,Bobby Darin,Mack the Knife,Bobby Darin,3E5ndyOfO6vFDEIE42HA8o,True,Perfect match
+367,The Twist,Chubby Checker,The Twist,Chubby Checker,4YCnTYbq3oL1Lqpyxg33CU,True,Perfect match
+368,""" Yes Sir, I Can Boogie """,Baccara,"Yes Sir, I Can Boogie",Baccara,,True,Perfect match
+369,""" Girls Just Want to Have Fun """,Cyndi Lauper,Girls Just Want to Have Fun,Cyndi Lauper,,True,Perfect match
+370,""" Hound Dog """,Elvis Presley,Hound Dog,Elvis Presley,,True,Perfect match
+371,""" Y.M.C.A. """,Village People,YMCA,Village People,,False,"Artist matches but title differs: '"" Y.M.C.A. ""' vs 'YMCA'"
+372,Hey Jude,The Beatles,Hey Jude,The Beatles,1RP85mAmvJ8baqjP53kFJu,True,Perfect match
+373,Hot Stuff,Donna Summer,Hot Stuff,Donna Summer,2zMJN9JvDlvGP4jB03l1Bz,True,Perfect match
+374,No One,Alicia Keys,No One,Alicia Keys,0mZ5GyrHG908lqrHaTw4hi,True,Perfect match
+375,""" Rivers of Babylon """,Boney M.,Rivers of Babylon,Boney M.,,True,Perfect match
+376,""" Fernando """,ABBA,Fernando,ABBA,,True,Perfect match
+377,"Sugar, Sugar",The Archies,Sugar Sugar,The Archies,3iSws76HjaU7k49EqJVTfF,True,Perfect match
+378,How Do I Live,LeAnn Rimes,How Do I Live,LeAnn Rimes,7BD50ATrF3Vab5FQy7vtK8,True,Perfect match
+379,Eye Of The Tiger,Survivor,Eye of the Tiger,Survivor,2HHtWyy5CgaQbC7XSoOb0e,True,Perfect match
+380,I Love Rock 'N Roll,Joan Jett & The Blackhearts,I Love Rock 'N Roll,Joan Jett & the Blackhearts,2Cdvbe2G4hZsnhNMKyGrie,True,Perfect match
+381,End Of The Road,Boyz II Men,End Of The Road,Boyz II Men,3l3xTXsUXeWlkPqzMs7mPD,True,Perfect match
+382,Call Me,Blondie,Call Me,Blondie,7HKxTNVlkHsfMLhigmhC0I,True,Perfect match
+383,""" My Sharona """,The Knack,My Sharona,The Knack,,True,Perfect match
+384,""" Hello """,Adele,Hello,Adele,,True,Perfect match
+385,Centerfold,The J. Geils Band,Centerfold,The J. Geils Band,1ynmMEK1fkyiZ6Z6F3ThEt,True,Perfect match
+386,How Deep Is Your Love,Bee Gees,How Deep Is Your Love,Bee Gees,2JoZzpdeP2G6Csfdq5aLXP,True,Perfect match
+387,""" Bohemian Rhapsody """,Queen,Bohemian Rhapsody,Queen,,True,Perfect match
+388,""" Highway to Hell """,AC/DC,Highway to Hell,AC/DC,,True,Perfect match
+389,""" Candle in the Wind 1997 """,Elton John,Candle In The Wind 1997,Elton John,,True,Perfect match
+390,I'm A Believer,The Monkees,I'm a Believer,The Monkees,3G7tRC24Uh09Hmp1KZ7LQ2,True,Perfect match
+391,""" Love Story """,Taylor Swift,Love Story,Taylor Swift,,True,Perfect match
+392,""" Diana """,Paul Anka,Diana,Paul Anka,,True,Perfect match
+393,""" Don't Stop Believin ' """,Journey,Don't Stop Believin',Journey,,True,Perfect match
+394,""" It's Now or Never """,Elvis Presley,It's Now or Never,Elvis Presley,,True,Perfect match
+395,""" Smells Like Teen Spirit """,Nirvana,Smells Like Teen Spirit,Nirvana,,True,Perfect match
+396,""" Africa """,Toto,Africa,TOTO,,True,Perfect match
+397,""" September ""","Earth, Wind & Fire",September,"Earth, Wind & Fire",,True,Perfect match
+398,""" Montero (Call Me by Your Name) """,Lil Nas X,MONTERO (Call Me By Your Name),Lil Nas X,,True,Perfect match
+399,""" Livin' on a Prayer """,Bon Jovi,Livin' On A Prayer,Bon Jovi,,True,Perfect match
+400,""" Ain't No Mountain High Enough """,Marvin Gaye,Ain't No Mountain High Enough,Marvin Gaye;Tammi Terrell,,True,Perfect match
+401,Upside Down,Diana Ross,Upside Down,Diana Ross,3pbtBomO4Zt5gGiqsYeiBH,True,Perfect match
+402,I'Ll Make Love To You,Boyz II Men,I'll Make Love To You,Boyz II Men,7dfl9X38RhIvB3oSmmneq3,True,Perfect match
+403,(Everything I Do) I Do It For You,Bryan Adams,(Everything I Do) I Do It For You,Bryan Adams,1Eb90nmqTrxylKFhcUzW8P,True,Perfect match
+404,""" Poker Face """,Lady Gaga,Poker Face,Lady Gaga,,True,Perfect match
+405,""" Butter """,BTS,Butter,BTS,,True,Perfect match
+406,I Want To Hold Your Hand,The Beatles,I Want To Hold Your Hand,The Beatles,5Qe7NHxeLAn8KoLTNLSdwe,True,Perfect match
+407,""" Rock Around the Clock """,Bill Haley & His Comets,Rock Around The Clock,Bill Haley & His Comets,,True,Perfect match
+408,""" I'm Yours """,Jason Mraz,I'm Yours,Jason Mraz,,True,Perfect match
+409,Stayin' Alive,Bee Gees,Stayin Alive,Bee Gees,3mRM4NM8iO7UBqrSigCQFH,True,Perfect match
+410,How You Remind Me,Nickelback,How You Remind Me,Nickelback,0gmbgwZ8iqyMPmXefof8Yf,True,Perfect match
+411,""" Despacito """,Luis Fonsi featuring Daddy Yankee,Despacito,Luis Fonsi;Daddy Yankee,,True,Perfect match
+412,""" Someone Like You """,Adele,Someone Like You,Adele,,True,Perfect match
+413,""" You Shook Me All Night Long """,AC/DC,You Shook Me All Night Long,AC/DC,,True,Perfect match
+414,You're Still The One,Shania Twain,You're Still The One,Shania Twain,3x2ksaXI6EZUWidE2BiLXy,True,Perfect match
+415,""" Kung Fu Fighting """,Carl Douglas,Kung Fu Fighting,Carl Douglas,,True,Perfect match
+416,It's You,Sezairi,It's You,Sezairi,7rdnB5DAyPbaj51TCQRcqW,True,Perfect match
+417,Gvnman Shift,Skeng,Gvnman Shift,Skeng,4y0AUgG6XhQac3a6Li93QU,True,Perfect match
+418,To the Bone,Pamungkas,To the Bone,Pamungkas,5pvlSx0s2w3nKuyfrFnYBZ,True,Perfect match
+419,I Love You So,The Walters,I Love You So,The Walters,4SqWKzw0CbA05TGszDgMlc,True,Perfect match
+420,Yours,JIN,Yours,JIN,66sBTYlkaiyBwf4fhbIHlZ,True,Perfect match
+421,Rare,Nas,Rare,Nas,465eCPwUAz2qz7IdQaxUui,True,Perfect match
+422,Crocodile Teeth,Skillibeng,Crocodile Teeth,Skillibeng,2QXv4NKNCuqCDmOTwcOjrN,True,Perfect match
+423,Binibini,Zack Tabudlo,Binibini,Zack Tabudlo,55RMhrPQYA6vLu5YMgXxFD,True,Perfect match
+424,Dandelions,Ruth B.,Dandelions,Ruth B.,2eAvDnpXP5W0cVtiI0PUxV,True,Perfect match
+425,West Indies,KOFFEE,West Indies,Koffee,2OFvClbKLxtHeVMb3O1pOX,True,Perfect match
+426,Pretty Like a Rose,Jah Vinci,Pretty Like a Rose,Jah Vinci,07wAl2Bu0iJMDBv12Gcxn5,True,Perfect match
+427,Deprivation,SQUASH,Deprivation,Squash,347JT3IGkLpE6lf3uIY7X1,True,Perfect match
+428,Build a Bitch,Bella Poarch,Build a Bitch,Bella Poarch,7BoobGhD4x5K96Me0hqC8Q,True,Perfect match
+429,At My Worst,Pink Sweat$,At My Worst,Pink Sweat$,00yCFRFQLu3OAhGahgVimh,True,Perfect match
+430,もしも命が描けたら,YOASOBI,もしも命が描けたら,YOASOBI,5WYTSyhKonzQZ3hu14LNr6,True,Perfect match
+431,10 NUMARA,Lvbel C5,10 NUMARA,Lvbel C5,6GDpxEOvaXS0nbqSrFtDAQ,True,Perfect match
+432,Come My Way,Wande Coal,Come My Way (Mixed),Wande Coal,6fE4kU5eTm4cKOV0tRoXPo,False,Artist matches but title differs: 'Come My Way' vs 'Come My Way (Mixed)'
+433,Rolling Calf,Chronic Law,Rolling Calf,Chronic Law,1hfrTJNyCr6DNk593dvfdw,True,Perfect match
+434,Arıyorum,EDIS,Arıyorum,EDIS,6g6MHm9u0h2Em9Xuk89eqR,True,Perfect match
+435,炎,LiSA,炎,LiSA,0cSkn2l67csUljEy0EEBPn,True,Perfect match
+436,Martılar,EDIS,Martılar,EDIS,1xEpgyKx4ZHtefFAh0SmU5,True,Perfect match
+437,踊,Ado,踊,Ado,7z6qHGEKxRtwtYym2epV7l,True,Perfect match
+438,Life Goes On,BTS,Life Goes On,BTS,5FVbvttjEvQ8r2BgUcJgNg,True,Perfect match
+439,群青,YOASOBI,群青,YOASOBI,1zd35Y44Blc1CwwVbW3Qnk,True,Perfect match
+440,もう少しだけ,YOASOBI,もう少しだけ,YOASOBI,2pXmohBUnD5Li93sgpbPSg,True,Perfect match
+441,三原色,YOASOBI,三原色,YOASOBI,3FUCuf498nFHJXFYR1V9Bd,True,Perfect match
+442,Film out,BTS,Film out,BTS,3UHPGOkUcE4hE7sqBF4Snt,True,Perfect match
+443,水平線,back number,水平線,back number,3RvdkNMcSy71m0aT6UF9Uf,True,Perfect match
+444,ラブレター,YOASOBI,ラブレター,YOASOBI,185Wm4Mx09dQG0fUktklDm,True,Perfect match
+445,Seni Dert Etmeler,Madrigal,Seni Dert Etmeler,Madrigal,10n66m41IGjA2ZulKPK7Ew,True,Perfect match
+446,海のリビング,鈴木鈴木,海のリビング,鈴木鈴木,0I1D4fOSlNL2L7tfPHBpuh,True,Perfect match
+447,明け星,LiSA,明け星,LiSA,60iYkEAcSpAFcsjRrgTlrc,True,Perfect match
+448,踊り子,Vaundy,踊り子,Vaundy,1YXot2MLAG9sttepCtBRM7,True,Perfect match
+449,残響散歌,Aimer,残響散歌,Aimer,7v8wKvNQQIxkugCFFjrkaO,True,Perfect match
+450,一途,King Gnu,一途,King Gnu,7ncPjJBktLEOpstY5JOUMK,True,Perfect match
+451,裸の勇者,Vaundy,裸の勇者,Vaundy,3k64vNcgYPkETG7TNgpW4o,True,Perfect match
+452,Tell Me Something Good,Ewan McVicar,Tell Me Something Good,Ewan McVicar,5krhFNgUcYHwXlNPJJYzFM,True,Perfect match
+453,Happier Than Ever,ASTN,Happier Than Ever,ASTN,0xWWwyvYD1mEmaGTOiP0SU,True,Perfect match
+454,Krvn,UZI,Krvn,UZI,4a1WLOoydq7u011UG9jjC9,True,Perfect match
+455,BOY,King Gnu,BOY,King Gnu,4UShpOJdauir54vMuaFLEV,True,Perfect match
+456,Nangangamba,Zack Tabudlo,Nangangamba,Zack Tabudlo,1dcNEEtODRVZEevQ20Cgmy,True,Perfect match
+457,在這座城市遺失了你 (戲劇《他們創業的那些鳥事》插曲),告五人,在這座城市遺失了你 (戲劇《他們創業的那些鳥事》插曲),告五人,1Ytgo9ipdlTsf6wlg6sXf3,True,Perfect match
+458,ZITTI E BUONI,Måneskin,ZITTI E BUONI,Måneskin,776AftMmFFAWUIEAb3lHhw,True,Perfect match
+459,Without You,高爾宣 OSN,Without You,高爾宣 OSN,0KWnRv3wxjltYVB3MqjNd2,True,Perfect match
+460,披星戴月的想你,告五人,披星戴月的想你,告五人,7tgzj2IqzSgUpxUhjmcF5m,True,Perfect match
+461,夜に駆ける,YOASOBI,夜に駆ける,YOASOBI,6MCjmGYlw6mQVWRFVgBRvB,True,Perfect match
+462,告白氣球,Jay Chou,告白氣球,Jay Chou,2tqF9MPNdYdJU70U0ULO23,True,Perfect match
+463,七里香,Jay Chou,七里香,Jay Chou,57w29bSwdIZ6gr6xXOqwc1,True,Perfect match
+464,一派輕鬆,許光漢,一派輕鬆,許光漢,36JeQiNJvvpnCTZCDDgKuB,True,Perfect match
+465,好不容易 (《華燈初上》片尾曲),告五人,好不容易 (《華燈初上》片尾曲),告五人,6jNy9WM3zyvG9E5bdVALl8,True,Perfect match
+466,愛人錯過,告五人,愛人錯過,告五人,27FOde2nUw0pFuj7hlPbaS,True,Perfect match
+467,12 Bande,Varinder Brar,12 Bande,Varinder Brar,5ijrt6SFr0EsV9sQoze27U,True,Perfect match
+468,不為誰而作的歌,JJ LIN,不為誰而作的歌,JJ Lin,,True,Perfect match
+469,夜曲,Jay Chou,夜曲,Jay Chou,1oLmDOpJtIMFdRFBXdnOvj,True,Perfect match
+470,交換餘生,JJ LIN,交換餘生,JJ Lin,4daA20tBusVX29bUWgd8Dw,True,Perfect match
+471,可惜沒如果,JJ LIN,可惜沒如果,JJ Lin,0E8P8DNhj10IAF62AAjpgd,True,Perfect match
+472,唯一 (三立/台視戲劇《戀愛是科學》插曲),告五人,唯一 (三立/台視戲劇《戀愛是科學》插曲),告五人,19fp9nI0tq0lcBl7XoCHAb,True,Perfect match
+473,關鍵詞,JJ LIN,關鍵詞,JJ Lin,,True,Perfect match
+474,黑夜問白天,JJ LIN,黑夜問白天,JJ Lin,5KNh5YQgfduzV4028Cfh3J,True,Perfect match
+475,稻香,Jay Chou,稻香,Jay Chou,69pyHCoBn4Ki0BzDJ2xPGI,True,Perfect match
+476,人類不宜飛行,Dear Jane,人類不宜飛行,Dear Jane,73889xyvOm67A8KZQppfhR,True,Perfect match
+477,晴天,Jay Chou,晴天,Jay Chou,5pIcwtJYNJx93l420oR2Vm,True,Perfect match
+478,Habang Buhay,Zack Tabudlo,Habang Buhay,Zack Tabudlo,63bmIgH9sS6sX5Sc7MetGq,True,Perfect match
+479,Feelinga,Garry Sandhu,Feelinga,Garry Sandhu,2DzEnsDbTLHwPuIMAB2z0P,True,Perfect match
+480,Christmas EveL,Stray Kids,Christmas EveL,Stray Kids,5npCUsfrlhdyjxyCa32maW,True,Perfect match
+481,L'ultima notte,ARIETE,L'ultima notte,ARIETE,63mdY4U0KvnbMkUEc7FHN8,True,Perfect match
+482,Play Date,Melanie Martinez,Play Date,Melanie Martinez,4DpNNXFMMxQEKl7r0ykkWA,True,Perfect match
+483,Shiddat Title Track,Manan Bhardwaj,Shiddat Title Track,Manan Bhardwaj,5O9jxRlG72h1sYxtqWwUcF,True,Perfect match
+484,Baaraat,Ritviz、Nucleya,Baaraat,Ritviz;Nucleya,0YLSjVxSb5FT1Bo8Tnxr8j,False,Title matches but artist differs: 'Ritviz、Nucleya' vs 'Ritviz;Nucleya'
+485,うっせぇわ,Ado,うっせぇわ,Ado,61KYsWS25JXUO4fGb1138X,True,Perfect match
+486,往け,LiSA,往け,LiSA,4cDm9C5jhBiIyYxVhQmMwB,True,Perfect match
+487,Godly,Omah Lay,Godly,Omah Lay,6NgjdJrK7Bpyvsm8yDtx4H,True,Perfect match
+488,Only God Can Judge Me,NSG、MIST,Only God Can Judge Me,NSG;MIST,7F1FBu1Xy1DWKGTMxpyIho,False,Title matches but artist differs: 'NSG、MIST' vs 'NSG;MIST'
+489,Time After Time,Cyndi Lauper,Time After Time,Cyndi Lauper,7o9uu2GDtVDr9nsR7ZRN73,True,Perfect match
+490,Steal My Love,Dan + Shay,Steal My Love,Dan + Shay,0vzSAyinyA619ZbrOaAi04,True,Perfect match
+491,Envolver,Anitta,Envolver,Anitta,3IAfUEeaXRX9s9UdKOJrFI,True,Perfect match
+492,Another Love,Tom Odell,Another Love,Tom Odell,3JvKfv6T31zO0ini8iNItO,True,Perfect match
+493,DOMINO,Stray Kids,DOMINO,Stray Kids,6Ib6RkvLBMD85bov85apSL,True,Perfect match
+494,Red Lights (Bang Chan & Hyunjin),Stray Kids,"Red Lights (Bang Chan, Hyunjin)",Stray Kids,0LatE4S9UtCDwIdGQsFFKL,True,Perfect match
+495,Deja Vu,ATEEZ,Deja Vu,ATEEZ,3zmrdOtnOogqLllz26WLZ3,True,Perfect match
+496,We Fell in Love in October,girl in red,we fell in love in october,girl in red,6IPwKM3fUUzlElbvKw2sKl,True,Perfect match
+497,Infinity,Jaymes Young,Infinity,Jaymes Young,1SOClUWhOi8vHZYMz3GluK,True,Perfect match
+498,Apocalypse,Cigarettes After Sex,Apocalypse,Cigarettes After Sex,1oAwsWBovWRIp7qLMGPIet,True,Perfect match
+499,I Hate Alabama,Conner Smith,I Hate Alabama,Conner Smith,1wCVQcDD1DMKp0jxtQmEBp,True,Perfect match
+500,怪物,YOASOBI,怪物,YOASOBI,2vjY3jGKElvqXoaGNEuYef,True,Perfect match
+501,Lilac,IU,LILAC,IU,5xrtzzzikpG3BLbo4q1Yul,True,Perfect match
+502,Alien Blues,Vundabar,Alien Blues,Vundabar,11iIikXxC6NP0Ma8vMD27x,True,Perfect match
+503,STEREOTYPE,STAYC,STEREOTYPE,STAYC,2bZIDMpzVooosmPHn0tHnd,True,Perfect match
+504,On The Ground,ROSÉ,On The Ground,ROSÉ,2pn8dNVSpYnAtlKFC8Q0DJ,True,Perfect match
+505,Gone,ROSÉ,Gone,ROSÉ,2dHoVW9AxJVSRebPRyV2aA,True,Perfect match
+506,ONLY,LeeHi,ONLY,LeeHi,6TBJkXHPhu3EsMk1bshwuI,True,Perfect match
+507,LOCO,ITZY,LOCO,ITZY,56Yxkm62GtEpnPyG7TvwLY,True,Perfect match
+508,Romantic Sunday,"CAR, THE GARDEN",Romantic Sunday,"Car, the garden",16YZbdkJtyvsjV8UKOwQBB,True,Perfect match
+509,The Feels,TWICE,The Feels,TWICE,308Ir17KlNdlrbVLHWhlLe,True,Perfect match
+510,Savage,aespa,Savage,aespa,3dbLT62Cvs46Ju7a8gpr36,True,Perfect match
+511,Thunderous,Stray Kids,Thunderous,Stray Kids,0nwTMzpatarzvLvtwwzdCt,True,Perfect match
+512,XOXO,JEON SOMI,XOXO,JEON SOMI,4r34Yi0eltsu1tp6z4lq3x,True,Perfect match
+513,SCIENTIST,TWICE,SCIENTIST,TWICE,0BJMgVrnWIvgYsjq8KaPeh,True,Perfect match
+514,ELEVEN,IVE,ELEVEN,IVE,7n2FZQsaLb7ZRfRPfEeIvr,True,Perfect match
+515,ZOO,TAEYONG、JENO、HENDERY、YANGYANG、GISELLE,ZOO,TAEYONG;JENO;HENDERY;YANGYANG;GISELLE,7eVu7FI02cTicLEgVtUvwF,False,Title matches but artist differs: 'TAEYONG、JENO、HENDERY、YANGYANG、GISELLE' vs 'TAEYONG;JENO;HENDERY;YANGYANG;GISELLE'
+516,Berlín,Aitana,Berlín,Aitana,5N5GaRpXYZl5ZKKU5a5LtH,True,Perfect match
+517,Tujhe Kitna Chahne Lage,Arijit Singh,Tujhe Kitna Chahne Lage,Arijit Singh,2Fv2injs4qAm8mJBGaxVKU,True,Perfect match
+518,"Mann Bharryaa 2.0 (From ""Shershaah"")",B. Praak,"Mann Bharryaa 2.0 (From ""Shershaah"")",B Praak,,True,Perfect match
+519,Lover,Diljit Dosanjh,Lover,Diljit Dosanjh,0XwRlvv3KlOu4HWlOH34XG,True,Perfect match
+520,Bijlee Bijlee,Harrdy Sandhu,Bijlee Bijlee,Harrdy Sandhu,1iZLpuGMr4tn1F5bZu32Kb,True,Perfect match
+521,Hot Sauce,NCT DREAM,Hot Sauce,NCT DREAM,6B8MM3PVQtUbZLay7tP7er,True,Perfect match
+522,Friendships (Lost My Love) [feat. Leony!],Pascal Letoublon,Friendships,Pascal Letoublon,,False,Artist matches but title differs: 'Friendships (Lost My Love) [feat. Leony!]' vs 'Friendships'
+523,Queendom,Red Velvet,Queendom,Red Velvet,6SpPr7K4YQ2wp8jU6uOTmQ,True,Perfect match
+524,Here's Your Perfect,Jamie Miller,Here's Your Perfect,Jamie Miller,2aTKrdenCq5qBOoJPFdn4P,True,Perfect match
+525,一路向北,Jay Chou,一路向北,Jay Chou,7KoqEF76fGnDYdxTSHLxcm,True,Perfect match
+526,Rock,Olamide,Rock,Olamide,3N3PWNgtiqsdLY5PQTKw6w,True,Perfect match
+527,Understand,Omah Lay,understand,Omah Lay,6oOCGD2Sp9UTcDsuDz8Hdu,True,Perfect match
+528,Petite,NSG,Petite,NSG,24ULbF2UnOeMbkmkGriTBc,True,Perfect match
+529,Anoti,WizKid,Anoti,Wizkid,60lUecrFeE2t6QMJ1Nmsve,True,Perfect match
+530,Free My Mind,Omah Lay,Free My Mind,Omah Lay,2NcJDSpMJsbyabOLoa00GM,True,Perfect match
+531,Ozumba Mbadiwe,Reekado Banks,Ozumba Mbadiwe,Reekado Banks,4NLFnAPoMAiuuK8iXnit6W,True,Perfect match
+532,Beggin,Måneskin,Beggin',Måneskin,3Wrjm47oTz2sjIgck11l5e,True,Perfect match
+533,FEVER,ENHYPEN,FEVER,ENHYPEN,0UzymivvUH5s8z4PeWZJaK,True,Perfect match
+534,I WANNA BE YOUR SLAVE,Måneskin,I WANNA BE YOUR SLAVE,Måneskin,4pt5fDVTg5GhEvEtlz9dKk,True,Perfect match
+535,MONEY,LISA,MONEY,LISA,7hU3IHwjX150XLoTVmjD0q,True,Perfect match
+536,Over,Lucky Daye,Over,Lucky Daye,23CKxEwKWsLs6LD5poGOLM,True,Perfect match
+537,Astronaut In The Ocean,Masked Wolf,Astronaut In The Ocean,Masked Wolf,3Ofmpyhv5UAQ70mENzB277,True,Perfect match
+538,Permission to Dance,BTS,Permission to Dance,BTS,3XYRV7ZSHqIRDG87DKTtry,True,Perfect match
+539,Pepas,Farruko,Pepas,Farruko,5fwSHlTEWpluwOM0Sxnh5k,True,Perfect match
+540,Love Me Like That,SAM KIM,Love Me Like That,Sam Kim,1lhm29o3syw122xynSKaAK,True,Perfect match
+541,Next Level,aespa,Next Level,aespa,2zrhoHlFKxFTRF5aMyxMoQ,True,Perfect match
+542,Double Take,dhruv,double take,dhruv,0QzuaeCEEOV40Pn7IvKEny,True,Perfect match
+543,LALISA,LISA,LALISA,LISA,7uQZVznj0uQOGC9KhV2Mg6,True,Perfect match
+544,Ramenez la coupe à la maison,Vegedream,Ramenez la coupe à la maison,Vegedream,45eY7Qi2PDUs8WJEhjGWdN,True,Perfect match
+545,Merry Christmas Everyone,Shakin' Stevens,Merry Christmas Everyone,Shakin' Stevens,2TE4xW3ImvpltVU0cPcKUn,True,Perfect match
+546,Alone With You,Arz,Alone With You,Arz,0W7brFokN6QtGRNp32RCQP,True,Perfect match
+547,Drawer,10cm,Drawer,10cm,1OQ3PoRZRtE7RH0NIh3p1O,True,Perfect match
+548,Goat,Sidhu Moose Wala,GOAT,Sidhu Moose Wala,0a0hk7WwRKaUAmHWFnlMGE,True,Perfect match
+549,A-O-K,Tai Verdes,A-O-K,Tai Verdes,1sx0XsWUusUoPstbvokZjP,True,Perfect match
+550,Luna,Diljit Dosanjh,Luna,Diljit Dosanjh,1Hy2ZRkFGC3P47r6lDX2sy,True,Perfect match
+551,Champagne,Diljit Dosanjh,Champagne,Diljit Dosanjh,7fYE7BT9Na8XpALQwuhIwX,True,Perfect match
+552,SHORTY QUE TE VAYA BN <3,Rels B,SHORTY QUE TE VAYA BN <3,Rels B,3CQDFLetMMxD5hzAnUk410,True,Perfect match
+553,Parshawan,Harnoor,Parshawan,Harnoor,5PJD4GxyJBHykpj8NKBOKz,True,Perfect match
+554,295,Sidhu Moose Wala,295,Sidhu Moose Wala,5ira9VcDBJhaEVSrbHOlIK,True,Perfect match
+555,I'm a B,Hwa Sa,I`m a B,Hwa Sa,1AToLLvWghQgiBFef1iGuR,True,Perfect match
+556,Top Notch Gabru,Vicky,Top Notch Gabru,Vicky,2ugxPaIQrP1OWIdpgPYh7E,True,Perfect match
+557,Vibe,Diljit Dosanjh,Vibe,Diljit Dosanjh,44gJjTJwY4eba0jpNnrlld,True,Perfect match
+558,Chitta,Manan Bhardwaj,Chitta,Manan Bhardwaj,6JUQViD0hLXlvWXCV4uUF8,True,Perfect match
+559,Kina Chir,The PropheC,Kina Chir,The PropheC,2jrKt7TeBeDtmLBZ3grQQj,True,Perfect match
+560,We Rollin,Shubh,We Rollin,Shubh,6ZYxNjuAU9Vy3VtF6W1dtE,True,Perfect match
+561,Elevated,Shubh,Elevated,Shubh,2AilvPt1AQ8PixlCKqkjfj,True,Perfect match
+562,Offshore(feat.Thiarajxtt),Shubh,Offshore,Shubh,,False,Artist matches but title differs: 'Offshore(feat.Thiarajxtt)' vs 'Offshore'
+563,It's You,Ali Gatie,It's You,Ali Gatie,5DqdesEfbRyOlSS3Tf6c29,True,Perfect match
+564,Steady,WizKid,Steady,Wizkid,6mAdcIFP25eb37HjkzglSh,True,Perfect match
+565,Black & White,Diljit Dosanjh,Black & White,Diljit Dosanjh,5wiSbeDm2p5yniuus7eH4J,True,Perfect match
+566,Molly,SELMON、Bausa,Molly,Selmon;Bausa,0BtIXZTbb0cczvMEvZILDJ,False,Title matches but artist differs: 'SELMON、Bausa' vs 'Selmon;Bausa'
+567,Rock with you,SEVENTEEN,Rock with you,SEVENTEEN,6LnEoRQKMcaFTR5UvaKuBy,True,Perfect match
+568,Black Mamba,aespa,Black Mamba,aespa,6Tj9KfzPp7tmgcDdsaPwGE,True,Perfect match
+569,Better Days,Dermot Kennedy,Better Days,Dermot Kennedy,0B6hW0mGwtejHAWuJ0qMka,True,Perfect match
+570,TENGO FE,Feid,TENGO FE,Feid,57pkksnRS4NOOphTmoRlK2,True,Perfect match
+571,SI TÚ SUPIERAS (Bonus Track),Feid,SI TÚ SUPIERAS,Feid,1SCYfmGM5ueb6YiiQbLXVn,False,Artist matches but title differs: 'SI TÚ SUPIERAS (Bonus Track)' vs 'SI TÚ SUPIERAS'
+572,AMOR DE MI VIDA,Feid,AMOR DE MI VIDA,Feid,2C6eINAA8cO6e5a8PjnWsK,True,Perfect match
+573,Never Going Home,Kungs,Never Going Home,Kungs,0xfMlIW8lS40qvpsUw1l0X,True,Perfect match
+574,La vie qu'on mène,Ninho,La vie qu'on mène,Ninho,0Jh6iWjna1wk5le0Ahn7No,True,Perfect match
+575,Le monde est méchant,Niska,Le monde est méchant,Niska,2DhOf9aFuyDaCgQ00ApAL3,True,Perfect match
+576,Jefe,Ninho,Jefe,Ninho,6HTJgY7iWWlVLSDHsfHePf,True,Perfect match
+577,Tamed-Dashed,ENHYPEN,Tamed-Dashed,ENHYPEN,1zoyteFQmeUUqyOl2Xznpy,True,Perfect match
+578,VVS,Ninho,VVS,Ninho,5S12Ds2RswM2ITC0u1J01f,True,Perfect match
+579,I GUESS I'M IN LOVE,Clinton Kane,I GUESS I'M IN LOVE,Clinton Kane,1is8gU4RVcN4J8xItxWoOY,True,Perfect match
+580,Celebrity,IU,Celebrity,IU,5nCwjUUsmBuNZKn9Xu10Os,True,Perfect match
+581,Alcohol-Free,TWICE,Alcohol-Free,TWICE,0BTaaKT4RMbs5M73tOHX5Y,True,Perfect match
+582,Blueming,IU,Blueming,IU,4Dr2hJ3EnVh2Aaot6fRwDO,True,Perfect match
+583,ASAP,STAYC,ASAP,STAYC,5BXr7hYZQOeRttkeWYTq5S,True,Perfect match
+584,LO$ER=LO♡ER,TOMORROW X TOGETHER,LO$ER=LO♡ER,TOMORROW X TOGETHER,21aOLk12MksET8AsbU0SI6,True,Perfect match
+585,Lovesick Girls (JP Ver.),BLACKPINK,Lovesick Girls,BLACKPINK,0UJRzax7oFLoK8Sb9IcPcm,False,Artist matches but title differs: 'Lovesick Girls (JP Ver.)' vs 'Lovesick Girls'
+586,PING PONG,HyunA&DAWN,PING PONG,HyunA&DAWN,0Z99Xe1lGBmq60RwJ5YU18,True,Perfect match
+587,2055,Sleepy Hallow,2055,Sleepy Hallow,4XvcHTUfIlWfyJTRG0aqlo,True,Perfect match
+588,反對無效,MC 張天賦,反對無效,MC 張天賦,2P5Eeh29qJrYa1T27cdL3B,True,Perfect match
+589,Unruly Rave,Popcaan,Unruly Rave,Popcaan,0V5GNdsrQlKBR1V4PeGX7x,True,Perfect match
+590,Mi Nuevo Vicio,Morat,Mi Nuevo Vicio,Morat,2gZfkS89cEA3AzeatDbW94,True,Perfect match
+591,Devil On My Shoulder,Chelsea Cutler,Devil On My Shoulder,Chelsea Cutler,5UcpS8tiqIBonv1O145xlq,True,Perfect match
+592,Sun Daze,Florida Georgia Line,Sun Daze,Florida Georgia Line,2wSZhX2Yvslh1oZFFjj45p,True,Perfect match
+593,Suavemente,Soolking,Suavemente,Soolking;Boro Boro,38kvRDOkORGfZVjiwyjDZz,True,Perfect match
+594,Lighter,Nathan Dawe,Lighter,Nathan Dawe;KSI,3a03BqKYbKWqn9cPqyQcD8,True,Perfect match
+595,The World Keeps Turning,Napalm Death,The World Keeps Turning,Napalm Death,5PWC0SulWeIkOiVdJqE7a7,True,Perfect match
+596,Undisputed Champion,Vybz Kartel,UNDISPUTED CHAMPION,Vybz Kartel;Don Richie Music;Mark Topsecret,0lBxAB9HJJPAbEPCoMQcRh,True,Perfect match
+597,Un Canto,Andrea Bocelli,Un canto,Andrea Bocelli,0PBa6wGIQpEMlNhpmjaYPr,True,Perfect match
+598,Uusi Kurja Maailma,Sielunvihollinen,Uusi Kurja Maailma,Sielunvihollinen,1ECLF6uBM6wUeYKGlSRfHy,True,Perfect match
+599,Imagina,Porta,Imagina,Porta,6PBH6BNCAWgshsrZoCmGEq,True,Perfect match
+600,Hard Candy Christmas,Cyndi Lauper,Hard Candy Christmas,Cyndi Lauper,6oRYkFeQO0qhLw7PC4iRqz,True,Perfect match
+601,Lesser Animal,Pig Destroyer,Lesser Animal,Pig Destroyer,2itYAgeIb3S62D9qJvgZbx,True,Perfect match
+602,I Love You... Te Quiero,Belinda,I Love You... Te Quiero,Belinda;Pitbull,0kYMixuzmfdOpNRcHJ4A2V,True,Perfect match
+603,Ferrari,James Hype,Ferrari,James Hype;Miggy Dela Rosa,1Ef2kTon47BwiPQP2SovYa,True,Perfect match
+604,Los Besos,Greeicy,Los Besos,Greeicy,4icqZpqGF4ZKp0TP1QqsXc,True,Perfect match
+605,Tartarian Winds,Necrophobic,Tartarian Winds,Necrophobic,4kDJ3wToUoZxnCgHeFrSPI,True,Perfect match
+606,It Aint Over Til Its Over,Lenny Kravitz,It Ain't Over 'Til It's Over,Lenny Kravitz,7upR6MamNGwahBsZJdgURY,False,Artist matches but title differs: 'It Aint Over Til Its Over' vs 'It Ain't Over 'Til It's Over'
+607,Last Request,Paolo Nutini,Last Request,Paolo Nutini,64IYrVRKqcJPkT978YoPmP,True,Perfect match
+608,Diez Mil Maneras,David Bisbal,Diez Mil Maneras,David Bisbal,3S1x2oj2T4CL8pnJON66qi,True,Perfect match
+609,You Deserve It All,John Legend,You Deserve It All,John Legend,3Y2ejyizHAaGR83Esr5Dsr,True,Perfect match
+610,Narcissist,Avery Anna,Narcissist,Avery Anna,1JswREP8dKSYnAgGcDx2TP,True,Perfect match
+611,Polo Jeans,Mac Miller,Polo Jeans,Mac Miller;Earl Sweatshirt,5E73WRgx5QymAZBW3kbTR0,True,Perfect match
+612,Easy,Sheryl Crow,Easy,Sheryl Crow,1kvZL6kWs8JTgw9dJQJYWY,True,Perfect match
+613,Lo How a Rose Ere Blooming,Jon Schmidt,"Lo How A Rose, Ere Blooming",Jon Schmidt,6oX4cFt2RsKuGKX2a2qOEe,True,Perfect match
+614,Universal Child,Annie Lennox,Universal Child,Annie Lennox;African Children's Choir,4JsjeOfvN5zzni6LVw4yLl,True,Perfect match
+615,Cozy Little Christmas,Katy Perry,Cozy Little Christmas,Katy Perry,1pu8zYG4DAMAQhPblADRKO,True,Perfect match
+616,Soft Sleep Rain,Nature Sounds,Soft Sleep Rain,Nature Sounds,4YN9ToTTKCJ8zE4wOJBE6I,True,Perfect match
+617,LOST YOU,Snoh Aalegra,LOST YOU,Snoh Aalegra,6hUwGTijdC5SRBY9nyQJrO,True,Perfect match
+618,Buyaka,Guaynaa,Buyaka,Guaynaa,29PfVio5gxsc0ymzSXZArT,True,Perfect match
+619,Looking Through Nails,Soilent Green,Looking Through Nails,Soilent Green,2K2W9xSYj7QjGMsnyKdMjq,True,Perfect match
+620,Agent Orange,Sodom,Agent Orange,Sodom,3Ks3K2RmCxSUcXS6cOvd43,True,Perfect match
+621,Make It to Christmas,Alessia Cara,Make It To Christmas,Alessia Cara,6sVZ6tFXeJZ5LNWC6h3dKe,True,Perfect match
+622,Seven Drunken Nights,Celtic Thunder,Seven Drunken Nights,Celtic Thunder,7dR13PkvpA9CoQlrM2HjC7,True,Perfect match
+623,Cursed Be Thy Kingdom,Bewitcher,Cursed Be Thy Kingdom,Bewitcher,2K3areNeCsCI55wKupEhBW,True,Perfect match
+624,Song About You,Mike Posner,Song About You,Mike Posner,36dW3K50T9DcXYHIW9ZJgC,True,Perfect match
+625,Stuck in the Middle with You,Stealers Wheel,Stuck In The Middle With You,Stealers Wheel,2wwYEAmYVc9wyIHjVG111K,True,Perfect match
+626,Hip Hug-Her,Booker T. & The MG's,Hip Hug-Her,Booker T. & the M.G.'s,6t0rwpjMy4Ly4CWDwqRcVQ,True,Perfect match
+627,Christmas Without You,OneRepublic,Christmas Without You,OneRepublic,5gYd4FkVfXLclbFdnguNkb,True,Perfect match
+628,Intro,Toxic Holocaust,Intro,Toxic Holocaust,31Mf3aGYOpabMv9Nl6bLPn,True,Perfect match
+629,Creatures Of The Night,Kiss,Creatures Of The Night,KISS,6mopp3XBL0cu6odV7RhVWy,True,Perfect match
+630,Life Me Say,Vybz Kartel,Life Me Say,Vybz Kartel,556h8N4kTDlmK7Q78VRs74,True,Perfect match
+631,This Too Shall Last,Anderson East,This Too Shall Last,Anderson East,6zqyqb7kcEFxUZSZtPLFBx,True,Perfect match
+632,The Isle Of Innisfree,Celtic Thunder,The Isle Of Innisfree,Celtic Thunder;Emmet Cahill,3zZRcODwFJLH2jiPYFeV8N,True,Perfect match
+633,On the Go,Bebe Rexha,On the Go,Bebe Rexha;Pink Sweat$;Lunay,0tkxzOtc2gvIueuXNFLyfZ,True,Perfect match
+634,Kings of Metal,Manowar,Kings of Metal,Manowar,32puFzyAEnxuSQNL9H8E4i,True,Perfect match
+635,Starstruck,Years & Years,Starstruck,Years & Years,6NhxG3vfaRVzFosetdRITN,True,Perfect match
+636,Chained to the Rhythm,Katy Perry,Chained To The Rhythm,Katy Perry;Skip Marley,0BVslzxSY5Z78WboakxrB1,True,Perfect match
+637,Brothers in Slavery,Mumakil,Brothers in Slavery,Mumakil,7sfU1mouSFrfCQurM5w610,True,Perfect match
+638,I Like That,Bazzi,I Like That,Bazzi,26g92HmMgKVZ6LKVmTbHM7,True,Perfect match
+639,Years,Alesso,Years,Alesso;Matthew Koma,5d4jOVHBxlbRZJlBfarH41,True,Perfect match
+640,Angels from the Realms of Glory,Annie Lennox,Angels From The Realms of Glory,Annie Lennox,21excOPd45gzWN8zCt8Vhw,True,Perfect match
+641,Everyone She Knows,Kenny Chesney,Everyone She Knows,Kenny Chesney,4xcW1InAfQ7GBnDBHEC4a8,True,Perfect match
+642,Frosty The Snowman,The Jackson 5,Frosty The Snowman,The Jackson 5,6bDigKwkMUuAxEUSMsDURL,True,Perfect match
+643,Magic,Polo & Pan,Magic,Polo & Pan,6tFTvOg7J59fmBmN0NlQge,True,Perfect match
+644,Have Yourself A Merry Little Christmas,Toni Braxton,Have Yourself A Merry Little Christmas,Toni Braxton;Babyface,3dhESdAWCg5FCK0Yu8uyXP,True,Perfect match
+645,RUMBATÓN,Daddy Yankee,RUMBATÓN,Daddy Yankee,27sqBDytiRE42WplwCLrj7,True,Perfect match
+646,We Wish You a Merry Christmas,Weezer,We Wish You A Merry Christmas,Weezer,7mntHnF2frXuZwFAp8ouCB,True,Perfect match
+647,Shilohs Lament,GosT,Shiloh's Lament,Gost,6lEM8pimYEkdY9PJEti1oo,False,Artist matches but title differs: 'Shilohs Lament' vs 'Shiloh's Lament'
+648,21 Reasons,Nathan Dawe,21 Reasons,Nathan Dawe;Ella Henderson,70TpTZFReW52csA4Az7alJ,True,Perfect match
+649,Alone Together,Dan + Shay,Alone Together,Dan + Shay,5SfNJC5gLHSsyRKN04jVi3,True,Perfect match
+650,zat you santa claus? - single version,Louis Armstrong,"'Zat You, Santa Claus? - Single Version",Louis Armstrong;The Commanders,3OUZApNQz6hKXFh2F3nb3X,True,Perfect match
+651,Delirium,Sunken,Delirium,Sunken,5GqXOR9mrPWRmpRBiJPD24,True,Perfect match
+652,Winter In My Heart,The Avett Brothers,Winter In My Heart,The Avett Brothers,6vXQ12lw0BOY8ZAwT80wJy,True,Perfect match
+653,Loco por Llegar,Fuego,Loco Por Llegar,Fuego,2GSWR453Xv6240yHfQvLoZ,True,Perfect match
+654,The Goldfish,The Laurie Berkner Band,The Goldfish,The Laurie Berkner Band,4DpjtC7VNsTYRzUhw3FiCF,True,Perfect match
+655,Bang Bang,Dub Pistols,Bang Bang,Dub Pistols;Kitten & The Hip;Barry Ashworth;Bill Borez,0mjcoTt1PfckDZB2gPREXf,True,Perfect match
+656,Ice Cold,Tube & Berger,Ice Cold,Tube & Berger;Armaja,3q4wN1j1xzCzNMKaC1CoTY,True,Perfect match
+657,​arms,Christina Perri,arms,Christina Perri,1Kl6QcGWVECHMfjqrQux5V,True,Perfect match
+658,All Summer Long,Kid Rock,All Summer Long,Kid Rock,1QHqRD65S2q7STSmrxTU3Y,True,Perfect match
+659,WALK IN THE PARK,Jack Harlow,WALK IN THE PARK,Jack Harlow,20Nm2cPyMiIStyDuZEh4DP,True,Perfect match
+660,Back Up Buddy,Carl Smith,Back up Buddy,Carl Smith,021ulLp7HZvzNJgAmT6mkY,True,Perfect match
+661,​ily i love you baby,Surf Mesa,ily (i love you baby),Surf Mesa;Emilee,0IzPHAC15RkbfYhzlSEUK9,True,Perfect match
+662,Little Things,ABBA,Little Things,ABBA,0ECr8qukqLKU14g3eRNX54,True,Perfect match
+663,Christmas in My Heart,Sarah Connor,Christmas In My Heart,Sarah Connor,4v9HQ6FKVPz0YcySJ0DugQ,True,Perfect match
+664,​abcdefu angrier,GAYLE,abcdefu (angrier),GAYLE,5KXEUYNvmPhOTsfxuWAXdp,True,Perfect match
+665,No Lie,Sean Paul,No Lie,Sean Paul;Dua Lipa,18DsVnI5lVGCH0AHA5YiIx,True,Perfect match
+666,Canción de las simples cosas,Mercedes Sosa,Canción De Las Simples Cosas,Mercedes Sosa,7oLLqFAAVoFtSoMHHXknMf,True,Perfect match
+667,This is My Blood,The Dirt Drifters,This Is My Blood,The Dirt Drifters,4tawFoJZvdE0FBEfNhRK6e,True,Perfect match
+668,Pacify Her,Melanie Martinez,Pacify Her,Melanie Martinez,4h0AcGRmeZiKpn9zpTxZ9D,True,Perfect match
+669,Iced Out Necklace,Wiz Khalifa,Iced Out Necklace,Wiz Khalifa,6Rnmu3xQeJMVc6OvACEBES,True,Perfect match
+670,When Youre Smiling/The Sheik of Araby,Louis Prima,When You're Smiling/The Sheik Of Araby,Louis Prima;Sam Butera & The Witnesses;Keely Smith,2ANowa0AGdnKfPGqvcDRp6,False,Artist matches but title differs: 'When Youre Smiling/The Sheik of Araby' vs 'When You're Smiling/The Sheik Of Araby'
+671,Dedication,Gadget,Dedication,Gadget,4vXXwiek6hbgRKH7dmnJfZ,True,Perfect match
+672,Wenn ich Träume,Die Apokalyptischen Reiter,Wenn Ich Träume,Die Apokalyptischen Reiter,4Y55T05g57LJu1HuggKVLp,True,Perfect match
+673,The Christmas Waltz,Peggy Lee,The Christmas Waltz,Peggy Lee,7B9Tz3NNVRSQBrrWmzkwVN,True,Perfect match
+674,Bring Me to Life,Evanescence,Bring Me To Life,Evanescence,10UmwJAOxFM9XdTp6stN1i,True,Perfect match
+675,King of the road - single version,Roger Miller,King Of The Road - Single Version,Roger Miller,1CfnMFQtuay15XHlNGpCQa,True,Perfect match
+676,Used To Know Me,Charli XCX,Used to Know Me,Charli XCX,0q6UFfew9uxNgxqWM0Q7wd,True,Perfect match
+677,I Put a Spell on You,Marilyn Manson,I Put A Spell On You,Marilyn Manson,3AjZqmRivJhEVqbliY3yJa,True,Perfect match
+678,Spiderwebs,No Doubt,Spiderwebs,No Doubt,52qebMWeKw2x34v56DPFcl,True,Perfect match
+679,The Endless War,Impaled Nazarene,The Endless War,Impaled Nazarene,7vF1YyBRmpbfTqPuPJbi7j,True,Perfect match
+680,Waterloo,ABBA,Waterloo,ABBA,7FG1OKrix204IBBeWRGCHG,True,Perfect match
+681,Nothing For Christmas,New Found Glory,Nothing For Christmas,New Found Glory,597aCxegHjHbYJDaiq2cSF,True,Perfect match
+682,Are You Bored Yet?,Wallows,Are You Bored Yet?,Wallows;Clairo,2oZsDq0pwp9yLgHGoI2Y5F,True,Perfect match
+683,Road Less Traveled,Sick of It All,Road Less Traveled,Sick Of It All,2fPBbwgnuJwU32d06ROW0r,True,Perfect match
+684,Oh Well,Snake River Conspiracy,Oh Well,Snake River Conspiracy,2cBSrD0zoX8RbhmUr0CQpr,True,Perfect match
+685,Não dá mais pra segurar Explode coração,Alcione,Não dá Mais pra Segurar (Explode Coração),Alcione,0qirbcSG0zQ2yHOup4VznY,True,Perfect match
+686,Feriğim,Volkan Konak,Feriğim,Volkan Konak,10aQdFAd97zPjzxqaKKo8s,True,Perfect match
+687,Mientras Tanto,Coiffeur,Mientras Tanto,Coiffeur,2kJxCewMHY40F4iSQ0JytX,True,Perfect match
+688,Eine Reise ins Licht,Claudia Jung,Eine Reise ins Licht,Claudia Jung,5Kk8wGSSAhR4EXolQW0nf7,True,Perfect match
+689,Ojos de perro,Attaque 77,Ojos De Perro,Attaque 77,0Mpuxn2GTE8LzUXJzIwk7H,True,Perfect match
+690,When In Rome,Nickel Creek,When In Rome,Nickel Creek,53ewPfho6rQQpbv3vbTIKS,True,Perfect match
+691,Angry Gods,His Hero Is Gone,Angry Gods,His Hero Is Gone,0VEiBGM39xzLsgMONDIItm,True,Perfect match
+692,Quebra-Mar,Charlie Brown Jr.,Quebra-Mar,Charlie Brown Jr.,2IpyGcvQ2sBAd2AmJ1mbIC,True,Perfect match
+693,Black Earth,Weekend Nachos,Black Earth,Weekend Nachos,5TfWUUGYoCo71BLsXPdji7,True,Perfect match
+694,Wine and Roses,Lars Frederiksen And The Bastards,Wine And Roses,Lars Frederiksen and the Bastards,3vcp9HXJdPl4a5PQLknq6k,False,Title matches but artist differs: 'Lars Frederiksen And The Bastards' vs 'Lars Frederiksen and the Bastards'
+695,Die Beichte,Andreas Gabalier,Die Beichte,Andreas Gabalier,3ZIVI5QqY6wf3aQ7pKlDnk,True,Perfect match
+696,Les Tzars,Indochine,Les tzars,Indochine,4pcpqfSn8tfm6vQMMZPjpM,True,Perfect match
+697,Larga Esse Boy,Johnny Hooker,Larga Esse Boy,Johnny Hooker;Jáder,4YzLiel6ymEzhpw0wCQQ7f,True,Perfect match
+698,Jaywalking,Greensky Bluegrass,Jaywalking,Greensky Bluegrass,5yOw5DYJryKcXV20pumWfO,True,Perfect match
+699,Appalachian Girl,Pert Near Sandstone,Appalachian Girl,Pert Near Sandstone,1DEA1tTNQdWPsoH0Zr2kdu,True,Perfect match
+700,Veliki,Little Symphony,Veliki,Little Symphony,2O5Pz5YdIf9Be12rE9fEWB,True,Perfect match
+701,Carry On,F.O.O.L,Carry On,F.O.O.L;Holly Drummond,2b5quz1xqBnmUeYYPdPkuS,True,Perfect match
+702,El Linyera,Flema,El Linyera,Flema,7aaux2JDvWvdUfrEZTmWEA,True,Perfect match
+703,Flicker  Shine,Old Crow Medicine Show,Flicker & Shine,Old Crow Medicine Show,3kDfj7LAA54aVqkaemZ2MW,True,Perfect match
+704,Time Again,Jan Blomqvist,Time Again,Jan Blomqvist;Alar;Korolova,7E7POHU96XKXbiubARcPBD,True,Perfect match
+705,Floating Between,Obie Hans,Floating Between,Obie Hans,6nqOGykFeVWsM3Okw3V73C,True,Perfect match
+706,Headstones And The Walking Dead,Coal Chamber,Headstones and the Walking Dead,Coal Chamber,4wsNQRjA6ZE8CgZNLFkh06,True,Perfect match
+707,Its So Easy,Stitched Up Heart,It's So Easy,Stitched Up Heart,1cflhl2uFQR9RLCiwHXhev,False,Artist matches but title differs: 'Its So Easy' vs 'It's So Easy'
+708,No Tomorrow,Hypocrisy,No Tomorrow,Hypocrisy,1zc9mfxeNZ6HiSxRzY7JIA,True,Perfect match
+709,Heartbroken,Prateek Kuhad,Heartbroken,Prateek Kuhad,7pgIbZ3tWdXLUAlofe3r2i,True,Perfect match
+710,Way We Are,Kove,Way We Are,Kove;Melissa Steel,4xfKIbgFgIoUOpji6SP8l1,True,Perfect match
+711,Summercamp,The Infamous Stringdusters,Summercamp,The Infamous Stringdusters,2VAqQZTzHxGReOUeSLVk7l,True,Perfect match
+712,The Sea,Morcheeba,The Sea,Morcheeba,6qKIzFrBb6GMsfWYkuoZAL,True,Perfect match
+713,Lost in Atlantis,Smartface,Lost in Atlantis,Smartface,57SRdgtkfzKxzyd4OgEfWW,True,Perfect match
+714,Nomad,In Hearts Wake,Nomad,In Hearts Wake,7h0VeXlTvqW7CwC6czI2X1,True,Perfect match
+715,The Crown,Kitchen Dwellers,The Crown,Kitchen Dwellers,5N46MoDLmZuvJ1W4CbJnd3,True,Perfect match
+716,Todo mundo de pie,Planetshakers,Todo mundo de Pie,Planetshakers,0lSwLhBarLwM5XTFmBc8ri,True,Perfect match
+717,Comfortably Dumb,Pears,Comfortably Dumb,PEARS,1y6KiCQ0ARDLUW3O9CkOIV,True,Perfect match
+718,Cry For Die For,Bounty Killer,Cry For Die For,Bounty Killer,7mLwPwhO2msXNW9vUlykjl,True,Perfect match
+719,The Road,Z.TAO,The Road,Z.TAO,2gwC4ZdQXiCi5M2JIeWK3q,True,Perfect match
+720,Tío Bruno,Germaine Franco,Tío Bruno,Germaine Franco,4Jy2JvqPmJOzF6Zse9Hrn6,True,Perfect match
+721,Aquela Paz,Charlie Brown Jr.,Aquela Paz,Charlie Brown Jr.,7kCK7FazK6VbfEqtZ6CRa0,True,Perfect match
+722,Constant Wreck,Sly Withers,Constant Wreck,Sly Withers,5J4XhbJycaeUTh7TJtTNiy,True,Perfect match
+723,Runaway,Franky Style,RUNAWAY,Franky Style,75Bk2jHaVd5kR5KDDRsnT8,True,Perfect match
+724,Sana Sana Sana Cura Cura Cura,Psychonaut 4,"Sana Sana Sana, Cura Cura Cura",Psychonaut 4,6gCCanQYC6OTcW2OGRnoeP,True,Perfect match
+725,G Face,Orgy,G Face,Orgy,3rtRaoimMbLuhEYQAQcTk6,True,Perfect match
+726,My Eyes,Chill Satellite,My Eyes,Chill Satellite,3cNdF4GwBQG4O98GwreQGh,True,Perfect match
+727,It Kills Me to Have to Be Alive,The Smith Street Band,It Kills Me To Have To Be Alive,The Smith Street Band,4BIrTd9iATrdcZADz3HMuC,True,Perfect match
+728,The Krochik,Ricardo Iorio,The Krochik,Ricardo Iorio,4N7JGR3KAjR5jLkfFnoJ78,True,Perfect match
+729,Ela,Gilberto Gil,Ela,Gilberto Gil,70ctQzBQmXnX5lnHfm2EFp,True,Perfect match
+730,Louisiana Man,Dave Edmunds,Louisiana Man,Dave Edmunds,5C1tUrEsphNhPUDwjKja5x,True,Perfect match
+731,He Cambiado,Porta,He Cambiado,Porta;Shinoflow;El Cansino,2ECOsyqCIiXFKtXr9xGdEM,True,Perfect match
+732,Club tonight - Cara B,Jorge Drexler,Club Tonight - Cara B,Jorge Drexler,5TMgvUss7jcR3HSdMUP9Cf,True,Perfect match
+733,Blue Bucket Rebirth,ThirumaLi,Blue Bucket Rebirth,ThirumaLi,6J77IL7C21HvGmMe6XHzWH,True,Perfect match
+734,I Dont Think I Love You,Hoobastank,I Don't Think I Love You,Hoobastank,24PfsjdIb7BnRM9YNHU1cq,False,Artist matches but title differs: 'I Dont Think I Love You' vs 'I Don't Think I Love You'
+735,Blue Night,Hot Rize,Blue Night,Hot Rize,1h9TW0ATqzWMHP9uHSewQT,True,Perfect match
+736,Mas vó,Raimundos,Mas Vó...,Raimundos,0P9tx5S8UYk2nuoR9KCidk,True,Perfect match
+737,The Chills,Blue October,The Chills,Blue October,0plpKMaZ8QLxNQDuFRO37s,True,Perfect match
+738,Guach Perry,Chancho En Piedra,Guach Perry,Chancho En Piedra,3kZG4EIgS0dZjhVbst5RkU,True,Perfect match
+739,Addicted to Abstinence,Sodom,Addicted to Abstinence,Sodom,2k96T62rRwtvgFk7Uatx2G,True,Perfect match
+740,Anybody,TMG FRE$H,Anybody,TMG FRE$H,4OjCiMmKKE3hr8JRgd22Lv,True,Perfect match
+741,Be Kind,Rival Consoles,Be Kind,Rival Consoles,3rkesmzecZXrKZ7HA68OKZ,True,Perfect match
+742,Little Black Train of Death,The .357 String Band,Little Black Train Of Death,The .357 STring Band,6DfBZGpdwKxoPdUDqL1NPP,True,Perfect match
+743,At The End Of Our Day,Charon,At The End Of Our Day,Charon,4yS4UZYdv83o3SS5WNmwiH,True,Perfect match
+744,Sweet Tooth,Otep,Sweet Tooth,Otep,6B0T7mAx1eIaVSzQupcwTe,True,Perfect match
+745,I Ran So Far Away,A Flock of Seagulls,I Ran (So Far Away),A Flock Of Seagulls,5aD8h5Da70hkLVyA5HC5xZ,True,Perfect match
+746,Forever Hate You,Deicide,Forever Hate You,Deicide,4bCd2UsMl1l6g7HpuA53NG,True,Perfect match
+747,Merde Outro,Josman,Merde (Outro),Josman,59eugpPzqGZW1ZsV5JTAk2,True,Perfect match
+748,Zóio de Lula,Charlie Brown Jr.,Zóio De Lula,Charlie Brown Jr.,1ccwGTzFnySkIDcJod86aJ,True,Perfect match
+749,Trespasser,Dark Sarah,Trespasser,Dark Sarah,7e1XgqgaLwyGI0GkZ0HdCO,True,Perfect match
+750,Die trying,New Model Army,Die Trying,New Model Army,785u6F17y3IIUl4qdbEDhD,True,Perfect match
+751,Ill Damage You,Razed In Black,I'll Damage You,Razed In Black,7G8vaJHlsKyeSoBwOFbsUs,False,Artist matches but title differs: 'Ill Damage You' vs 'I'll Damage You'
+752,Viski Ve Lazanya,Teoman,Viski Ve Lazanya,Teoman,3DrQsIe4cyX3bNCJY6bq11,True,Perfect match
+753,Border Radio,The Blasters,Border Radio,The Blasters,50QE48sFA6kUKnACXgGTM3,True,Perfect match
+754,Acércate,Ramona,Acércate,Ramona,383HIMyYYwqQL8DXRBAQzi,True,Perfect match
+755,Axe to Grind,The Last Ten Seconds of Life,Axe to Grind,The Last Ten Seconds of Life,4P8vhDPA6EGRfCP8AdwQnF,True,Perfect match
+756,The Catalyst,Linkin Park,The Catalyst,Linkin Park,6mQD0vGdFrQMeTADOSIEwx,True,Perfect match
+757,Come Thou Fount,Paul Cardall,Come Thou Fount,Paul Cardall,6rvS7ZwZwgdNCC2KoKmnnn,True,Perfect match
+758,Dança de Airumã,BaianaSystem,Dança de Airumã,BaianaSystem,438mvglmmUAmK8OARQqFvd,True,Perfect match
+759,Recline,Timothy Infinite,Recline,Timothy Infinite,0Y8P2H4bpffasm29zQX9yp,True,Perfect match
+760,Rebel Fate,Cobra Skulls,Rebel Fate,Cobra Skulls,48SL6DNBgvrm3aHkS8NLPI,True,Perfect match
+761,Gravedigger,Frozen Soul,Gravedigger,Frozen Soul,651aMl2jYthoJyI9WvNKo4,True,Perfect match
+762,Dagny,The playtones,Dagny,The Playtones,6EuRU9AoOj1xgVme6YNBv8,True,Perfect match
+763,Better Than Them,New Model Army,Better Than Them,New Model Army,0LJ32ClTvkOjp2TmrZJO4x,True,Perfect match
+764,Walk Beside Me,Tim O'Brien,Walk Beside Me,Tim O'Brien;Darrell Scott,3aU2GIipAOndHI6Xmd1l1I,True,Perfect match
+765,Voyage,Yanni,Voyage,Yanni;Miklos Malik,0u18jxSBZ6KiROZdORocA9,True,Perfect match
+766,Colgado,Cuchillazo,Colgado,Cuchillazo,7yopp41Rp0Mb2of12tGRHv,True,Perfect match
+767,Expose,Gideon,Expose,Gideon,2j2CRl98OHSlRwL4KCYudv,True,Perfect match
+768,En fjärils vingslag,Kartellen,En fjärils vingslag,Kartellen;Daniel Adams-Ray,1xexevb7I6OQ8HepYGYR54,True,Perfect match
+769,Mkultra,Toxic Holocaust,Mkultra,Toxic Holocaust,64aHsHQnTTFLGCeIsSGJCI,True,Perfect match
+770,Media,Jahshii,Media,Jahshii;Sonovic,2pDJGnILrr8pN3N4RNHGNt,True,Perfect match
+771,All for Swinging You Around,The New Pornographers,All For Swinging You Around,The New Pornographers,63HkkLxSefpYzy1kPrcAOy,True,Perfect match
+772,Rain for Sleep,Sound library xl,Rain for Sleep,Sound Library XL,41eE9GmwMuNqbePwc4OP8r,True,Perfect match
+773,Dharma,Astrix,Dharma,Astrix,0vrSxYXbexiU1E5snzFsRT,True,Perfect match
+774,Dealing with the Devil,Imelda May,Dealing with the Devil,Imelda May,1xGX57W7WQVN5TYEnCdZgo,True,Perfect match
+775,Menino Mimado,Criolo,Menino Mimado,Criolo,5v9NU6mZ8sbEUXcyEZeZlw,True,Perfect match
+776,Diminitudes,O'Connor,Diminitudes,OConnor,5chSMu0Ff715ngu0TDKwb5,False,Title matches but artist differs: 'O'Connor' vs 'OConnor'
+777,Amores De Barra,Ella Baila Sola,Amores de barra,Ella Baila Sola,3hhq0bgUAFOVpU8UTRAOSv,True,Perfect match
+778,Heartland,Celtic Thunder,Heartland,Celtic Thunder,1cKV1k0E3pZMLhwDwOYiq8,True,Perfect match
+779,Indian Girl,Charly Black,Indian Girl,Charly Black,2q6huuxvfj4X5XDpSJwR9c,True,Perfect match
+780,Rise Up,K Lion,Rise Up,K Lion,7xcuZ6it2nDqVUh0B29znm,True,Perfect match
+781,Resentment,A Day To Remember,Resentment,A Day To Remember,4UNJIV0ke5g0IMimPbMLbw,True,Perfect match
+782,Silver Light,Trampled by Turtles,Silver Light,Trampled by Turtles,2XqqXmfYKFC8z4tj4BXx2q,True,Perfect match
+783,Edessäni,Stam1na,Edessäni,Stam1na,1IMwiLAa5jVeoC2JlBuV7e,True,Perfect match
+784,Ta min hand - 2005 remastered version,Eldkvarn,Ta min hand - 2005 Remastered Version,Eldkvarn,3dBNL8u19CBVR7XgpZWtCT,True,Perfect match
+785,Entre a cruz e a espada,Soweto,Entre A Cruz E A Espada,Soweto,3ozRwP3dqFMC0e2mshZKxG,True,Perfect match
+786,That Ole Devil Called Love,Alison Moyet,That Ole Devil Called Love,Alison Moyet,5bLciH0lkrSaMQNNfyguVw,True,Perfect match
+787,Rise,Gabrielle,Rise,Gabrielle,4DAxxBU8fQ4uDE2Zc3yz6c,True,Perfect match
+788,Marching Season,Yanni,Marching Season,Yanni,6SFNx6xXcRVPvvcxnDvwAa,True,Perfect match
+789,Can U Dig It?,Pop Will Eat Itself,Can U Dig It?,Pop Will Eat Itself,7cwxc8ckAY2aVnn8QDQgSi,True,Perfect match
+790,Never Kill A Mouse Let It Kill Itself,Hail the Sun,Never Kill a Mouse; Let It Kill Itself,Hail The Sun,59eIQ5AswSWQDrarZtcEyo,True,Perfect match
+791,Le Dictionnaire Larousse,Mansfield.TYA,Le dictionnaire Larousse,Mansfield.TYA,1LdJyZDIQmoSZHHiuE3gsb,True,Perfect match
+792,Big and Ready,Super Cat,Big and Ready,Super Cat,67JduV2B5renMkmxTqnnT1,True,Perfect match
+793,Candy,Lifafa,Candy,Lifafa;Hashback Hashish,3eNVm12Ns8BOk4NqgWcGI4,True,Perfect match
+794,A Urgência,Dead Fish,A Urgência,Dead Fish,64tUOtVFZN98cx48rQEW5T,True,Perfect match
+795,Üzgünüm Anne,Tepki,Üzgünüm Anne,Tepki,6GU0hoKkcGELLLXIZvrLCW,True,Perfect match
+796,Sorma,Can gox,Sorma,Can Gox,0nXs17LnXEqk3rtRMTUjNi,True,Perfect match
+797,Wading Through the Crowds,Makoto,Wading Through The Crowds,Makoto;Karina Ramage,6GFVN8mm6JPmEkQk7WHjAB,True,Perfect match
+798,Under the Tree,Sam Palladio,Under the Tree,Sam Palladio,370svZM4vWhiPiCe5ccvMs,True,Perfect match
+799,Evim,Dolu Kadehi Ters Tut,Evim,Dolu Kadehi Ters Tut,29DAF4DKeSlS8D8ctbDzI1,True,Perfect match
+800,Friends,Morten Myklebust,Friends,Morten Myklebust,4qNt7aKMYGvRjLqms8eW7p,True,Perfect match
+801,I Had a Dream That We Could Fly,Eredaze,I Had a Dream That We Could Fly,Eredaze,1avGleN0XOB4WXVHSdSmqX,True,Perfect match
+802,Sugar Please,The Brothers Comatose,Sugar Please,The Brothers Comatose,5VTLAJuMN3TLWxDlaSgNQ0,True,Perfect match
+803,Check Your Time,Westbound Train,Check Your Time,Westbound Train,3aVe7N2RgYAUo7gTq3tYTD,True,Perfect match
+804,Vågorna,Uno Svenningsson,Vågorna,Uno Svenningsson,6mPvmqLqpQPgYAfUFKcMeX,True,Perfect match
+805,Another Song About the Weekend,A Day To Remember,Another Song About The Weekend,A Day To Remember,2b0X8G7Sx9ej3MOeKsYuhC,True,Perfect match
+806,Same Girl,Randy Newman,Same Girl,Randy Newman,4nP86q91nSOxRoIXoPGJB6,True,Perfect match
+807,The Cracks Emerge,Germaine Franco,The Cracks Emerge,Germaine Franco,14dwnVjcTuhltezRrJmJPH,True,Perfect match
+808,Turbine Blue,Seekae,Turbine Blue,Seekae,6l52jY0f3gnEGq9sWxQEq8,True,Perfect match
+809,He Said She Said,CHVRCHES,He Said She Said,CHVRCHES,1vVE2HYDwJKyPqjOnfwisH,True,Perfect match
+810,Country Boy,Ricky Skaggs,Country Boy,Ricky Skaggs,7sKv2C005X9L9xl6twWGze,True,Perfect match
+811,Steep grade sharp curves / ramblin reprise,Yonder Mountain String Band,"Steep Grade, Sharp Curves / Ramblin' Reprise",Yonder Mountain String Band,6BxKiIIsxnOOfhPDpdS4tb,True,Perfect match
+812,Oppussingsobjekt,Cast - Frozen,Oppussingsobjekt,Cast - Frozen,5PO0azYMKoHuZawsOvlj4z,True,Perfect match
+813,Finger weg von Sachen ohne Alkohol,Mickie Krause,Finger weg von Sachen ohne Alkohol,Mickie Krause,7GDd5maZp10kjA82B9QICj,True,Perfect match
+814,Piya Re Piya Re,Nusrat Fateh Ali Khan,Piya Re Piya Re,Nusrat Fateh Ali Khan,2q3D4sdAMJSJRS9t6oaBRo,True,Perfect match
+815,Mos 6581,Carbon Based Lifeforms,Mos 6581,Carbon Based Lifeforms,3JpzqRcjxif901JZKAPLn6,True,Perfect match
+816,Scream Bloody Gore,Death,Scream Bloody Gore,Death,7EJZZm3qwQWCOyhDr3oDQs,True,Perfect match
+817,Santa Lucía,La Rata Bluesera,Santa Lucía,La Rata Bluesera;Federico Dannemann;Gonzalo Araya,26gpV6aDhhnTa31Qh23hSq,True,Perfect match
+818,Olha,Erasmo Carlos,Olha,Erasmo Carlos;Chico Buarque,1Ugz0VZmL522ZI4UrODbB5,True,Perfect match
+819,​handmadeGod,Moonspell,HandMadeGod,Moonspell,1cAl2nk24dN10qsR9bYJ1s,True,Perfect match
+820,Vixe,BaianaSystem,Vixe,BaianaSystem;Bule Bule,7yEfhrMbfp8XNUrBFM7660,True,Perfect match
+821,Camino a La Paloma,Jorge Drexler,Camino a La Paloma,Jorge Drexler,16PU73LgqfTxxwqTmSp6Ch,True,Perfect match
+822,Departures N1,Dustin O'Halloran,Departures n1,Dustin O'Halloran,7wP9WrSAnNgJqS48KRPyWs,True,Perfect match
+823,Urlaub fürs Gehirn,Callejon,Urlaub fürs Gehirn,Callejon,5OhsGNXNLzKlks9amdXFAw,True,Perfect match
+824,Messages,A Flock of Seagulls,Messages,A Flock Of Seagulls,1Bv9hN94N4tWGh7SvpB20a,True,Perfect match
+825,Burundanga,Los Amigos Invisibles,Burundanga,Los Amigos Invisibles,5MYEsQRQLp9H82wBUHq8cP,True,Perfect match
+826,Ready,Alkaline,Ready,Alkaline,4L89EMHbazaxvMDMb4uZH5,True,Perfect match
+827,Ajattomasta unesta,Ensiferum,Ajattomasta Unesta,Ensiferum,5KsU1q8WZT0tudOjG2AF50,True,Perfect match
+828,The Need,Mushroomhead,The Need,Mushroomhead,65msMoWzaKwqcSFUeW43y1,True,Perfect match
+829,Fanfarria Del Cabrío,Patricio Rey y sus Redonditos de Ricota,Fanfarria del Cabrío,Patricio Rey y sus Redonditos de Ricota,17fO5m9Hl5J9QrsScFrcEF,True,Perfect match
+830,Up and Down,The Chesterfield Kings,Up and Down,The Chesterfield Kings,2jvRE2M0qCSiEhRQP3aEUu,True,Perfect match
+831,Out my mind,The Skints,Out My Mind,The Skints,41TYxBYt0LIa1a6Do7mZTU,True,Perfect match
+832,Retaliate,VNV Nation,Retaliate,VNV Nation,0zx2Dq4YeAAjKcbPSS2DaQ,True,Perfect match
+833,El Clavo,Mr Black El Presidente,El Clavo,Mr Black El Presidente,3VahwVqIK9f0S5H4Rp8Zjp,True,Perfect match
+834,I Know You,Andrew Lloyd Webber,I Know You,Andrew Lloyd Webber;Helen George;Victoria Hamilton-Barritt,3RUR54BkECnVhHflf67rSt,True,Perfect match
+835,Ammunition,Krewella,Ammunition,Krewella,2z5zyZaP6J9sh74mMKytUo,True,Perfect match
+836,Moments,Kalash Criminel,Moments,Kalash Criminel;Bigflo & Oli,1L6w6Fi2TMCtEtJBoSPQM0,True,Perfect match
+837,Dalfon,Little Symphony,Dalfon,Little Symphony,5EdqBLQrzOgQsHIs7A3fxA,True,Perfect match
+838,No Pool Party Tonight,Huntingtons,No Pool Party Tonight,Huntingtons,4qtoKYeuy3YKtuic1iF4g3,True,Perfect match
+839,Carina,James Hunter,Carina,James Hunter,2DaWMfNerea2PqBFo4zosb,True,Perfect match
+840,HoBo,Charlie Parr,HoBo,Charlie Parr,3pp4T5WWhalBxNKWijBbHA,True,Perfect match
+841,History,WAAX,History,WAAX,05mDNHUsh8mb0Du7DXYxag,True,Perfect match
+842,As Long As Youre There,Glee Cast,As Long As You're There,Glee Cast,0SSSffzPG01HyGPjFMgQMg,False,Artist matches but title differs: 'As Long As Youre There' vs 'As Long As You're There'
+843,Apples and Bananas,Polish Club,Apples and Bananas,Polish Club,4pya7bvVLwv6zVZVRaxLrz,True,Perfect match
+844,Tennessee Stud,Doc Watson,Tennessee Stud,Doc Watson,22r3SZfQQtJ8BJBv3Pc4NG,True,Perfect match
+845,Little Bit Broken,The Wood Brothers,Little Bit Broken,The Wood Brothers,5obpHgODg8nOr5xxaMxKrg,True,Perfect match
+846,3 bröder,Dani M,3 bröder,Dani M;Moncho;Lito;Simon Superti,0YAqJq4IAInEz4OPnGyBXF,True,Perfect match
+847,Whatcha Gonna Do About It,Small Faces,What'Cha Gonna Do About It,Small Faces,7FIdJstlFStpFTmNd0Q42b,False,Artist matches but title differs: 'Whatcha Gonna Do About It' vs 'What'Cha Gonna Do About It'
+848,Charlie Brown and His All-Stars,George Winston,Charlie Brown and His All-Stars,George Winston,6l58hXPMNIl2pYQP8o6Tkp,True,Perfect match
+849,Weit Hinaus,Feine Sahne Fischfilet,Weit hinaus,Feine Sahne Fischfilet,04grraaBZFNw6WwKL69fvL,True,Perfect match
+850,Rüya  Gerçek,Stabil,Rüya & Gerçek,Stabil,5ttPhgLuzPJfzFrLPlmJUv,True,Perfect match
+851,Falling Slowly,Celtic Thunder,Falling Slowly,Celtic Thunder;Damian McGinty,09eS8ofv5KMKtCIqAo0mnL,True,Perfect match
+852,Duvar,Fettah Can,Duvar,Fettah Can,04Vtwjvv0xozQ9YsEXsvOZ,True,Perfect match
+853,Me Robaron,Los Crudos,Me Robaron,Los Crudos,4B88nunwGGX1MfrZytxWCL,True,Perfect match
+854,Predators,Upon a Burning Body,Predators,Upon A Burning Body,6ghmPHtzLrErgkXju7ZDao,True,Perfect match
+855,Confused/Hopeless,Confession,Confused/Hopeless,Confession,7tlePVZSAd5cTxxJNveyNx,True,Perfect match
+856,Pedestrian,Grinspoon,Pedestrian,Grinspoon,381UrJYySidrMAIgZB9I8S,True,Perfect match
+857,Rain Meditation,Rain sounds,Rain Meditation,Rain Sounds,3szkcoxbTs65qA4cKax7y0,True,Perfect match
+858,Burn,Hex Cougar,Burn,Hex Cougar;Pauline Herr,1NPsRg5FZo8FtoSl2p4LWz,True,Perfect match
+859,Talk Dirty to Me,Reel Big Fish,Talk Dirty To Me,Reel Big Fish,6B9Tt7pm7ozGgROhZpe2C8,True,Perfect match
+860,Drift,Jan Blomqvist,Drift,Jan Blomqvist;Aparde,5SeYB9Q4sbtdgCVfMj8XG7,True,Perfect match
+861,Tamara Is A Punk,The Queers,Tamara Is A Punk,The Queers,5zxp37YfQ781NJOVCbJq3J,True,Perfect match
+862,That Cannot Die Which Eternally Is Dead,The Black Dahlia Murder,That Cannot Die Which Eternally Is Dead,The Black Dahlia Murder,4CglFxZhBqgr8nUMDjxalT,True,Perfect match
+863,My Eagle,Children Collide,My Eagle,Children Collide,17vKUGw04FmNguDxJnLiCy,True,Perfect match
+864,Insanlar,Kurban,İnsanlar,Kurban,5ckv3g87dkbraa8lrPKRhW,True,Perfect match
+865,So Far So Good... So What,CIV,"So Far, So Good... So What",CIV,3EGq8GRoOntZITLm9OzZyT,True,Perfect match
+866,Metsästäjä II Ero,Stam1na,"Metsästäjä, II Ero",Stam1na,3LmG3yaSFHKB4rGtTWScQS,True,Perfect match
+867,Elephant Shunned,Jan Blomqvist,Elephant Shunned,Jan Blomqvist,6pYtOQlMif5e0jHCIbhdK3,True,Perfect match
+868,Giving,The Acacia Strain,Giving,The Acacia Strain,6Dc7MqxQbXqu9Osv17vOvC,True,Perfect match
+869,Bailarina,Miranda!,Bailarina,Miranda!,75tGNsDOC6mMkIzx8AANNS,True,Perfect match
+870,Pearls and Tears,Andreas Vollenweider,Pearls and Tears,Andreas Vollenweider;Mark O'Connor;Vanesse Thomas;Lani Groves;Diva Gray;Patti Austin;Walter Keiser;Pedro Haldemann;Christoph Stiefel;Max Lässer;David Lindley,0f0lRTBcGJtunXTpCNmYPD,True,Perfect match
+871,Si Tú Me Amas,Il Divo,Si Tú Me Amas,Il Divo,5hWPxzLDgmpK8NnMOBcaBq,True,Perfect match
+872,White Wine in the Sun,Tim Minchin,White Wine In The Sun,Tim Minchin,526mDk6dMvJqgtMpsEy8PP,True,Perfect match
+873,Valle Moreno,QUITAPENAS,Valle Moreno,QUITAPENAS,4KRAPYoTgdQ6eJCU78F589,True,Perfect match
+874,Benmişim,Aspova,Benmişim,Aspova,6jxYjS0eBmhyYbs2wuk3iv,True,Perfect match
+875,The Only One,Scooter,The Only One,Scooter,68NW6s726X22J4t8sy7Feo,True,Perfect match
+876,Night Rainstorm,Nature Sounds,Night Rainstorm,Nature Sounds,4eoy8Fea209fDhJBDWMMoe,True,Perfect match
+877,Hold That Thought,Local H,Hold That Thought,Local H,67mApPt3dL1gDnYcf6dc9V,True,Perfect match
+878,Me encantas,Kevin Martes 13,Me Encantas,Kevin Martes 13;Mala Lexe,1JrxuCpVd1eNiWqNmqmI2j,True,Perfect match
+879,Você existe em mim,Josh Groban,Você Existe Em Mim,Josh Groban,5s4sjLD7BUMrRvwFLSDUUC,True,Perfect match
+880,Kissing My Song,Indochine,Kissing My Song,Indochine,1B1BylhpWOuG6NLKvw7fav,True,Perfect match
+881,MULLE MECK,buller,Mulle Meck,buller;LKN;Grayuboi,1PyEDTz3PM0FoXb36KIYZ0,True,Perfect match
+882,Somos un corazón,Los solitarios,Somos un corazón,Los Solitarios,5SevxrD3IuTyu4y3YcPrLe,True,Perfect match
+883,HERO A, (Yuki Hayashi),HERO A,Yuki Hayashi,6LoC0DAzeIET4iA9gXG2Ly,False,Title matches but artist differs: ' (Yuki Hayashi)' vs 'Yuki Hayashi'
+884,Dont Give Up,yaeow,don't give up,yaeow,1fl2pEDROb4TFyqQtV6LBL,False,Artist matches but title differs: 'Dont Give Up' vs 'don't give up'
+885,Tattoo,Fabio Brazza,Tattoo,Fabio Brazza;Luccas Carlos;Vulto,65WbRpNqHIlyJ7V8U4yspX,True,Perfect match
+886,Invisible,Linkin Park,Invisible,Linkin Park,6OocN63GLU7NF0wHdewhID,True,Perfect match
+887,Divinity,Porter Robinson,Divinity,Porter Robinson;Amy Millan,18cCBvygH6yEFDY0cYN3wT,True,Perfect match
+888,Visions,Loving,Visions,Loving,1rcxltU3Mzn8gN6Z8ly9Zh,True,Perfect match
+889,Sinsemilla,Black Uhuru,Sinsemilla,Black Uhuru;Sly & Robbie,0Qb8jMMKrJiq21YnT6EfeZ,True,Perfect match
+890,Cuando Zarpa El Amor,Camela,Cuando zarpa el amor,Camela,0GzQB5WXavUEU8tfTCAd8m,True,Perfect match
+891,Good Thing Windin Down,Tyler Childers,Good Thing Windin' down,Tyler Childers,2e3FFYFj3PuH9rMwKmjgYF,True,Perfect match
+892,É Quente,Charlie Brown Jr.,É Quente,Charlie Brown Jr.,0ZPl9nB62OHQNMdLphpyps,True,Perfect match
+893,Blow Your Trumpets Gabriel,Behemoth,Blow Your Trumpets Gabriel,Behemoth,07zQA8UkyxpmnRhPjHOVOB,True,Perfect match
+894,Me Dê Motivo,Tim Maia,Me Dê Motivo,Tim Maia,4AanDau58qmC16r3StYgjF,True,Perfect match
+895,To Make It Right,yaeow,To Make It Right,yaeow,0AFlaSWOyEUJ9vrPynu1Ur,True,Perfect match
+896,Open Hands,Urban Rescue,Open Hands,Urban Rescue,6Xsayxd27Ez7vcRHAg0Wpt,True,Perfect match
+897,Satoshi Nakamoto,Gramatik,Satoshi Nakamoto,Gramatik;Adrian Lau;ProbCause,2uXidnW2mwi9kk4ZWVr0n5,True,Perfect match
+898,Gutter Girl,Hot Flash Heat Wave,Gutter Girl,Hot Flash Heat Wave,1sEzuZNasuG8s1OOHwYfN2,True,Perfect match
+899,Mother,Enigma,Mother,Enigma;Anggun,0iau0zkwNgee30zzhcYiP5,True,Perfect match
+900,Otomo,Bonobo,Otomo,Bonobo;O'Flynn,3VRemRqHZi7qiWzJfc684f,True,Perfect match
+901,HALLOMANN,Rammstein,Hallomann,Rammstein,2bHRnMtpXMUmzDHZrAyxne,True,Perfect match
+902,Teker Teker,Motive,Teker Teker,Motive,4nA9hQUadaagXUi1GctdVM,True,Perfect match
+903,Spies Are Watching Me,Voilaaa,Spies Are Watching Me,Voilaaa;Sir Jean,1UIqpCB0b56K7U0JJPfskN,True,Perfect match
+904,Left Behind,Zero 7,Left Behind,Zero 7;José González,5H5cNU45KyPXMlrxTMj2XM,True,Perfect match
+905,La Revolución Sexual,La Casa Azul,La Revolución Sexual,La Casa Azul,5zHvsFZoCzLmhbRbYDkg42,True,Perfect match
+906,My way,Pascal Junior,My Way,Pascal Junior,6QeKdjO0YGwHr8m0rwDMSh,True,Perfect match
+907,Rebirth,Ingested,Rebirth,Ingested,4dIoimQas4pY5JkvDF88B0,True,Perfect match
+908,Start of Time,Gabrielle Aplin,Start of Time,Gabrielle Aplin,1WSF2SjtfkV8LjTlF8uCZH,True,Perfect match
+909,Massachusetts,Bee Gees,Massachusetts,Bee Gees,2R30N7DHSavVqORsbMApqV,True,Perfect match
+910,I Will Be Here for You,Michael W. Smith,I Will Be Here For You,Michael W. Smith,3CO19cTl5zzlWx9GWEpOhD,True,Perfect match
+911,Se Eu Te Procurar,Diego & Arnaldo,Se Eu Te Procurar,Diego & Arnaldo,7dYm9m4c51h4IeICvu6b1O,True,Perfect match
+912,Forget to Forget,SHY Martin,Forget to Forget,shy martin,4E5IBDRu8kJbzUv1qaZM1t,True,Perfect match
+913,Far Away,Yiruma,Far Away,Yiruma,0wf7kzhzmKhyZGVOCfZC5b,True,Perfect match
+914,Crying For Love,Sonic Journey,Crying For Love,Sonic Journey,2cFbDTppIxkKRfDltzKGnx,True,Perfect match
+915,My Back Pages,The Byrds,My Back Pages,The Byrds,1yexhSDARSLVvRCBU3wDAm,True,Perfect match
+916,Holocene,Bon Iver,Holocene,Bon Iver,35KiiILklye1JRRctaLUb4,True,Perfect match
+917,Mojito, (Jay Chou),Mojito,Jay Chou,2J42jKkwGqiRsxUYh7FMTm,False,Title matches but artist differs: ' (Jay Chou)' vs 'Jay Chou'
+918,Are You Lonesome Tonight?,Elvis Presley,Are You Lonesome Tonight?,Elvis Presley,4xUqqie4bBKufHtlMuZS3k,True,Perfect match
+919,No More,DubVision,No More,DubVision,6sgU0FdR0FroEzK1rTdJzi,True,Perfect match
+920,Hurry On Now - Boub Remix,Alice Russell,Hurry on Now - Boub Remix,Alice Russell;Boub,0GhD1544tlIhR8iTjyGvQD,True,Perfect match
+921,Stephanie Says,The Velvet Underground,Stephanie Says,The Velvet Underground,341b9JIDHZ3oaMVNwS0OsA,True,Perfect match
+922,Tequila,The Champs,Tequila,The Champs,020XZ8mDVjzbnmvjL6GKls,True,Perfect match
+923,Bare,Wildes,Bare,WILDES,3uvsVUrAaGQJCTEUR1S3Sx,True,Perfect match
+924,If You Love Me Really Love Me,Brenda Lee,If You Love Me (Really Love Me),Brenda Lee,1U9n0AGpu9X69SeaMJfs8R,True,Perfect match
+925,Stand By Me,Seal,Stand by Me,Seal,5pztwVl6brVgqYjYQ93us6,True,Perfect match
+926,Duele el amor,Joan Sebastian,Duele El Amor,Joan Sebastian,6x8bMIpvePQqPKGys91SPx,True,Perfect match
+927,Reminder,Moderat,Reminder,Moderat,4NSNSGjEMy4DPPrRoTB9XP,True,Perfect match
+928,No Woman No Cry,Bob Marley & The Wailers,No Woman No Cry,Bob Marley & The Wailers,3PQLYVskjUeRmRIfECsL0X,True,Perfect match
+929,Xeque Mate,MC Neguinho do Kaxeta,Xeque Mate,MC Neguinho do Kaxeta;Mc Davi;Mc Pedrinho;MC Ryan SP,0LO4oBDJEJKkE6xY2BkAzt,True,Perfect match
+930,Samson,Regina Spektor,Samson,Regina Spektor,2JAUBPBVkimRLc5BGhAkfJ,True,Perfect match
+931,Let It Go,Colin & Caroline,Let It Go,Colin & Caroline,6r8OnTtDrhKBIIYgzxrnZ1,True,Perfect match
+932,Vice Grip,Parkway Drive,Vice Grip,Parkway Drive,0AHHDAHFRaT82UVw5fMr1R,True,Perfect match
+933,Demons,Darkest Hour,DEMON(S),Darkest Hour,6t1Bmjef4I067PKxd6CRlQ,False,Artist matches but title differs: 'Demons' vs 'DEMON(S)'
+934,New Wine,Hillsong Worship,New Wine,Hillsong Worship,1GHiyg8UOFAHavQJ7EWI34,True,Perfect match
+935,Querida,Juan Gabriel,Querida,Juan Gabriel;Juanes,0ctucPlIsYbNGeQuZUAQFe,True,Perfect match
+936,Não dá pra Explicar,FBC,Não dá pra Explicar,FBC;VHOOR;Mariana Cavanellas,5u3vBJzLvgJRQXqUFzr2cW,True,Perfect match
+937,Fat Old Sun,Pink Floyd,Fat Old Sun,Pink Floyd,5qlckstqDQ2RskL0SJsDYx,True,Perfect match
+938,Christ Is Enough,Hillsong Worship,Christ Is Enough,Hillsong Worship;Reuben Morgan,6ylhMPeBV9kF5dYvBAO2tQ,True,Perfect match
+939,Khulke Jeene Ka,A.R. Rahman,Khulke Jeene Ka,A.R. Rahman;Arijit Singh;Shashaa Tirupati,1XFZMenJ30FfGOsj8X5sqf,True,Perfect match
+940,​bluebonnets,Austin George,bluebonnets,Austin George,0bIHWAGW7gahdRc4JP2Eup,True,Perfect match
+941,Angels,Within Temptation,Angels,Within Temptation,4QWLhGVitrCCysR3ugX9Xw,True,Perfect match
+942,I Against I,Massive Attack,I Against I,Massive Attack;Mos Def,07L2b1rNFcywc0coZYUzeV,True,Perfect match
+943,Dhadak Title Track,Ajay Gogavale,Dhadak Title Track,Ajay Gogavale;Shreya Ghoshal,6Gx3Ry4ORogdMibbdITOuN,True,Perfect match
+944,Hard Rock Hallelujah,Lordi,Hard Rock Hallelujah,Lordi,7sZTvm0Sx8umbyQViTE2Qc,True,Perfect match
+945,Idgaf,Sik World,Idgaf,Sik World,3Y6L3oiUydJIGsmk5zHlDO,True,Perfect match
+946,​lightning,mehro,lightning,mehro,5tlMPoBvqEWIV8XOyM6Zcd,True,Perfect match
+947,Rahatımı Bozamam,Ravend,Rahatımı Bozamam,Ravend,4En6idM4o5670zPD5WxiFl,True,Perfect match
+948,Fake Love Song,Major RD,Fake Love Song,Major RD;Bagua Records;Neo Beats,3C257gmlEPezuzwp137b22,True,Perfect match
+949,The Safety Dance,Men Without Hats,The Safety Dance,Men Without Hats,4UB3TaEGEY9WoOpxYNMgy4,True,Perfect match
+950,La loba del mar,El Coyote Y Su Banda Tierra Santa,La Loba del Mar,El Coyote Y Su Banda Tierra Santa,6ozLwDnOkZBN1yir033PyG,True,Perfect match
+951,Ultaa Paailaa,Sajjan Raj Vaidya,Ultaa Paailaa,Sajjan Raj Vaidya,7BAkWCHoI417qAdHyy1YUH,True,Perfect match
+952,El Impostor,Chancho En Piedra,El Impostor,Chancho En Piedra,0Cz5S00ll33KRLVyZMe8Yi,True,Perfect match
+953,Pump the Brakes,Dom Dolla,Pump the Brakes,Dom Dolla,1Gz2E1chOzRyhFXHJYWw8y,True,Perfect match
+954,Us,Snavs,Us,Snavs,5f4l3uDDTNNGEtWaXHOIB9,True,Perfect match
+955,First Time,M-22,First Time,M-22;Medina,25Mf35cnnFalpVNFp0g3hW,True,Perfect match
+956,Haze,Marauda,HAZE,MARAUDA,22qjFE1QRjenJKkd7FFGHv,True,Perfect match
+957,Lemon, (Kenshi Yonezu),Lemon,Kenshi Yonezu,7Cd17G3oNQ34OWUwS8ZxfR,False,Title matches but artist differs: ' (Kenshi Yonezu)' vs 'Kenshi Yonezu'
+958,Prophecies,Philip Glass,Prophecies,Philip Glass,1QGQ7wB1KZfpbbWNFCaVGm,True,Perfect match
+959,Just Awake,"Fear, and Loathing in Las Vegas",Just Awake,"Fear, and Loathing in Las Vegas",1Gqpa08T7eBAvPQj9O9L2Q,True,Perfect match
+960,MOP,Borgore,MOP,Borgore;Gucci Mane;THIRTY RACK,7LCe5qMTozrYJIizGmR4Vj,True,Perfect match
+961,Palavras no Corpo,Gal Costa,Palavras No Corpo,Gal Costa,1WhWizm70M63k5UVIHX1Fe,True,Perfect match
+962,Goat,Thekidszn,Goat,Thekidszn,3zzA325SAVx8AcEvqNUDFM,True,Perfect match
+963,Keep Talking,Pink Floyd,Keep Talking,Pink Floyd,0vI64OhYqTo6KYswDlx0yT,True,Perfect match
+964,Venom,Bullet for My Valentine,Venom,Bullet For My Valentine,0DfRNaeaJaKoTepzMQIxtg,True,Perfect match
+965,The Grand Conjuration,Opeth,The Grand Conjuration,Opeth,5uFU647R2yVxTSvjKk3iSz,True,Perfect match
+966,No More,Eddie Vedder,No More,Eddie Vedder,6N8T4RHu7ZerB1dQoZaX6q,True,Perfect match
+967,Fire and Light,Actress,Fire and Light,Actress,1d6BkMki9M6K0yp9OLBzOM,True,Perfect match
+968,RECON,Justin Stone,RECON,Justin Stone,6bWJ3kPjskTCS2vzPwl9tY,True,Perfect match
+969,Crossing Lines,GAMPER & DADONI,Crossing Lines,GAMPER & DADONI;Aiaya,3pLtgOzLrZTVSLBlFmFDwN,True,Perfect match
+970,Eyes On Me Eren Jaeger Rap,Rustage,Eyes On Me (Eren Jaeger Rap),Rustage;McGwire,6ZClqpO7xwaNmidrmyLV5S,True,Perfect match
+971,Name of Love,cinema staff,Name of Love,cinema staff,1y9QiBBJynizfLbYjHM2Sg,True,Perfect match
+972,On Our Way,The Royal Concept,On Our Way,The Royal Concept,3GTXok0dIm0mMqBiVklBYS,True,Perfect match
+973,Who the Fuck Are Arctic Monkeys?,Arctic Monkeys,Who The Fuck Are Arctic Monkeys?,Arctic Monkeys,05FVS9qqWq2A82fYCtblkt,True,Perfect match
+974,Cutiepie,Pritam,Cutiepie,Pritam;Pardeep Singh Sran;Nakash Aziz,7hXnhouVPnOnFwCGrQMHvB,True,Perfect match
+975,Brighter Side of Grey,Five Finger Death Punch,Brighter Side of Grey,Five Finger Death Punch,4tW57waWtNZF2CnhQEjPBq,True,Perfect match
+976,Girls,The Prodigy,Girls,The Prodigy,3sR4m7aR5zxendIxV53Thl,True,Perfect match
+977,Violets,Josh Golden,Violets,Josh Golden,25ndwd0OLtkQLkFBaS9RjT,True,Perfect match
+978,Silence,Weston Estate,Silence,Weston Estate,5tgLkUlAmTR9FhOzVVfIJS,True,Perfect match
+979,Reimagined,The Contortionist,Reimagined,The Contortionist,2NVFCFOAfBOUty2tkDinp5,True,Perfect match
+980,City of Angels,gavn!,City of Angels,gavn!,0RCgQNZ5SAjPukI3OXquFN,True,Perfect match
+981,Never There,Currents,Never There,Currents,5t1OFHuWDlmusIYUZSNADT,True,Perfect match
+982,Lamentation,Yiruma,Lamentation,Yiruma,2RZWSolFOoxHOLLvuBCAmV,True,Perfect match
+983,Fine On The Outside,Priscilla Ahn,Fine On The Outside,Priscilla Ahn,0muntSMuAZzcwYBBMZj6sf,True,Perfect match
+984,Space To Bakersfield,Black Mountain,Space to Bakersfield,Black Mountain,4RH3xZ49HzsvNZfaZ9CZii,True,Perfect match
+985,Stay Dont Go,Kid Travis,Stay (Don't Go),Kid Travis,2mUzPLPUkEjClJ9Rb6H2rD,False,Artist matches but title differs: 'Stay Dont Go' vs 'Stay (Don't Go)'
+986,Final Definitivo,Gustavo Mioto,Final Definitivo,Gustavo Mioto,534g1M8K9eZthr94y9E99y,True,Perfect match
+987,Ants Go Marching,Cocomelon,Ants Go Marching,CoComelon,2YaXGn18P9C25tAJYXUUqR,True,Perfect match
+988,Seninim Son Kez,Teoman,Seninim Son Kez,Teoman;İrem Candar,590LwPfoRH6qwag96WFpwt,True,Perfect match
+989,The Names Bond... James Bond,David Arnold,The Name's Bond... James Bond,David Arnold,5nZVdhUh4Oz9LMQyneMpD5,False,Artist matches but title differs: 'The Names Bond... James Bond' vs 'The Name's Bond... James Bond'
+990,IF I DIE,SoLonely,If I Die,SoLonely,2TknnfKpiA3dnkOtNDbDZy,True,Perfect match
+991,Ainda é Tudo Seu,Luiza Possi,Ainda É Tudo Seu,Luiza Possi;Thiaguinho,7yd3GzvC8fxsk0m6hyEXGX,True,Perfect match
+992,Habits,Scott Bradlee's Postmodern Jukebox,Habits,Scott Bradlee's Postmodern Jukebox;Haley Reinhart,3wMJQ5qeN02ljNn3lRMVka,True,Perfect match
+993,Jy peux rien,Miel de Montagne,J'y peux rien,Miel De Montagne,0eXIlXgGQTD6hezaxdl3wO,False,Artist matches but title differs: 'Jy peux rien' vs 'J'y peux rien'
+994,Youre the Sea,Andrew Belle,You're the Sea,Andrew Belle,2WD93lsfJonaKtrQtpLB2R,False,Artist matches but title differs: 'Youre the Sea' vs 'You're the Sea'
+995,All Gone No Escape,Gustavo Santaolalla,All Gone (No Escape),Gustavo Santaolalla;Alan Umstead,6zezOLouSWKEfMizbzcsad,True,Perfect match
+996,Cheering You On,for KING & COUNTRY,Cheering You On,for KING & COUNTRY,5Qmf84ccZFZ1xryTCH6FO5,True,Perfect match
+997,Pink Life,Pink Guy,Pink Life,Pink Guy,7rE9wYXPgLqZsXVxn2JhU9,True,Perfect match
+998,Another World,The Chemical Brothers,Another World,The Chemical Brothers,1gNDbq3ufi6VZJJuQWJiPe,True,Perfect match
+999,Burn MF,Five Finger Death Punch,Burn MF,Five Finger Death Punch,1wF63HajppiUOdcAbp7YHh,True,Perfect match
+1000,Alphabet Song,Cooltime kids,Alphabet Song,Cooltime Kids,5ddiqtnKYhGULuJATEAJsM,True,Perfect match
+1001,KILL4ME,Marilyn Manson,KILL4ME,Marilyn Manson,6UIo6YbaXihIZ72MWUpcGb,True,Perfect match
+1002,Intuisi,Yura Yunita,Intuisi,Yura Yunita,6vAcoAjqhoJQaMJJZfBxEc,True,Perfect match
+1003,Rise to the Occasion,Climie Fisher,Rise to the Occasion,Climie Fisher,52IQbXyR5REXQ5xytlmko4,True,Perfect match
+1004,Rise Edit,Purple Disco Machine,Rise (Edit),Purple Disco Machine;Tasita D'Mour,3Su3OImznNr8DHg72s3aPm,True,Perfect match
+1005,Sing Me Back Home,Don Williams,Sing Me Back Home,Don Williams,50CjXiDFzVBVvwNv0LxAm3,True,Perfect match
+1006,Atonement,Conquer Divide,Atonement,Conquer Divide,0Y2kTZlKmbcsLSTHnLETBj,True,Perfect match
+1007,Stir Me Up,Hadise,Stir Me Up,Hadise,79mxN61Rhw4zAuvWLehld3,True,Perfect match
+1008,Deep End,William Black,Deep End,William Black,1UtRBq2n0IlQNA1WI3axWX,True,Perfect match
+1009,Billionaire,Glee Cast,Billionaire,Glee Cast,6d5CfH0P84foEd1fkmp7po,True,Perfect match
+1010,Losing You,Jon Caryl,Losing You,Jon Caryl,0WMDVSpzpRBuRqMWbbbYVI,True,Perfect match
+1011,Can You Hear Me,UNSECRET,Can You Hear Me,UNSECRET;Young Summer,0zAKRYUs44kTyqAKP9bS3S,True,Perfect match
+1012,Lukaamaari,Sajjan Raj Vaidya,Lukaamaari,Sajjan Raj Vaidya,6PgAZFD8x5KwV0tKLkm4gf,True,Perfect match
+1013,Rumor,Moore Kismet,Rumor,Moore Kismet;WYN,2QC2PTvF3yONXlvih301aR,True,Perfect match
+1014,Torn Apart,Eredaze,Torn Apart,Eredaze,2rpW6YlfARNrITNWJbqCgM,True,Perfect match
+1015,Closer to the Edge,Thirty Seconds to Mars,Closer To The Edge,Thirty Seconds To Mars,0UZwcRQAk4QR09HtGRZhYC,True,Perfect match
+1016,The Vulture,Pendulum,The Vulture,Pendulum,3cNsLpqu5TGoGKwM6cyZXB,True,Perfect match
+1017,SNIPER,Hidra,Sniper,Hidra,0hkuE7tEnOoCIY8dMKDDVf,True,Perfect match
+1018,¡Ah Pero Cómo Vendo Cassettes,PXNDX,¡ah Pero Cómo Vendo Cassettes!,PXNDX,1DpxQYcOegKn14qF4fPdQ8,True,Perfect match
+1019,Ungodly Hour,The Fray,Ungodly Hour,The Fray,6V2SKZhymLim16ri8A7K6h,True,Perfect match
+1020,Revelations,Audioslave,Revelations,Audioslave,22wnEMAQaNrbot1dwmeucH,True,Perfect match
+1021,Pree Me,Burna Boy,Pree Me,Burna Boy,6g8A0XVikKuWbcJv7p2I5Q,True,Perfect match
+1022,Lionhearted,Porter Robinson,Lionhearted,Porter Robinson;Urban Cone,0nejfXN5tjdICWIdfakXWx,True,Perfect match
+1023,Buscando un ángel,Divididos,Buscando un Ángel,Divididos,5A2OdsGDNhFUNCsJR7s9V0,True,Perfect match
+1024,Anarchist,YUNGBLUD,Anarchist,YUNGBLUD,3vVkxjrTP4SM1Ogq68LoXW,True,Perfect match
+1025,Kagerou,BABYMETAL,Kagerou,BABYMETAL,4kNujQGCx2ytNLfYIEIcYP,True,Perfect match
+1026,Jfinirai seul dans un coquillage,Panda Dub,J'finirai Seul Dans un Coquillage,Panda Dub,1MSeKSzLqsjECajArHwnjN,False,Artist matches but title differs: 'Jfinirai seul dans un coquillage' vs 'J'finirai Seul Dans un Coquillage'
+1027,Subjected to a Beating,Dying Fetus,Subjected to a Beating,Dying Fetus,7dU9Z24yR9AKuS9cAe2Tj7,True,Perfect match
+1028,Roma LRDP Maqueta,Sabino,Roma (Lrdp Maqueta),Sabino,11TQiyteH2AdJKhxraxEKB,True,Perfect match
+1029,Rüyalar,Tepki,Rüyalar,Tepki,2w7PIxakNkNbPIT3IhPiD9,True,Perfect match
+1030,Wasted On You,Peter Sandberg,Wasted On You,Peter Sandberg;Aquilo,61QLXBMBt3yy8luGgYsAbe,True,Perfect match
+1031,Sixteen Tons,Tennessee Ernie Ford,Sixteen Tons,Tennessee Ernie Ford,3P6OwCX7Ofiaaqtvujb6i5,True,Perfect match
+1032,Waiting for You,Y.V.E. 48,Waiting for You,Y.V.E. 48,2L0wPdpLIZBSMmkS8RDFtw,True,Perfect match
+1033,Take Me,MISO,Take Me,Miso,7tIJDktakabGoHjwTTa35W,True,Perfect match
+1034,Mirrors,Boyce Avenue,Mirrors,Boyce Avenue;Fifth Harmony,1PR5pyPiOEEQ02oJYq402x,True,Perfect match
+1035,RELATE R3HAB Remix,for KING & COUNTRY,RELATE (R3HAB Remix),for KING & COUNTRY;R3HAB,6hZQGrJlAQwrNnUyFkdO8r,True,Perfect match
+1036,The Heretic Anthem,Carnifex,The Heretic Anthem,Carnifex,3WLUCqIJd8JS8jc3wwaC8Q,True,Perfect match
+1037,Theme of Violet Evergarden,Evan Call,Theme of Violet Evergarden,Evan Call,0fsb37XCuEDiF1oPNq4arG,True,Perfect match
+1038,Moon Pride,Momoiro Clover Z,MOON PRIDE,Momoiro Clover Z,6XprapJCbrNFXtysmWjJt8,True,Perfect match
+1039,Evermore,Hollow Coves,Evermore,Hollow Coves,7LdUTzOChvJJbJPZNhJj5X,True,Perfect match
+1040,Turn It Up,Armin van Buuren,Turn It Up,Armin van Buuren,0yrlRdgnfEFvk5zlZ9yCKy,True,Perfect match
+1041,Another Day,Fiji Blue,Another Day,Fiji Blue,7sTcNcxIIRpEdSu3W6k8Ky,True,Perfect match
+1042,¿Me Juego El Corazón?,Las Pastillas del Abuelo,Me Juego el Corazón?,Las Pastillas del Abuelo,6XqVKktG8x1CdAzYgXAa0o,True,Perfect match
+1043,Caneta e papel,Os Arrais,Caneta e Papel,Os Arrais,0FHLdyKjddlKEvRpvFKaNV,True,Perfect match
+1044,Nina,Crumb,Nina,Crumb,3U3uvOHNxa3ODEiD9H6oVr,True,Perfect match
+1045,However,Glay,HOWEVER,GLAY,7FptOE24ql8QzjoF2BHDB5,True,Perfect match
+1046,Ben Böyleyim,Ayten Alpman,Ben Böyleyim,Ayten Alpman,4PdRmauZ4AF8HJiwpMVaXT,True,Perfect match
+1047,I Am Above,In Flames,I Am Above,In Flames,2t1G0rDxUY9zjML3f5mObb,True,Perfect match
+1048,Every Time the Sun Comes Up,Sharon Van Etten,Every Time the Sun Comes Up,Sharon Van Etten,61qxP4Vs5DVX0Ic4GnBklu,True,Perfect match
+1049,MOUNTAIN MAN,Hashir,MOUNTAIN MAN,Hashir,5QgWM6F0Nej8yrgonRJeOC,True,Perfect match
+1050,Back Door Man,The Doors,Back Door Man,The Doors,03By6gD02qhtvIQiK8KidK,True,Perfect match
+1051,Just We Two Mona Lisa,Modern Talking,Just We Two (Mona Lisa),Modern Talking,0ftKr33EWYb5A1u0kzYplw,True,Perfect match
+1052,FINGE QUE ME ODEIA,Flora Matos,FINGE QUE ME ODEIA,Flora Matos,6gzVD8bO9q9AgF2y7gOAyV,True,Perfect match
+1053,Contigo o Sin Ti,Joan Sebastian,Contigo O Sin Ti,Joan Sebastian,4VbzQMwsewpRkpiA5GioCw,True,Perfect match
+1054,Lucky Mistake Her 2.0,Vincent,Lucky Mistake (Her 2.0),Vincent;Alice Berg,78L3WTRWjcKmpw2So7t0Tc,True,Perfect match
+1055,Halcyon and On and On,Orbital,Halcyon and On and On,Orbital,5xcunlfaZvD9BDQsLONI7A,True,Perfect match
+1056,Times A Wastin,Carl Smith,Time's a Wastin',Carl Smith;June Carter Cash,5CR9Crkdw9un0PZbgtiLOc,False,Artist matches but title differs: 'Times A Wastin' vs 'Time's a Wastin''
+1057,Nonbinary,Arca,Nonbinary,Arca,4lUlYGT5VvZWN3GBDIc9KT,True,Perfect match
+1058,Galveston Bay,Parker McCollum,Galveston Bay,Parker McCollum,1eUagnbOw9MjesonPWNkNQ,True,Perfect match
+1059,Calaboose,Sidhu Moose Wala,Calaboose,Sidhu Moose Wala,2wHTMZwkLbpM6LNkUBs2Xt,True,Perfect match
+1060,Regreso a ti,Alex Campos,Regreso a ti,Alex Campos,22Iczcd4uYPtY8F9rkBIOM,True,Perfect match
+1061,One Way,Hillsong Worship,One Way,Hillsong Worship,6z5nJUEl6pCt7XdnBOCV51,True,Perfect match
+1062,Hansha,Oceans Ate Alaska,Hansha,Oceans Ate Alaska,3EC4B8QG0trMZFHBbiDKVN,True,Perfect match
+1063,The Gong of Knockout,"Fear, and Loathing in Las Vegas",The Gong of Knockout,"Fear, and Loathing in Las Vegas",7eITsVSfN8kKAxT35hoKF2,True,Perfect match
+1064,Colgando en Tus Manos con Marta Sánchez,Carlos Baute,Colgando en tus manos (con Marta Sánchez),Carlos Baute;Marta Sánchez,4EMbybK0uJ7HORa61dEgHs,True,Perfect match
+1065,Hentai,Cigarettes After Sex,Hentai,Cigarettes After Sex,4SjEdGI6Otmo5DRxAXKS9o,True,Perfect match
+1066,The Jewellers Hands,Arctic Monkeys,The Jeweller's Hands,Arctic Monkeys,4PDPn7HosIycoXeoeibFc5,False,Artist matches but title differs: 'The Jewellers Hands' vs 'The Jeweller's Hands'
+1067,Protection,Alcest,Protection,Alcest,4bHFJc0ZIgz2lhdy9hFQA7,True,Perfect match
+1068,Right Left Wrong,Three Days Grace,Right Left Wrong,Three Days Grace,7Fma0rICvZeAECL8VoPuUO,True,Perfect match
+1069,Kilometre,Burna Boy,Kilometre,Burna Boy,0oQgoesQJq0fRnWOY1D73g,True,Perfect match
+1070,Shes Gone,Steelheart,She's Gone,STEELHEART,13Mkm26hUhmdgjRjiPZ36o,False,Artist matches but title differs: 'Shes Gone' vs 'She's Gone'
+1071,A Novidade,Os Paralamas do Sucesso,A Novidade,Os Paralamas Do Sucesso,7i3Np2zIt2egRQz8iyvFUv,True,Perfect match
+1072,Matemática,Restart,Matemática,ReStarT,5CIHSAYZZ9ppV7wCDfBEcV,True,Perfect match
+1073,Gülü Soldurmam,Kibariye,Gülü Soldurmam,Kibariye,4aFjH5DC9JXnkVr9PkrtFH,True,Perfect match
+1074,Negative Creep,Nirvana,Negative Creep,Nirvana,5IeTFRymTDiza7DciBD1Gk,True,Perfect match
+1075,Sharp Edges,Linkin Park,Sharp Edges,Linkin Park,6c0I7CfL9ziGZN8yYkLppP,True,Perfect match
+1076,She Used to Be Mine,Jessie Mueller,She Used to Be Mine,Jessie Mueller,7CBrUf50mf2IqcRZla38by,True,Perfect match
+1077,Anything You Can Do,Bernadette Peters,Anything You Can Do,Bernadette Peters;Tom Wopat,1sOoOXwA5QftTmj6V0fqlJ,True,Perfect match
+1078,Memur,Stap,Memur,Stap,0ZBPBb0aeltt3rVxBM0O4M,True,Perfect match
+1079,Kodama,Alcest,Kodama,Alcest,300bSfVhnNrXHZEHKxQjPU,True,Perfect match
+1080,De Borest,Kuase Nada,De Borest,Kuase Nada,4liaba6RDgz3sXEcTjl4Dw,True,Perfect match
+1081,BUBBLES,Tokyo Machine,BUBBLES,Tokyo Machine,7hFZu37rmQxzAp0M1NqJ7P,True,Perfect match
+1082,Wolves,Zatox,Wolves,Zatox,0dbttB5xr4M0Q1lQQXfAwI,True,Perfect match
+1083,Way To You,Gareth Emery,way to you,Gareth Emery,1fbjqiXopUoZiXt5JQnhLv,True,Perfect match
+1084,Hurt,Nine Inch Nails,Hurt,Nine Inch Nails,27tX58NOpv1YKQ0abW7EPy,True,Perfect match
+1085,Fazendo a Cabeça,Planet Hemp,Fazendo a Cabeça,Planet Hemp,5momcZeBnYAHWzxTxVO0pq,True,Perfect match
+1086,​​feel the same,The Millennial Club,feel the same,The Millennial Club,5imUsSGjd1ok68w4HXh1My,True,Perfect match
+1087,Hjertet Følger Med,The Minds Of 99,Hjertet Følger Med,The Minds Of 99,6MXJQlaY0IcNjVDNYeYj8y,True,Perfect match
+1088,Dizzy on the Comedown,Turnover,Dizzy On the Comedown,Turnover,3vkj94FiLgUz3ysZcmIXPx,True,Perfect match
+1089,Maine Khud Ko,Mustafa Zahid,Maine Khud Ko,Mustafa Zahid,05REArTDZQd59A9Y4XC0Aq,True,Perfect match
+1090,Earth Is a Black Hole,Teenage Wrist,Earth Is A Black Hole,Teenage Wrist,13a2v5JNOROuvh2MBMWxqb,True,Perfect match
+1091,Old Heart Falls,Katatonia,Old Heart Falls,Katatonia,4AHe46XPJyR6wt4jngb75M,True,Perfect match
+1092,Everything,Vide,Everything,Vide,2aE0KU314ITBNJcBTG7tfm,True,Perfect match
+1093,Untrust Us,Crystal Castles,Untrust Us,Crystal Castles,6RpuNjTsUQo7eByN3kWvYx,True,Perfect match
+1094,Deans Dream,The Dead Milkmen,Dean's Dream,The Dead Milkmen,4Kf80JwKZcrHE0jJQKuH0e,False,Artist matches but title differs: 'Deans Dream' vs 'Dean's Dream'
+1095,Minha maior Riqueza,Rodolfo Abrantes,Minha Maior Riqueza,Rodolfo Abrantes,30SOGbbkzye1AwSoazLPah,True,Perfect match
+1096,Emotional,Flux Pavilion,Emotional,Flux Pavilion;Matthew Koma,4yNoaxUJjnP50AXYoAZx4S,True,Perfect match
+1097,EASY LOVE, (Sumire Uesaka),EASY LOVE,Sumire Uesaka,6mdiePjszuYWOJuhBIYnIt,False,Title matches but artist differs: ' (Sumire Uesaka)' vs 'Sumire Uesaka'
+1098,Teri Tasveer,Bayaan,Teri Tasveer,Bayaan,4iBIFGEGJ0I5ezZZ6VXYp7,True,Perfect match
+1099,Just Friends,JORDY,Just Friends,JORDY,69rSEDWuvLS6yyNcESulCc,True,Perfect match
+1100,Gungrave,ERRA,Gungrave,ERRA,2A8WSQPNT9NqssXd3rEZYU,True,Perfect match
+1101,High Tide,Eartheater,High Tide,Eartheater,0Qia3sEByGk9ELKGBRRvYF,True,Perfect match
+1102,Rivers,Epica,Rivers,Epica,6SO03S6E3WsdfUsrdz447z,True,Perfect match
+1103,A New Beginning,Sub Zero Project,A New Beginning,Sub Zero Project,0Z9J2O5kjOoZi53ZB8krgJ,True,Perfect match
+1104,Meltdown,Motionless in White,Meltdown,Motionless In White,6w3hTgFYPaUo6WFz2tEOtX,True,Perfect match
+1105,Doom and Gloom,The Rolling Stones,Doom And Gloom,The Rolling Stones,0lO9vvpJdd2ZNAq61ga9wy,True,Perfect match
+1106,Talk Tough,DustyStayTrue,Talk Tough,Dustystaytrue,4HlwrvZ1Onf2Vh8PJtIvtE,True,Perfect match
+1107,Poisons Gone,Kurt Cobain,Poison's Gone,Kurt Cobain,4jK6bBO2JbkvvgT7FPj8c5,False,Artist matches but title differs: 'Poisons Gone' vs 'Poison's Gone'
+1108,Paradise,Marco Luka,paradise,Marco Luka,6XpVAVpg3PfxcoO0tUG8jJ,True,Perfect match
+1109,Monsters,Currents,Monsters,Currents,0FnNvh5Azabpbfb7xSmZpj,True,Perfect match
+1110,The Phantom of the Opera,Nightwish,The Phantom Of The Opera,Nightwish,2WmbbiWfFEKsSZe6E5GeVe,True,Perfect match
+1111,Just A Cloud,Lusine,Just a Cloud,Lusine;Vilja Larjosto,6NDuYg5KklJi8XKkJxb7d8,True,Perfect match
+1112,Hear the Bells,Porter Robinson,Hear The Bells,Porter Robinson;Imaginary Cities,5OsKqfRR6OuGGaMcKPG1ti,True,Perfect match
+1113,Rivers of Babylon,Boney M.,Rivers Of Babylon,Boney M.,1t6c3Hwp0WMw4CSLcEkANx,True,Perfect match
+1114,River of Deceit,Mad Season,River of Deceit,Mad Season,5EUsI3LIV042IV5ydksV9y,True,Perfect match
+1115,70s 80s,Nightmares on Wax,70s 80s,Nightmares On Wax,57sa60SXzxzxcSZogh0j60,True,Perfect match
+1116,Quando O Sol Se For,Detonautas Roque Clube,Quando o sol se for,Detonautas Roque Clube,7pDUhxbAWlITdbP9JcjF5Q,True,Perfect match
+1117,Have You Ever Seen The Rain,Horizon Blue,Have You Ever Seen The Rain,Horizon Blue;Music Travel Love,72tWoP1KOVvoXk6ikg7n8m,True,Perfect match
+1118,Had It All,Parachute,Had It All,Parachute,1esE8j1nVyzEQ5rVhYXoJT,True,Perfect match
+1119,Wishlist,Pearl Jam,Wishlist,Pearl Jam,7hObovvcbBpXgZHQ9if4WU,True,Perfect match
+1120,Purpurina,Alberto Gambino,Purpurina,Alberto Gambino,4FrThBco0jLqXEMULUhSM9,True,Perfect match
+1121,Poseidon,gavn!,Poseidon,gavn!,173oDK5CIOLGUvLdudCnUa,True,Perfect match
+1122,Strangers,Seven Lions,Strangers,Seven Lions;Myon;Shane 54;Tove Lo,4oaOiFsrOQFqRnIU3hg3cM,True,Perfect match
+1123,Days We Had,Powfu,Days We Had,Powfu,0JmaAWXXjqAlce46xjNl6y,True,Perfect match
+1124,Violet Gold,Woesum,Violet Gold,Woesum;Bladee;Thaiboy Digital;Yung Lean,5x9lyB5lP2lXR0zb7L6RaB,True,Perfect match
+1125,Beach House,The Chainsmokers,Beach House,The Chainsmokers,2bQhVQbV7VBzSOPo8mbkUR,True,Perfect match
+1126,What Are You Going to Do When You Are Not Saving the World?,Hans Zimmer,What Are You Going to Do When You Are Not Saving the World?,Hans Zimmer;Nick Glennie-Smith;Junkie XL;Atli Örvarsson,229lqwvjAJuDgRCkSXwOJm,True,Perfect match
+1127,Numb,Fiji Blue,Numb,Fiji Blue,60hN3qknfJ3XkG20RcTmln,True,Perfect match
+1128,Supernova,Hybrid Minds,Supernova,Hybrid Minds;Catching Cairo,41scpcxZZ8riNgfmgSohGE,True,Perfect match
+1129,Mirabels Cumbia,Germaine Franco,Mirabel's Cumbia,Germaine Franco,1Jc4XBMWl3RMtxdCDPH942,False,Artist matches but title differs: 'Mirabels Cumbia' vs 'Mirabel's Cumbia'
+1130,Zombie,Fela Kuti,Zombie,Fela Kuti,3RZoPvPHZsPTTc94DfWSCL,True,Perfect match
+1131,My Names MC Rick,MC Rick,My Names Mc Rick,MC Rick,2tWjvpYWAjhzwHsuuvC9gM,True,Perfect match
+1132,CONVERSAR COM O MAR,Flora Matos,CONVERSAR COM O MAR,Flora Matos,0NPQCs25OPNgYOFhCXL8kk,True,Perfect match
+1133,Ships in the Night,Mat Kearney,Ships In The Night,Mat Kearney,41XVcLXrmbxiV0mJASJxov,True,Perfect match
+1134,The Scientist,Corinne Bailey Rae,The Scientist,Corinne Bailey Rae,7tn1tcxenMwDXrYTOjS3z1,True,Perfect match
+1135,Let In The Light,Moderat,Let in the Light,Moderat,3tPaCziFdHU7tkMEOspYgl,True,Perfect match
+1136,Bird,Billie Marten,Bird,Billie Marten,6DzvC1VHpyTFfLBbAYBa7W,True,Perfect match
+1137,Gravedigger,Koe Wetzel,Gravedigger,Koe Wetzel,1NoGgCGfH2Kg4p8DvWaFca,True,Perfect match
+1138,​bedroom community,glass beach,bedroom community,glass beach,4HJc004qYXE9zsG6PfTFFj,True,Perfect match
+1139,Jet Lag,Gavin Haley,Jet Lag,Gavin Haley,4nDNTISVKzP3YjW4vvW1B1,True,Perfect match
+1140,I’ll See You in My Dreams,Django Reinhardt,I'll See You in My Dreams,Django Reinhardt,52yEkn1b6BiOZad3x7x6PP,False,Artist matches but title differs: 'I’ll See You in My Dreams' vs 'I'll See You in My Dreams'
+1141,Jeete Hain Chal,Kavita Seth,Jeete Hain Chal,Kavita Seth,7kl1KAzW5O4gOAesaHxiq0,True,Perfect match
+1142,Still Loving,Andrea Roma,Still Loving,Andrea Roma;Leusin,16LSXbobYBqw92c8DDEfS1,True,Perfect match
+1143,X10,Koffee,x10,Koffee,2dEmlFeRSciR2qOJRsBh7N,True,Perfect match
+1144,Tujhe Dekha To,Lata Mangeshkar,Tujhe Dekha To,Lata Mangeshkar;Kumar Sanu,6dFQ3W3xuG4ll7cNjIsN2Q,True,Perfect match
+1145,Undenied,Portishead,Undenied,Portishead,25G1w3E4OMrovtPE5F510g,True,Perfect match
+1146,Bir Çok Kez Öldüm,Sagopa Kajmer,Bir çok Kez Öldüm,Sagopa Kajmer,42dmx5VU5Se0SkoDq5vMB0,True,Perfect match
+1147,On My Own,TroyBoi,On My Own,TroyBoi;Nefera,0Oe98pXkRP4PtUWdKWkHZo,True,Perfect match
+1148,I Love My Life,Demarco,I Love My Life,Demarco,6S0nwCOEAftiihy73YVDnl,True,Perfect match
+1149,​hate will never win,XXXTENTACION,hate will never win,XXXTENTACION,0fWkWSpXp1V8nWslbA25Sg,True,Perfect match
+1150,Amazing Grace,for KING & COUNTRY,Amazing Grace,for KING & COUNTRY;Rebecca St. James,0tXaXcuDbaX0Jhzns45Gx5,True,Perfect match
+1151,Llegan Ya,Millonario,Llegan Ya,Millonario,1xwhDD7Ksuzs4bxVNCyYsX,True,Perfect match
+1152,Torch of Liberty,KANA-BOON,Torch of Liberty,KANA-BOON,3YblgwBrb747gUzuh2CgYF,True,Perfect match
+1153,Hows The Heart?,Nightwish,How's the Heart?,Nightwish,6lkVbijlh932FSS2I0gDrR,False,Artist matches but title differs: 'Hows The Heart?' vs 'How's the Heart?'
+1154,Suno Na Sangemarmar,Arijit Singh,Suno- Na Sangemarmar,Arijit Singh,0RrR3wg4ezBVwm7lyeybir,True,Perfect match
+1155,Here,CASTLEBEAT,Here,CASTLEBEAT,3mGs8a5zkfGyQQBA8vB13q,True,Perfect match
+1156,I Feel Free,Cream,I Feel Free,Cream,62nYkaIBesfvQSSwTjPnYS,True,Perfect match
+1157,Puro Malte,Murilo Huff,Puro Malte,Murilo Huff,5LrskmGXNS6EsDLzPt9CD6,True,Perfect match
+1158,In Your Arms,Sunbeam Sound Machine,In Your Arms,Sunbeam Sound Machine,2DgaPZppYXSYGCaBceXfTw,True,Perfect match
+1159,Guardians of Asgaard,Amon Amarth,Guardians Of Asgaard,Amon Amarth,2DR9AzDhYeStkHupvU08FC,True,Perfect match
+1160,Walked In,Kevin Powers,Walked In,Kevin Powers,10sX7AMZOVbM2N0FruoDZS,True,Perfect match
+1161,Black Gives Way to Blue,Alice in Chains,Black Gives Way To Blue,Alice In Chains,78iMIaSjeVlUoNa7rehPOU,True,Perfect match
+1162,Voices,Cheap Trick,Voices,Cheap Trick,3ao7thlAYIVPJw3e1u51PE,True,Perfect match
+1163,When It Falls,Zero 7,When It Falls,Zero 7,3mg2jVzYi0DzAiOhsL2hkE,True,Perfect match
+1164,Evil Angel,Breaking Benjamin,Evil Angel,Breaking Benjamin,6HDBZFpozQsnYZ88ic250y,True,Perfect match
+1165,Aaina,Afkap,Aaina,AFKAP,5SAgi6ZXqpCWQADP8XyRDY,True,Perfect match
+1166,Everything’s Alright,conscience,Everything's Alright,conscience,3JXsIGWUG94RE2lMhu2OlE,False,Artist matches but title differs: 'Everything’s Alright' vs 'Everything's Alright'
+1167,Jiunu Nai Hola,Tribal Rain,Jiunu Nai Hola,Tribal Rain,59P5MoE5SawsaMpBVHhj6o,True,Perfect match
+1168,The Tempest,Pendulum,The Tempest,Pendulum,6gTQubOSdry0ievEXvhzxd,True,Perfect match
+1169,Rain,Breaking Benjamin,Rain,Breaking Benjamin,2ehkJlAysINP3czoqaklyT,True,Perfect match
+1170,Marianas Trench,August Burns Red,Mariana's Trench,August Burns Red,5iMPhdSTH7OovnhUzo2juY,False,Artist matches but title differs: 'Marianas Trench' vs 'Mariana's Trench'
+1171,En nuit,VIDEOCLUB,En nuit,Videoclub,1Rvl9e8bRf4EVEyZNg1YHW,True,Perfect match
+1172,Preciosidade,Damares,Preciosidade,Damares,5dZ44ovq0lsSvf72vAC1t2,True,Perfect match
+1173,Lamentações 2:19,LEALL,Lamentações 2:19,LEALL;Nagalli,6nQRnJYQUowTFUxoCmV96c,True,Perfect match
+1174,Party of One feat. Sam Smith,Brandi Carlile,Party of One (feat. Sam Smith),Brandi Carlile;Sam Smith,25fcj6d2W1l8DQL11Czdzb,True,Perfect match
+1175,PAINLESS,Josh A,PAINLESS,Josh A,2DBzFlduaVzw2EHdP1ZnbG,True,Perfect match
+1176,ROCK IT,Tokyo Machine,ROCK IT,Tokyo Machine,1yv3aBLO9rgyEHmAR7jI1M,True,Perfect match
+1177,The Other Son of Odin,Brothers of Metal,The Other Son of Odin,Brothers of Metal,3M48mLjTHfMx6ogQfTVE9r,True,Perfect match
+1178,​talk,keshi,talk,keshi,0b8Sf6sJqXOr9cP6tQ7QQx,True,Perfect match
+1179,Two-Lane Blacktop,Rob Zombie,Two-Lane Blacktop,Rob Zombie,4VIM6bcYnJZsrmIOAbWoxF,True,Perfect match
+1180,Stabwound,Necrophagist,Stabwound,Necrophagist,78oF7KjxHMJHtiwgc2I3rw,True,Perfect match
+1181,Overdrive,Aaryan Shah,Overdrive,Aaryan Shah,2IaILbVsOyRkIqEMm64Tdt,True,Perfect match
+1182,1985,Bowling for Soup,1985,Bowling For Soup,5oQcOu1omDykbIPSdSQQNJ,True,Perfect match
+1183,Ye,Burna Boy,Ye,Burna Boy,3FskQrDXcY24ur2fCvz35O,True,Perfect match
+1184,Outro: Wings,BTS,Outro: Wings,BTS,7kyUapJyppdjzoAWB6XS14,True,Perfect match
+1185,​​vice city,XXXTENTACION,vice city,XXXTENTACION,17wxJ7IZKboyECnxZw7Vo1,True,Perfect match
+1186,Dumb,Nirvana,Dumb,Nirvana,5gRcv46AMTrosmTOqrOV3Q,True,Perfect match
+1187,Doppelgänger,Lissom,Doppelgänger,Lissom;Julien Marchal;Lowswimmer,7qjF1j0sMTLcmiTKXwVh09,True,Perfect match
+1188,I am not a woman Im a god,Halsey,"I am not a woman, I'm a god",Halsey,3XKjZcgNYtvCmBpE1nX7Wn,False,"Artist matches but title differs: 'I am not a woman Im a god' vs 'I am not a woman, I'm a god'"
+1189,Boombastic,Shaggy,Boombastic,Shaggy,4fxF8ljwryMZX5c9EKrLFE,True,Perfect match
+1190,One Take,Lil Tjay,One Take,Lil Tjay,4uu7gKd1PffC7QEMcMk0Ro,True,Perfect match
+1191,Circle the Drain,Wage War,Circle The Drain,Wage War,37LTDJrNmWco1qHO1AuZ1r,True,Perfect match
+1192,Butterflies,ASTN,Butterflies,ASTN,6mCljAhAwsKTCsdaA0tIYF,True,Perfect match
+1193,Esqueceu Foi Porra,Eric Land,Esqueceu Foi Porra,Eric Land;Tarcísio do Acordeon,2xADGxc3wNQk9YBSWIROyx,True,Perfect match
+1194,Have Faith in Me,A Day To Remember,Have Faith In Me,A Day To Remember,4IX6QvjOI62tyHigVsTUlv,True,Perfect match
+1195,Gul,Anuv Jain,Gul,Anuv Jain,0NLkVxf0PyxsXBG3EuZcJf,True,Perfect match
+1196,Steady as She Goes,The Raconteurs,"Steady, As She Goes",The Raconteurs,4xlEKYv7HmC8zXoJIbpZKM,True,Perfect match
+1197,Nobody Can Save Me,Linkin Park,Nobody Can Save Me,Linkin Park,3dJj6o9o1fRgrojWjailuz,True,Perfect match
+1198,Paradise,Sade,Paradise,Sade,4tReFKumS5bcFahdXDiM1b,True,Perfect match
+1199,Ek ajnabee haseena se,Kishore Kumar,Ek Ajnabee Haseena Se,Kishore Kumar;R. D. Burman,1mPNK9DQVA7gJNtJ20PZu3,True,Perfect match
+1200,Mere Rashke Qamar,Nusrat Fateh Ali Khan,Mere Rashke Qamar,Nusrat Fateh Ali Khan;Rahat Fateh Ali Khan,4sNiMTu47WkUgW87qeUlWF,True,Perfect match
+1201,​parents,YUNGBLUD,parents,YUNGBLUD,68rVGSTnCiFOET9k5Vd8Se,True,Perfect match
+1202,Keine Lust,Rammstein,Keine Lust,Rammstein,7eeDeUM9E7b0vkDfRz20Zt,True,Perfect match
+1203,Rip  Tear,Mick Gordon,Rip & Tear,Mick Gordon,5soMJpcVhSrGrB4prvPL6P,True,Perfect match
+1204,Mama,Jonas Blue,Mama,Jonas Blue;William Singe,7jEyX4bqaCSdMN4D4JNnVj,True,Perfect match
+1205,The Blowers Daughter,Damien Rice,The Blower's Daughter,Damien Rice,5yyRH93h4Pm6tXXYTxt7ea,False,Artist matches but title differs: 'The Blowers Daughter' vs 'The Blower's Daughter'
+1206,Fake It,Seether,Fake It,Seether,4eAwB5pnKFTmsgc3zWoYO0,True,Perfect match
+1207,Shes So Nice,Pink Guy,She's So Nice,Pink Guy,0Dfctnkk9xIikDKJ06uwzo,False,Artist matches but title differs: 'Shes So Nice' vs 'She's So Nice'
+1208,En El Coche,Aitana,En El Coche,Aitana,5mcYWxQAAlqGAhEPqVMMR5,True,Perfect match
+1209,Eyes Off You,PRETTYMUCH,Eyes Off You,PRETTYMUCH,0VpEX8ib3wE7u8NOw4szU6,True,Perfect match
+1210,Road Trippin,Red Hot Chili Peppers,Road Trippin',Red Hot Chili Peppers,7Gpr3kKk4BMgItz6UbI73q,True,Perfect match
+1211,Didnt Know,Tom Zanetti,Didn't Know,Tom Zanetti,3kNWyHdLVW1x6pn9EnSQ1H,False,Artist matches but title differs: 'Didnt Know' vs 'Didn't Know'
+1212,On My Mind,Ellie Goulding,On My Mind,Ellie Goulding,5a7NdkF09AfD0H607eiOkX,True,Perfect match
+1213,Criminal,Fiona Apple,Criminal,Fiona Apple,6PNvv1dmDbOWrAYwEcuKBX,True,Perfect match
+1214,Paint It Black,The Rolling Stones,"Paint It, Black",The Rolling Stones,63T7DJ1AFDD6Bn8VzG6JE8,True,Perfect match
+1215,Machu Picchu,The Strokes,Machu Picchu,The Strokes,6mVD1SfTvlFAPVi7txFL5H,True,Perfect match
+1216,Best of You,Foo Fighters,Best of You,Foo Fighters,5FZxsHWIvUsmSK1IAvm2pp,True,Perfect match
+1217,Runaway,Bon Jovi,Runaway,Bon Jovi,0X1sqQ652p1sceKM2nJlIJ,True,Perfect match
+1218,Shot in the Dark,John Mayer,Shot in the Dark,John Mayer,239yM7BAQ2CkNc61ogPGXo,True,Perfect match
+1219,This Feeling,The Chainsmokers,This Feeling,The Chainsmokers;Kelsea Ballerini,4NBTZtAt1F13VvlSKe6KTl,True,Perfect match
+1220,Habits Stay High,Tove Lo,Habits (Stay High),Tove Lo,18AJRdgUoO9EYn11N7xzaT,True,Perfect match
+1221,​crushcrushcrush,Paramore,crushcrushcrush,Paramore,4m9NfjevXsDVaLtM1kj0Sx,True,Perfect match
+1222,Give Me A Reason,Jillian Rossi,Give Me A Reason,Jillian Rossi,1qWV2QMhVwWRDAbirrkkf1,True,Perfect match
+1223,Under the Boardwalk,The Drifters,Under the Boardwalk,The Drifters,65jrjEhWfAvysKfnojk1i0,True,Perfect match
+1224,I Dont Care,Fall Out Boy,I Don't Care,Fall Out Boy,26VG1uCazw9xtVnq8A1vtd,False,Artist matches but title differs: 'I Dont Care' vs 'I Don't Care'
+1225,Nowhere to Go,Bad Omens,Nowhere To Go,Bad Omens,0ds5MDAFjVNd5E2HDKLjAb,True,Perfect match
+1226,Talk Too Much,COIN,Talk Too Much,COIN,4djIFfof5TpbSGRZUpsTXq,True,Perfect match
+1227,Cruel Summer,Bananarama,Cruel Summer,Bananarama,2EGaDf0cPX789H3LNeB03D,True,Perfect match
+1228,Unloving You,Anson Seabra,Unloving You,Anson Seabra,2w9nvs1ByWUGkED4M0ug34,True,Perfect match
+1229,Love of a Lifetime,Firehouse,Love of a Lifetime,Firehouse,2kDH08boXJyhKMl5hnZbrE,True,Perfect match
+1230,​abc nicer,GAYLE,abc (nicer),GAYLE,6Vb1LGvWPpP3aeuRcp098D,True,Perfect match
+1231,Paranoia,A Day To Remember,Paranoia,A Day To Remember,3HhaSocKwTptze7PySNZlW,True,Perfect match
+1232,Youre Beautiful,James Blunt,You're Beautiful,James Blunt,0vg4WnUWvze6pBOJDTq99k,False,Artist matches but title differs: 'Youre Beautiful' vs 'You're Beautiful'
+1233,Lead Me On,sammy rash,lead me on,sammy rash,45HHTHXv7gQ5q2r89ui2Fy,True,Perfect match
+1234,M八七, (Kenshi Yonezu),M八七,Kenshi Yonezu,3sFdaHo9D3hfiFt2wVi6a5,False,Title matches but artist differs: ' (Kenshi Yonezu)' vs 'Kenshi Yonezu'
+1235,Breathe In the Air,Pink Floyd,Breathe (In the Air),Pink Floyd,2ctvdKmETyOzPb2GiJJT53,True,Perfect match
+1236,Hawái,Maluma,Hawái,Maluma,1yoMvmasuxZfqHEipJhRbp,True,Perfect match
+1237,Burning Love,Elvis Presley,Burning Love,Elvis Presley,7zMUCLm1TN9o9JlLISztxO,True,Perfect match
+1238,Clearest Of Signs,SwitchOTR,Clearest of Signs,SwitchOTR,6Jfn2Ut4F7snIXmOp7LLco,True,Perfect match
+1239,Pieces,Sum 41,Pieces,Sum 41,1ibeKVCiXORhvUpMmtsQWq,True,Perfect match
+1240,Battle Symphony,Linkin Park,Battle Symphony,Linkin Park,3FQCJI2t5LTbsRPfYVBSVB,True,Perfect match
+1241,On  On,Cartoon,On & On,Cartoon;Daniel Levi,2uZWffKoemZDI0gHcBEcDc,True,Perfect match
+1242,Born Singer,BTS,Born Singer,BTS,1IthE5GNiRzFN5CVaCa445,True,Perfect match
+1243,FEEL NOTHING,The Plot In You,FEEL NOTHING,The Plot In You,4xDwCYhobDehSBGUmd5H6Y,True,Perfect match
+1244,Papercut,Linkin Park,Papercut,Linkin Park,1Vej0qeQ3ioKwpI6FUbRv1,True,Perfect match
+1245,Jolene,Dolly Parton,Jolene,Dolly Parton,5fdhThPDe6jQQDqCyWrdAn,True,Perfect match
+1246,Failure,Breaking Benjamin,Failure,Breaking Benjamin,4wh0E9OwMCxcaIKTg0Mts9,True,Perfect match
+1247,Sweetie Little Jean,Cage The Elephant,Sweetie Little Jean,Cage The Elephant,4dpEYOPcmHNfvERbiajp3G,True,Perfect match
+1248,Outside,Staind,Outside,Staind,50Re2bLgXqG9qN7v2QHNTm,True,Perfect match
+1249,Dont Let Me Down,The Chainsmokers,Don't Let Me Down,The Chainsmokers;Daya,1i1fxkWeaMmKEB4T7zqbzK,False,Artist matches but title differs: 'Dont Let Me Down' vs 'Don't Let Me Down'
+1250,F.N,Lil Tjay,F.N,Lil Tjay,0RLLvYBopDwooCyvnTwgYu,True,Perfect match
+1251,Spoonman,Soundgarden,Spoonman,Soundgarden,1jMaB19DiVR8OihLSuYFOt,True,Perfect match
+1252,Paranoid,I Prevail,Paranoid,I Prevail,7dENhnDxTHnzGtpMrsJ72w,True,Perfect match
+1253,Finish Line,Delaney Bailey,Finish Line,Delaney Bailey,1FzXRK8g8TxVdL8UjSWaRC,True,Perfect match
+1254,Celebrity Skin,Hole,Celebrity Skin,Hole,2V4Bc2I962j7acQj1N0PiQ,True,Perfect match
+1255,Coming Home,Leon Bridges,Coming Home,Leon Bridges,65GbQI9VDTs7vo6MJL2iJA,True,Perfect match
+1256,All Stars,Martin Solveig,All Stars,Martin Solveig;ALMA,26haJjtanhamtf25RXH0MO,True,Perfect match
+1257,ON,BTS,ON,BTS,0U4hNZFJYNFdEAXZcHbkkc,True,Perfect match
+1258,Soft Skin,Timmies,Soft Skin,Timmies;Shiloh Dynasty,2y1NlQ3jhmmvtybRBLQGXm,True,Perfect match
+1259,Magic Shop,BTS,Magic Shop,BTS,37nOpaUof3d4Xsmr6moAiI,True,Perfect match
+1260,Dear Mama,2Pac,Dear Mama,2Pac,6tDxrq4FxEL2q15y37tXT9,True,Perfect match
+1261,Club Foot,Kasabian,Club Foot,Kasabian,6C0xucNj75wRdlejwWIEW1,True,Perfect match
+1262,Pyramids,Frank Ocean,Pyramids,Frank Ocean,4QhWbupniDd44EDtnh2bFJ,True,Perfect match
+1263,Neither Do I,Stwo,Neither Do I,Stwo;Jeremih,3OuXuCuaZ889JdW2cX1dDw,True,Perfect match
+1264,DJ Turn It Up,Yellow Claw,DJ Turn It Up,Yellow Claw,1ivuWgxFQb2xzxVNSlB1hF,True,Perfect match
+1265,Portland Maine,Donovan Woods,"Portland, Maine",Donovan Woods,12niARgkwxGsklcEwh6GlG,True,Perfect match
+1266,Night Nurse,Gregory Isaacs,Night Nurse,Gregory Isaacs,4DQttwipnILl88cru3BRZx,True,Perfect match
+1267,How You Like Me Now?,The Heavy,How You Like Me Now,The Heavy,0kHwTHf8ye0mSd66pwcrEN,True,Perfect match
+1268,Dont Leave Me,BTS,Don't Leave Me,BTS,3zIG0WuI5RoJsFYnErkFDU,False,Artist matches but title differs: 'Dont Leave Me' vs 'Don't Leave Me'
+1269,Wherever you would call me,Zaini,wherever you would call me,Zaini,5ehoXwpw70o6WEEufJm1q7,True,Perfect match
+1270,Riha,Anuv Jain,Riha,Anuv Jain,6Ln89sczgIcAJXGAIdS94R,True,Perfect match
+1271,Frozen,Madonna,Frozen,Madonna;Sickick,6lknMmJZALXxx7emwwZWLX,True,Perfect match
+1272,Que Tire Pa Lante,Daddy Yankee,Que Tire Pa Lante,Daddy Yankee,6RyaV7owmVU6fzEPE17sF1,True,Perfect match
+1273,Black Summer,Red Hot Chili Peppers,Black Summer,Red Hot Chili Peppers,3a94TbZOxhkI9xuNwYL53b,True,Perfect match
+1274,Never Say Never,The Fray,Never Say Never,The Fray,57uX2vR9j9DNiANDYfXw1i,True,Perfect match
+1275,MEMORIES,347aidan,MEMORIES!,347aidan,27XMmSWSOXJ7eVb40tH93T,True,Perfect match
+1276,The Rumbling TV Size,SiM,The Rumbling (TV Size),SiM,0KCSJzsQVxkloxoT7dyrqV,True,Perfect match
+1277,Mere Sohneya,Sachet Tandon,Mere Sohneya,Sachet Tandon;Parampara Tandon,7sJQv0LRPgM2xCkkdWOlyj,True,Perfect match
+1278,Udd Gaye,Ritviz,Udd Gaye,Ritviz,5ZsAhuQ24mWHiduaxJqnhW,True,Perfect match
+1279,Scars,I AM THEY,Scars,I AM THEY,72B1Omo2kmEst4YKO8vOB6,True,Perfect match
+1280,​​prom dress,mxmtoon,prom dress,mxmtoon,2xCGBWfzTe8l2kvHpgvB6M,True,Perfect match
+1281,WAS ICH LIEBE,Rammstein,Was ich liebe,Rammstein,4anzVbFPUuZTw0KQeZ0qnu,True,Perfect match
+1282,Regret,Sidhu Moose Wala,Regret,Sidhu Moose Wala,2TCrYxhFs1CTFupauXzbIm,True,Perfect match
+1283,Photograph,Nickelback,Photograph,Nickelback,3hb2ScEVkGchcAQqrPLP0R,True,Perfect match
+1284,​my bad,Moxas,my bad,Moxas,3voz8YdsGn2Y9PXp6xcJkl,True,Perfect match
+1285,Reality,Lost Frequencies,Reality,Lost Frequencies;Janieck,1Mys1gf9SkMBAVGGxpkJ7d,True,Perfect match
+1286,La promesa,Melendi,La promesa,Melendi,2GJyBJWPmnM7pK961cB6iV,True,Perfect match
+1287,Toroka,Christian Kuria,Toroka,Christian Kuria,6RMltEudPPFoJuUoshxRBB,True,Perfect match
+1288,I Started a Joke,Bee Gees,I Started A Joke,Bee Gees,36CKza28wMxYdjdzji7ine,True,Perfect match
+1289,What If I Never Get Over You,Lady A,What If I Never Get Over You,Lady A,0qkdE1C0ufnUISKwhg8Wh6,True,Perfect match
+1290,PUPPE,Rammstein,Puppe,Rammstein,2iFgHPoa7FNHwgLnjXzu7F,True,Perfect match
+1291,Everything I Need,Skylar Grey,Everything I Need,Skylar Grey,7jKCAmjP2cAn9WxxIVR14Y,True,Perfect match
+1292,Are You Satisfied?,MARINA,Are You Satisfied?,MARINA,6lKRMylSZMtA7EqPl0pcdI,True,Perfect match
+1293,Better Days,LAKEY INSPIRED,Better Days,LAKEY INSPIRED,36nutPAJFggPeddyVWDFm9,True,Perfect match
+1294,Yesterdays,Guns N' Roses,Yesterdays,Guns N' Roses,11VGhd5i7deLL0YB0ayicY,True,Perfect match
+1295,Lovefool,The Cardigans,Lovefool,The Cardigans,7aQjPecQdIuNd1sz3KCDhD,True,Perfect match
+1296,Riot,XXXTENTACION,Riot,XXXTENTACION,4aOOExMBUyxKnEYb39SrTg,True,Perfect match
+1297,BOCA,DREAMCATCHER,BOCA,Dreamcatcher,37Ctz6MOHM2thzNIOMo7Z0,True,Perfect match
+1298,Sky and Sand,Paul Kalkbrenner,Sky and Sand,Paul Kalkbrenner;Fritz Kalkbrenner,4IsHMzDbRE8q5Z4ALsQj3o,True,Perfect match
+1299,The Night We Met,Lord Huron,The Night We Met,Lord Huron;Phoebe Bridgers,5Djt1AQnhfhYJjs4m7WS6G,True,Perfect match
+1300,Where Is My Mind?,Pixies,Where Is My Mind?,Pixies,0KzAbK6nItSqNh8q70tb0K,True,Perfect match
+1301,Outro,M83,Outro,M83,1s9i7W8zx7Nxx78MUIsvjV,True,Perfect match
+1302,Meri Baaton Mein Tu,Anuv Jain,Meri Baaton Mein Tu,Anuv Jain,5nTbPFqLKmQdIg1SD8KgG4,True,Perfect match
+1303,Self Control,Laura Branigan,Self Control,Laura Branigan,6JNJERZGJwDVgkmbohBw7u,True,Perfect match
+1304,When She Loved Me,Lyn Lapid,When She Loved Me,Lyn Lapid,3198LMj0bpnXj8Mb1GLo3u,True,Perfect match
+1305,Someday,The Strokes,Someday,The Strokes,56NkIxSZZiMpFP5ZNSxtnT,True,Perfect match
+1306,We Cant Stop,Boyce Avenue,We Can't Stop,Boyce Avenue;Bea Miller,6owKuyHxUqidcAA6fPKSyy,False,Artist matches but title differs: 'We Cant Stop' vs 'We Can't Stop'
+1307,Daru Badnaam,Param Singh,Daru Badnaam,Param Singh;Kamal Kahlon;Pratik Studio,2TzyJEUfWHGRsk3r6Emvbk,True,Perfect match
+1308,Big in Japan,Alphaville,Big in Japan,Alphaville,3BZGi1yUqQyCNC868AqUGG,True,Perfect match
+1309,Livin on the Edge,Aerosmith,Livin' On The Edge,Aerosmith,4avSaixVwu8uqfSs7zgoj3,True,Perfect match
+1310,Falling in Love,Cigarettes After Sex,Falling In Love,Cigarettes After Sex,0O0bttAxJKKWqAqY2Nq4mC,True,Perfect match
+1311,Over 85,Hojean,Over 85,Hojean,6KhT7CK6FL0BnI3nVPqv4F,True,Perfect match
+1312,There it Go The Whistle Song,Juelz Santana,There It Go (The Whistle Song),Juelz Santana,50UkypyQJbSQLaXHke5Yep,True,Perfect match
+1313,Black Life,Navaan Sandhu,Black Life,Navaan Sandhu,07fDD54BLVrdAvM4krVGlG,True,Perfect match
+1314,In the Army Now,Status Quo,In The Army Now,Status Quo,6QLspHLCLftSGPa6vNzKuo,True,Perfect match
+1315,Ay Haiti,Alejandro Sanz,Ay Haiti!,Alejandro Sanz;Aleks Syntek;Bebe;Belinda;Carlos Jean;Daddy Jean;David Otero;Enrique Iglesias;Estopa;Hombres G;Juanes;Kun Agüero;La Mala;La Oreja de Van Gogh;Macaco;Marta Sánchez;Merce;Miguel Bosé;Najwa;OBK;Sandra Carrasco;Shakira;Wally Lopez,3FifroUyur8j5mTM78WuXQ,True,Perfect match
+1316,Cake,Melanie Martinez,Cake,Melanie Martinez,5H3TCfiw0CQTX1XU7A9TXM,True,Perfect match
+1317,This Is Me,Keala Settle,This Is Me,Keala Settle;The Greatest Showman Ensemble,45aBsnKRWUzhwbcqOJLwfe,True,Perfect match
+1318,Thank You for Loving Me,Bon Jovi,Thank You For Loving Me,Bon Jovi,577MNC3o3L0lNIzx9abqOk,True,Perfect match
+1319,Crazy,Gnarls Barkley,Crazy,Gnarls Barkley,1vxw6aYJls2oq3gW0DujAo,True,Perfect match
+1320,Kings and Queens,Thirty Seconds to Mars,Kings And Queens,Thirty Seconds To Mars,4sjLcE0GQ6urc4iUXsUPe9,True,Perfect match
+1321,Cry to Me,Solomon Burke,Cry to Me,Solomon Burke,0sDeU2murnLh4yVHQ5IV70,True,Perfect match
+1322,Numb,Chri$tian Gate$,NUMB,Chri$tian Gate$,1BPBwKueIEMnUcbbs2te7B,True,Perfect match
+1323,Walk with Me in Hell,Lamb of God,Walk with Me In Hell,Lamb of God,6vjvewW34Y3UiGQtJokGlY,True,Perfect match
+1324,Rockn Me,Steve Miller Band,Rock'n Me,Steve Miller Band,1orVKbp6vqtfAPOmvRofVq,False,Artist matches but title differs: 'Rockn Me' vs 'Rock'n Me'
+1325,I Promised Myself,Nick Kamen,I Promised Myself,Nick Kamen,5jVJAojK3LFKETjI2gYb8O,True,Perfect match
+1326,Famous Last Words,My Chemical Romance,Famous Last Words,My Chemical Romance,2d6m2F4I7wCuAKtSsdhh83,True,Perfect match
+1327,Space girl,Frances Forever,space girl,Frances Forever,7FjIYiD53wxlQmzTT6Wdpf,True,Perfect match
+1328,Angel With A Shotgun,The Cab,Angel With a Shotgun,The Cab,5A8jUZatix87xG0Zj6HSKG,True,Perfect match
+1329,La mujer de verde,IZAL,La Mujer de Verde,IZAL,72wNM7VYxTZ1PawCKzfTZx,True,Perfect match
+1330,​shut up,Greyson Chance,shut up,Greyson Chance,7m97u5zpSWqkDjN4uwY2LP,True,Perfect match
+1331,Save Me Now,Mike Perry,Save Me Now,Mike Perry;Isak Danielson,1gT4R71PKKWcd7kSqAmNWC,True,Perfect match
+1332,​life hack,Vaundy,life hack,Vaundy,0NlM3asfhPzhDwm5frXquS,True,Perfect match
+1333,Runaway,Linkin Park,Runaway,Linkin Park,6xtQ23d8GEXgcxyUKPtwc5,True,Perfect match
+1334,Tose Naina From Mickey Virus,Arijit Singh,"Tose Naina (From ""Mickey Virus)",Arijit Singh,2fMlezwwP5Hr1UwuAknN4o,True,Perfect match
+1335,This Is How We Do It,Montell Jordan,This Is How We Do It,Montell Jordan,6aJ90LBl96bly9zuEH1U2X,True,Perfect match
+1336,Save ME,BTS,Save Me,BTS,7bxGcILuAjkZzaveU28ZJS,True,Perfect match
+1337,Last Kiss,Pearl Jam,Last Kiss,Pearl Jam,0QnONzv3TvHAWk294h6DaQ,True,Perfect match
+1338,Monkey Wrench,Foo Fighters,Monkey Wrench,Foo Fighters,44wXefe8WB9Fd6xwtmAwbR,True,Perfect match
+1339,Lonely,Palaye Royale,Lonely,Palaye Royale,0haXiRi57j2xQo5a3WkzqV,True,Perfect match
+1340,Super Trouper,ABBA,Super Trouper,ABBA,0J2p4KYdr6Mg4ET6JPlbe1,True,Perfect match
+1341,You and I,Ingrid Michaelson,You And I,Ingrid Michaelson,7aohwSiTDju51QmC54AUba,True,Perfect match
+1342,No Cap,KR$NA,No Cap,KR$NA,1XdUEm2MwB6ysy6E80ltMg,True,Perfect match
+1343,Hard Times,Paramore,Hard Times,Paramore,0w5Bdu51Ka25Pf3hojsKHh,True,Perfect match
+1344,Radio/Video,System of a Down,Radio/Video,System Of A Down,41pOIT2t1rvr2Trg1HQChZ,True,Perfect match
+1345,Tera Ghata,Gajendra Verma,Tera Ghata,Gajendra Verma,0JBhoxPKHJc1ZeJrjSt0VO,True,Perfect match
+1346,Cochise,Audioslave,Cochise,Audioslave,1TDk2Jmi4dVZhm2dum3Jim,True,Perfect match
+1347,Delilah,Tom Jones,Delilah,Tom Jones,2v8B8d17Xxu9uLU5sNiHSL,True,Perfect match
+1348,On My Own,Darci,On My Own,Darci,0F4FejjWi3bf5vGOkuQwPS,True,Perfect match
+1349,With You,Linkin Park,With You,Linkin Park,5uuXtfqM7Wp3idCxyHeOll,True,Perfect match
+1350,Midnight Sun ramzoid x hal walker,ZOID LAND,midnight sun (ramzoid x hal walker),ZOID LAND,7xcTzEFNkkfO5a60T93tdk,True,Perfect match
+1351,Triumph,XXXTENTACION,Triumph,XXXTENTACION,3arQDLbkZnujJVfhoyEDlM,True,Perfect match
+1352,Crocodile Rock,Elton John,Crocodile Rock,Elton John,6WCeFNVAXUtNczb7lqLiZU,True,Perfect match
+1353,​sugar honey ice  tea,Bring Me The Horizon,sugar honey ice & tea,Bring Me The Horizon,3Ddgh4ZwVIkLx0f4WeDFmo,True,Perfect match
+1354,CANT SAY,Travis Scott,CAN'T SAY,Travis Scott,27a1mYSG5tYg7dmEjWBcmL,False,Artist matches but title differs: 'CANT SAY' vs 'CAN'T SAY'
+1355,Beach Baby,Bon Iver,Beach Baby,Bon Iver,2LXtyj95dK56ENS1QLt4IB,True,Perfect match
+1356,Someday,Nickelback,Someday,Nickelback,4PkJ7c9y1CwpuVOiJODnCZ,True,Perfect match
+1357,Right Down the Line,Gerry Rafferty,Right Down the Line,Gerry Rafferty,2Xb6wJYGi0QXwURw5WWvI5,True,Perfect match
+1358,Dionysus,BTS,Dionysus,BTS,5LvqzuJCNpi2pNkJAX8mBT,True,Perfect match
+1359,To Hell and Back,Sabaton,To Hell and Back,Sabaton,1BrgjqSg9du0lj3TUMLluL,True,Perfect match
+1360,ZEIG DICH,Rammstein,Zeig dich,Rammstein,3d3k8g4GTVx9EFIFlOZOEX,True,Perfect match
+1361,Burning Pile,Mother Mother,Burning Pile,Mother Mother,0zMAvsQmaQ4DGsmXtKixpn,True,Perfect match
+1362,Nightrain,Guns N' Roses,Nightrain,Guns N' Roses,2vNw57KPaYDzkyPxXYUORX,True,Perfect match
+1363,Growing Old With You,Restless Road,Growing Old With You,Restless Road,5n4kMW5dn7MHFhXQuJb9zG,True,Perfect match
+1364,You Got It,Roy Orbison,You Got It,Roy Orbison,6r20M5DWYdIoCDmDViBxuz,True,Perfect match
+1365,I Choose You,Sara Bareilles,I Choose You,Sara Bareilles,7jJH8F3PHlNvxfqEAAfFDl,True,Perfect match
+1366,Always,blink-182,Always,blink-182,3HM4NePuYAqdXpAGBk7nNz,True,Perfect match
+1367,Enemies,Shinedown,Enemies,Shinedown,1SDl9wY1MqbpJQW0yKEWxL,True,Perfect match
+1368,Brother,Kodaline,Brother,Kodaline,65gLJGey4u4KFFqoC5fzFJ,True,Perfect match
+1369,S.O.S.,ABBA,SOS,ABBA,5pMmWfuL0FTGshYt7HVJ8P,False,Artist matches but title differs: 'S.O.S.' vs 'SOS'
+1370,Feels Like,Gracie Abrams,Feels Like,Gracie Abrams,35IcAVSMsU9qzHfpPbvC8A,True,Perfect match
+1371,Under Cover of Darkness,The Strokes,Under Cover of Darkness,The Strokes,6u0x5ad9ewHvs3z6u9Oe3c,True,Perfect match
+1372,Are You Ready,AC/DC,Are You Ready,AC/DC,7A1odihHBrI8n9k0Fefh2j,True,Perfect match
+1373,I Can’t Help Falling in Love with You,UB40,(I Can't Help) Falling In Love With You,UB40,7ojJ4XvqBhBcteM0zjMebT,False,Artist matches but title differs: 'I Can’t Help Falling in Love with You' vs '(I Can't Help) Falling In Love With You'
+1374,Feel LIke God,Gazzzy,Feel Like God,gazzzy;framed,0Ck25uqrWpIM3yGPP5lxFW,True,Perfect match
+1375,Wishes,Jamie Miller,Wishes,Jamie Miller,1kSBUhFBZT6z62eTTjeJLi,True,Perfect match
+1376,When Scars Become Art,Gatton,When Scars Become Art,Gatton;Brooke Young,2q3LzfknBzye3xXjgiJBjS,True,Perfect match
+1377,Edge of Desire,John Mayer,Edge of Desire,John Mayer,5gbxzSqABThINGDb7vIiwe,True,Perfect match
+1378,If We Have Each Other,Alec Benjamin,If We Have Each Other,Alec Benjamin,7pT6WSg4PCt4mr5ZFyUfsF,True,Perfect match
+1379,Hallelujah,Jeff Buckley,Hallelujah,Jeff Buckley,3pRaLNL3b8x5uBOcsgvdqM,True,Perfect match
+1380,The Fear,The Score,The Fear,The Score,2cppGOIz0cuDnKoGzrDsJQ,True,Perfect match
+1381,How to Be a Heartbreaker,MARINA,How to Be a Heartbreaker,MARINA,2sEk5R8ErGIFxbZ7rX6S2S,True,Perfect match
+1382,Cold Little Heart,Michael Kiwanuka,Cold Little Heart,Michael Kiwanuka,0qprlw0jfsW4H9cG0FFE0Z,True,Perfect match
+1383,Tragedy,Bee Gees,Tragedy,Bee Gees,6UXXeFqMBGiqjkzQzkMT3E,True,Perfect match
+1384,The End,The Doors,The End,The Doors,5UgT7w6zVZjP3oyawMzbiK,True,Perfect match
+1385,Animal,Neon Trees,Animal,Neon Trees,0l4DTppOxy7NUaEcwXuOb6,True,Perfect match
+1386,Dont Sit Down Cause Ive Moved Your Chair,Arctic Monkeys,Don't Sit Down 'Cause I've Moved Your Chair,Arctic Monkeys,3czdA0j4iaLDJJCoT5D8iP,False,Artist matches but title differs: 'Dont Sit Down Cause Ive Moved Your Chair' vs 'Don't Sit Down 'Cause I've Moved Your Chair'
+1387,I Bet You Look Good on the Dancefloor,Arctic Monkeys,I Bet You Look Good On The Dancefloor,Arctic Monkeys,3DQVgcqaP3iSMbaKsd57l5,True,Perfect match
+1388,Grapefruit,Tove Lo,Grapefruit,Tove Lo,35seOt4wMvu7gWzYFwqNGh,True,Perfect match
+1389,Perfect to Me,Anne-Marie,Perfect to Me,Anne-Marie,0DC7Zs2qvAbNK1owWQ4mlL,True,Perfect match
+1390,Have a Cigar,Pink Floyd,Have a Cigar,Pink Floyd,3CmHvyZQQAGkKkTjTBFWN6,True,Perfect match
+1391,She Sells Sanctuary,The Cult,She Sells Sanctuary,The Cult,3qLZ866ZfaK0B0R5FIqXLG,True,Perfect match
+1392,​​​​better off without me,Matt Hansen,better off without me,Matt Hansen,1Ip5p31SowqjJLo2ss1afJ,True,Perfect match
+1393,I Bet on Losing Dogs,Mitski,I Bet on Losing Dogs,Mitski,2Co0IjcLTSHMtodwD4gzfg,True,Perfect match
+1394,Hurts So Good,Astrid S,Hurts So Good,Astrid S,46ydq5g3k17iLJs3qMDvO6,True,Perfect match
+1395,Perfect,Simple Plan,Perfect,Simple Plan,4j3X4KX8rURekAVIFUhI23,True,Perfect match
+1396,Mind Playing Tricks on Me,Geto Boys,Mind Playing Tricks on Me,Geto Boys,63BokRfXSQhEU6Qi2dSJpZ,True,Perfect match
+1397,Riot Van,Arctic Monkeys,Riot Van,Arctic Monkeys,4wMR4fRKMTyUJG6VAsmccv,True,Perfect match
+1398,Chura Liya Hai Tumne Jo Dil Ko,Asha Bhosle,Chura Liya Hai Tumne Jo Dil Ko,Asha Bhosle;Mohammed Rafi;R. D. Burman,2yRBJpAD66GuNRKQ8bKXtY,True,Perfect match
+1399,Desi Kalakaar,Yo Yo Honey Singh,Desi Kalakaar,Yo Yo Honey Singh,7m4CgL81VVIHaaiSxyH922,True,Perfect match
+1400,Make It Right,BTS,Make It Right,BTS,30YLyzfEjMQsXj4ZFslAmT,True,Perfect match
+1401,Come a Little Closer,Cage The Elephant,Come a Little Closer,Cage The Elephant,4sebUbjqbcgDSwG6PbSGI0,True,Perfect match
+1402,Gotta Be Somebody,Nickelback,Gotta Be Somebody,Nickelback,06T10fEzN8ZCcqzQZYA184,True,Perfect match
+1403,Entre Tú y Yo,Chema Rivas,Entre Tú y Yo,Chema Rivas,1CGhHQZF487xpWITQW1bam,True,Perfect match
+1404,​2 soon,keshi,2 soon,keshi,5SlU0Yhi51jobhEiGE4xDv,True,Perfect match
+1405,This Is War,Thirty Seconds to Mars,This Is War,Thirty Seconds To Mars,2D52zjCyqEIQa221lhw6uk,True,Perfect match
+1406,Still into You,Paramore,Still into You,Paramore,1yjY7rpaAQvKwpdUliHx0d,True,Perfect match
+1407,Jekyll and Hyde,Five Finger Death Punch,Jekyll and Hyde,Five Finger Death Punch,6efSwlK3LOlWOeKK9xlUKF,True,Perfect match
+1408,Best Day of My Life,Tom Odell,Best Day Of My Life,Tom Odell,6rUtMKEej81ORTGtCpjyOJ,True,Perfect match
+1409,Disenchanted,My Chemical Romance,Disenchanted,My Chemical Romance,6T7MAQCekVb3UnCykjX3BP,True,Perfect match
+1410,S.L.U.T.,Bea Miller,S.L.U.T.,Bea Miller,6h3lMAmmpQDFqoHk9F99IR,True,Perfect match
+1411,Heaven Beside You,Alice in Chains,Heaven Beside You,Alice In Chains,1DCdIWCE5UFiObCsTSpKFv,True,Perfect match
+1412,Nikita,Elton John,Nikita,Elton John,3G0ENKW9vzV0SuYKaWFflI,True,Perfect match
+1413,The Thrill is Gone,B.B. King,The Thrill Is Gone,B.B. King;Tracy Chapman,3cg0dJfrQB66Qf2YthPb6G,True,Perfect match
+1414,Everybody Loves Somebody,Dean Martin,Everybody Loves Somebody,Dean Martin,5I9sHwLDX28tLtzVgKLtpr,True,Perfect match
+1415,Better Off Dying,Lil Peep,Better Off (Dying),Lil Peep,1tlrTC3x7viJ1U30oOFGdF,True,Perfect match
+1416,Cloudbusting,Kate Bush,Cloudbusting,Kate Bush,5atQ2haKP5LT65WM0KUts3,True,Perfect match
+1417,Big Me,Foo Fighters,Big Me,Foo Fighters,6pb5BBnIM5IM7R1cqag6rE,True,Perfect match
+1418,Con La Miel En Los Labios,Aitana,Con La Miel En Los Labios,Aitana,2QJcrJNa4KGxQ6bw0MH3Zx,True,Perfect match
+1419,Satellite,Rise Against,Satellite,Rise Against,5sG3G54H21hNfd5etlheoe,True,Perfect match
+1420,Black Horse And The Cherry Tree,KT Tunstall,Black Horse And The Cherry Tree,KT Tunstall,0qAMjeQFyd1qD0LDiV8gWp,True,Perfect match
+1421,Im Dangerous,The EverLove,I'm Dangerous,The EverLove,7K0WZ75nHqj450OYd3ZywF,False,Artist matches but title differs: 'Im Dangerous' vs 'I'm Dangerous'
+1422,Comfortably Numb,Pink Floyd,Comfortably Numb,Pink Floyd,5HNCy40Ni5BZJFw1TKzRsC,True,Perfect match
+1423,I Cant Stop Loving You,Ray Charles,I Can't Stop Loving You,Ray Charles,79nJj5dMyTsUzKvN5jUXsJ,False,Artist matches but title differs: 'I Cant Stop Loving You' vs 'I Can't Stop Loving You'
+1424,Demons,Boyce Avenue,Demons,Boyce Avenue;Jennel Garcia,210JCw2LbYD4YIs8GiZ9iP,True,Perfect match
+1425,The Next Episode,Dr. Dre,The Next Episode,Dr. Dre;Snoop Dogg,4LwU4Vp6od3Sb08CsP99GC,True,Perfect match
+1426,Enter Sandman,Metallica,Enter Sandman,Metallica,5sICkBXVmaCQk5aISGR3x1,True,Perfect match
+1427,Yonaguni,Bad Bunny,Yonaguni,Bad Bunny,2JPLbjOn0wPCngEot2STUS,True,Perfect match
+1428,Mercy,Shawn Mendes,Mercy,Shawn Mendes,0AS63m1wHv9n4VVRizK6Hc,True,Perfect match
+1429,One Dance,Drake,One Dance,Drake;Wizkid;Kyla,1zi7xx7UVEFkmKfv06H8x0,True,Perfect match
+1430,Seven Nation Army,The White Stripes,Seven Nation Army,The White Stripes,3dPQuX8Gs42Y7b454ybpMR,True,Perfect match
+1431,Im Still Standing,Elton John,I'm Still Standing,Elton John,1jDJFeK9x3OZboIAHsY9k2,False,Artist matches but title differs: 'Im Still Standing' vs 'I'm Still Standing'
+1432,The Reason,Hoobastank,The Reason,Hoobastank,77loZpT5Y5PRP1S451P9Yz,True,Perfect match
+1433,Strawberries  Cigarettes,Troye Sivan,Strawberries & Cigarettes,Troye Sivan,3afkJSKX0EAMsJXTZnDXXJ,True,Perfect match
+1434,You Get Me So High,The Neighbourhood,You Get Me So High,The Neighbourhood,7zwn1eykZtZ5LODrf7c0tS,True,Perfect match
+1435,Do I Wanna Know?,Arctic Monkeys,Do I Wanna Know?,Arctic Monkeys,5FVd6KXrgO9B3JPmC8OPst,True,Perfect match
+1436,Streets,Doja Cat,Streets,Doja Cat,60ynsPSSKe6O3sfwRnIBRf,True,Perfect match
+1437,Todo De Ti,Rauw Alejandro,Todo De Ti,Rauw Alejandro,4fSIb4hdOQ151TILNsSEaF,True,Perfect match
+1438,Californication,Red Hot Chili Peppers,Californication,Red Hot Chili Peppers,48UPSzbZjgc449aqz8bxox,True,Perfect match
+1439,3435,Ariana Grande,34+35,Ariana Grande,6Im9k8u9iIzKMrmV7BWtlF,False,Artist matches but title differs: '3435' vs '34+35'
+1440,The Hills,The Weeknd,The Hills,The Weeknd,7fBv7CLKzipRk6EC6TWHOB,True,Perfect match
+1441,SI TE LA ENCUENTRAS POR AHÍ,Feid,Si Te La Encuentras Por Ahí,Feid,02jLfqc9gMo8PkHEGHY3OT,True,Perfect match
+1442,Angel Baby,Troye Sivan,Angel Baby,Troye Sivan,2m6Ko3CY1qXNNja8AlugNc,True,Perfect match
+1443,Freaks,Surf Curse,Freaks,Surf Curse,7EkWXAI1wn8Ii883ecd9xr,True,Perfect match
+1444,Master of Puppets,Metallica,Master Of Puppets,Metallica,2MuWTIM3b0YEAskbeeFE1i,True,Perfect match
+1445,In the End,Linkin Park,In the End,Linkin Park,60a0Rd6pjrkxjPbaKzXjfq,True,Perfect match
+1446,Smack That,Akon,Smack That,Akon;Eminem,2kQuhkFX7uSVepCD3h29g5,True,Perfect match
+1447,Have You Ever Seen the Rain?,Creedence Clearwater Revival,Have You Ever Seen The Rain,Creedence Clearwater Revival,2LawezPeJhN4AWuSB0GtAU,True,Perfect match
+1448,Silence,Marshmello,Silence,Marshmello;Khalid,7vGuf3Y35N4wmASOKLUVVU,True,Perfect match
+1449,​thank u next,Ariana Grande,"thank u, next",Ariana Grande,3e9HZxeyfWwjeyPAMmWSSQ,True,Perfect match
+1450,​idfc,blackbear,idfc,blackbear,3SErMoIKdRELto2OspGs5L,True,Perfect match
+1451,Sultans of Swing,Dire Straits,Sultans Of Swing,Dire Straits,37Tmv4NnfQeb0ZgUC4fOJj,True,Perfect match
+1452,​die first,Nessa Barrett,die first,Nessa Barrett,21szgNA72iLwvBxHQLgwBh,True,Perfect match
+1453,Meet Me At Our Spot,THE ANXIETY,Meet Me At Our Spot,THE ANXIETY;WILLOW;Tyler Cole,07MDkzWARZaLEdKxo6yArG,True,Perfect match
+1454,Let Me Down Slowly,Alec Benjamin,Let Me Down Slowly,Alec Benjamin,2qxmye6gAegTMjLKEBoR3d,True,Perfect match
+1455,Atlantis,Seafret,Atlantis,Seafret,1Fid2jjqsHViMX6xNH70hE,True,Perfect match
+1456,Sunshine,OneRepublic,Sunshine,OneRepublic,5r43qanLhUCdBj8HN3fa6B,True,Perfect match
+1457,I Want It That Way,Backstreet Boys,I Want It That Way,Backstreet Boys,47BBI51FKFwOMlIiX6m8ya,True,Perfect match
+1458,Always Forever,Cults,Always Forever,Cults,2enPRFda84VE2wtI8c86Uf,True,Perfect match
+1459,Sofia,Clairo,Sofia,Clairo,7B3z0ySL9Rr0XvZEAjWZzM,True,Perfect match
+1460,Unstoppable,Sia,Unstoppable,Sia,2J2Z1SkXYghSajLibnQHOa,True,Perfect match
+1461,Notion,The Rare Occasions,Notion,The Rare Occasions,0sTlGEld0h8kIPZaKDYUf4,True,Perfect match
+1462,No Role Modelz,J. Cole,No Role Modelz,J. Cole,68Dni7IE4VyPkTOH9mRWHr,True,Perfect match
+1463,Hold On,Chord Overstreet,Hold On,Chord Overstreet,5vjLSffimiIP26QG5WcN2K,True,Perfect match
+1464,​idontwannabeyouanymore,Billie Eilish,idontwannabeyouanymore,Billie Eilish,41zXlQxzTi6cGAjpOXyLYH,True,Perfect match
+1465,Everlong,Foo Fighters,Everlong,Foo Fighters,5UWwZ5lm5PKu6eKsHAGxOk,True,Perfect match
+1466,Feel Good Inc.,Gorillaz,Feel Good Inc.,Gorillaz,0d28khcov6AiegSCpG5TuT,True,Perfect match
+1467,Can You Feel My Heart,Bring Me The Horizon,Can You Feel My Heart,Bring Me The Horizon,0WSa1sucoNRcEeULlZVQXj,True,Perfect match
+1468,Diles,Bad Bunny,Diles,Bad Bunny;Ozuna;Farruko;Arcangel;Ñengo Flow;DJ Luian;Mambo Kingz,6C1RD7YQVvt3YQj0CmuTeu,True,Perfect match
+1469,Cant Stop,Red Hot Chili Peppers,Can't Stop,Red Hot Chili Peppers,3ZOEytgrvLwQaqXreDs2Jx,False,Artist matches but title differs: 'Cant Stop' vs 'Can't Stop'
+1470,TE MUDASTE,Bad Bunny,TE MUDASTE,Bad Bunny,5RubKOuDoPn5Kj5TLVxSxY,True,Perfect match
+1471,Fourth of July,Sufjan Stevens,Fourth of July,Sufjan Stevens,5Qnrgqy1pAm9GyNQOgyVFz,True,Perfect match
+1472,Take On Me,a-ha,Take on Me,a-ha,2WfaOiMkCvy7F5fcp2zZ8L,True,Perfect match
+1473,The Real Slim Shady,Eminem,The Real Slim Shady,Eminem,3yfqSUWxFvZELEM4PmlwIR,True,Perfect match
+1474,A Thousand Years,Christina Perri,A Thousand Years,Christina Perri,6lanRgr6wXibZr8KgzXxBl,True,Perfect match
+1475,A Tu Merced,Bad Bunny,A Tu Merced,Bad Bunny,4r9jkMEnArtWGH2rL2FZl0,True,Perfect match
+1476,Jocelyn Flores,XXXTENTACION,Jocelyn Flores,XXXTENTACION,7m9OqQk4RVRkw9JJdeAw96,True,Perfect match
+1477,Sweater Weather,The Neighbourhood,Sweater Weather,The Neighbourhood,2QjOHCTQ1Jl3zawyYOpxh6,True,Perfect match
+1478,House of Memories,Panic! at the Disco,House of Memories,Panic! At The Disco,2DgdHcjWmO3qd50RzuBLgZ,True,Perfect match
+1479,​august,Taylor Swift,august,Taylor Swift,3hUxzQpSfdDqwM3ZTFQY0K,True,Perfect match
+1480,All the Small Things,blink-182,All The Small Things,blink-182,2m1hi0nfMR9vdGC8UcrnwU,True,Perfect match
+1481,Sweet Home Alabama,Lynyrd Skynyrd,Sweet Home Alabama,Lynyrd Skynyrd,7e89621JPkKaeDSTQ3avtg,True,Perfect match
+1482,R U Mine?,Arctic Monkeys,R U Mine?,Arctic Monkeys,2AT8iROs4FQueDv2c8q2KE,True,Perfect match
+1483,Waiting for Love,Avicii,Waiting For Love,Avicii,2P4OICZRVAQcYAV2JReRfj,True,Perfect match
+1484,Softcore,The Neighbourhood,Softcore,The Neighbourhood,2K7xn816oNHJZ0aVqdQsha,True,Perfect match
+1485,Gasolina,Daddy Yankee,Gasolina,Daddy Yankee,228BxWXUYQPJrJYHDLOHkj,True,Perfect match
+1486,Ivy,Frank Ocean,Ivy,Frank Ocean,2ZWlPOoWh0626oTaHrnl2a,True,Perfect match
+1487,Si Veo a Tu Mamá,Bad Bunny,Si Veo a Tu Mamá,Bad Bunny,41wtwzCZkXwpnakmwJ239F,True,Perfect match
+1488,You Give Love a Bad Name,Bon Jovi,You Give Love A Bad Name,Bon Jovi,0rmGAIH9LNJewFw7nKzZnc,True,Perfect match
+1489,Love You Like a Love Song,Selena Gomez & The Scene,Love You Like A Love Song,Selena Gomez & The Scene,0laYHRpNTS6i8FXdupHkJ4,True,Perfect match
+1490,I Was Never There,The Weeknd,I Was Never There,The Weeknd;Gesaffelstein,1cKHdTo9u0ZymJdPGSh6nq,True,Perfect match
+1491,I Wanna Be Yours,Arctic Monkeys,I Wanna Be Yours,Arctic Monkeys,5XeFesFbtLpXzIVDNQP22n,True,Perfect match
+1492,Not Allowed,TV Girl,Not Allowed,TV Girl,3IznIgmXtrUaoPWpQTy5jB,True,Perfect match
+1493,She Don’t Give a Fo,Duki,She Don't Give a Fo,Duki;KHEA,03a359wbiUsjN9h6yzXvmS,False,Artist matches but title differs: 'She Don’t Give a Fo' vs 'She Don't Give a Fo'
+1494,Closer,The Chainsmokers,Closer,The Chainsmokers;Halsey,7BKLCZ1jbUBVqRi2FVlTVw,True,Perfect match
+1495,Die for You,The Weeknd,Die For You,The Weeknd,2Ch7LmS7r2Gy2kc64wv3Bz,True,Perfect match
+1496,In da Club,50 Cent,In Da Club,50 Cent,7iL6o9tox1zgHpKUfh9vuC,True,Perfect match
+1497,Why’d You Only Call Me When You’re High?,Arctic Monkeys,Why'd You Only Call Me When You're High?,Arctic Monkeys,086myS9r57YsLbJpU0TgK9,False,Artist matches but title differs: 'Why’d You Only Call Me When You’re High?' vs 'Why'd You Only Call Me When You're High?'
+1498,The Middle,Jimmy Eat World,The Middle,Jimmy Eat World,6GG73Jik4jUlQCkKg9JuGO,True,Perfect match
+1499,Si Estuviésemos Juntos,Bad Bunny,Si Estuviésemos Juntos,Bad Bunny,35wvL50xvKpCHEJPxLOLPI,True,Perfect match
+1500,Let Me Love You,DJ Snake,Let Me Love You,DJ Snake;Justin Bieber,0lYBSQXN6rCTvUZvg9S0lU,True,Perfect match
+1501,Chamber of Reflection,Mac DeMarco,Chamber Of Reflection,Mac DeMarco,7H7NyZ3G075GqPx2evsfeb,True,Perfect match
+1502,Dont Blame Me,Taylor Swift,Don’t Blame Me,Taylor Swift,1R0a2iXumgCiFb7HEZ7gUE,True,Perfect match
+1503,No Surprises,Radiohead,No Surprises,Radiohead,10nyNJ6zNy2YVYLrcwLccB,True,Perfect match
+1504,BILLIE EILISH,Armani White,BILLIE EILISH.,Armani White,27ZZdyTSQWI7Cug2d2PkqV,True,Perfect match
+1505,Mr. Brightside,The Killers,Mr. Brightside,The Killers,003vvx7Niy0yvhvHt4a68B,True,Perfect match
+1506,Too Good at Goodbyes,Sam Smith,Too Good At Goodbyes,Sam Smith,1mXVgsBdtIVeCLJnSnmtdV,True,Perfect match
+1507,This Is What You Came For,Calvin Harris,This Is What You Came For,Calvin Harris;Rihanna,0azC730Exh71aQlOt9Zj3y,True,Perfect match
+1508,Losing My Religion,R.E.M.,Losing My Religion,R.E.M.,31AOj9sFz2gM0O3hMARRBx,True,Perfect match
+1509,Rocket Man I Think It’s Going to Be a Long Long Time,Elton John,"Rocket Man (I Think It's Going To Be A Long, Long Time)",Elton John,3gdewACMIVMEWVbyb8O9sY,False,"Artist matches but title differs: 'Rocket Man I Think It’s Going to Be a Long Long Time' vs 'Rocket Man (I Think It's Going To Be A Long, Long Time)'"
+1510,LOVE DIVE,IVE,LOVE DIVE,IVE,0Q5VnK2DYzRyfqQRJuUtvi,True,Perfect match
+1511,Tu Aake Dekhle,King,Tu Aake Dekhle,King,0yCWDaAgOtg6TKlNCg9rwA,True,Perfect match
+1512,Love the Way You Lie,Eminem,Love The Way You Lie,Eminem;Rihanna,15JINEqzVMv3SvJTAXAKED,True,Perfect match
+1513,Back to Black,Amy Winehouse,Back To Black,Amy Winehouse,3FAclTFfvUuQYnEsptbK8w,True,Perfect match
+1514,Little Dark Age,MGMT,Little Dark Age,MGMT,2Y0iGXY6m6immVb2ktbseM,True,Perfect match
+1515,Chaand Baaliyan,Aditya A,Chaand Baaliyan,Aditya A,0snQrp1VaY5Pj1YIHRJpRJ,True,Perfect match
+1516,Hope,XXXTENTACION,Hope,XXXTENTACION,2ZRo7axmMPeSVUvDbGkJah,True,Perfect match
+1517,Till I Collapse,Eminem,Till I Collapse,Eminem;Nate Dogg,4xkOaSrkexMciUUogZKVTS,True,Perfect match
+1518,Basket Case,Green Day,Basket Case,Green Day,6L89mwZXSOwYl76YXfX13s,True,Perfect match
+1519,Line Without a Hook,Ricky Montgomery,Line Without a Hook,Ricky Montgomery,5NvOZCjZaGGGL597exlQWv,True,Perfect match
+1520,Prom Queen,Beach Bunny,Prom Queen,Beach Bunny,6MpCaSIOfqBqbMED4kXgNY,True,Perfect match
+1521,Unforgettable,French Montana,Unforgettable,French Montana;Swae Lee,3B54sVLJ402zGa6Xm4YGNe,True,Perfect match
+1522,Natural,Imagine Dragons,Natural,Imagine Dragons,2FY7b99s15jUprqC0M5NCT,True,Perfect match
+1523,Treat You Better,Shawn Mendes,Treat You Better,Shawn Mendes,3QGsuHI8jO1Rx4JWLUh9jd,True,Perfect match
+1524,Without Me,Eminem,Without Me,Eminem,7lQ8MOhq6IN2w8EYcFNSUk,True,Perfect match
+1525,Dream On,Aerosmith,Dream On,Aerosmith,5MxNLUsfh7uzROypsoO5qe,True,Perfect match
+1526,Sex Drugs Etc.,Beach Weather,"Sex, Drugs, Etc.",Beach Weather,7DbdUf8aHSYoliSjO6LZv6,True,Perfect match
+1527,Lights Are On,Tom Rosenthal,Lights Are On,Tom Rosenthal,4IhTXiZLKATmwhMZIb1GQN,True,Perfect match
+1528,​happier,Olivia Rodrigo,happier,Olivia Rodrigo,2tGvwE8GcFKwNdAXMnlbfl,True,Perfect match
+1529,Stan,Eminem,Stan,Eminem;Dido,3UmaczJpikHgJFyBTAJVoz,True,Perfect match
+1530,Sobrio,Maluma,Sobrio,Maluma,4HzqWEdAbzcVFDv0pvxV4w,True,Perfect match
+1531,Mount Everest,Labrinth,Mount Everest,Labrinth,1ZdhOMWyFR8Iv9eylMGYg2,True,Perfect match
+1532,Somewhere Only We Know,Keane,Somewhere Only We Know,Keane,1SKPmfSYaPsETbRHaiA18G,True,Perfect match
+1533,Mary on a Cross,Ghost,Mary On A Cross,Ghost,2HZLXBOnaSRhXStMLrq9fD,True,Perfect match
+1534,Creep,Radiohead,Creep,Radiohead,70LcF31zb1H0PyJoS1Sx1r,True,Perfect match
+1535,Lost,Frank Ocean,Lost,Frank Ocean,3GZD6HmiNUhxXYf8Gch723,True,Perfect match
+1536,Everybody Dies in Their Nightmares,XXXTENTACION,Everybody Dies In Their Nightmares,XXXTENTACION,3GVkPk8mqxz0itaAriG1L7,True,Perfect match
+1537,Numb,Linkin Park,Numb,Linkin Park,2nLtzopw4rPReszdYBJU6h,True,Perfect match
+1538,Lonely,Akon,Lonely,Akon,4v7DCN09hgXkKazefkznDQ,True,Perfect match
+1539,Caile,Luar La L,Caile,Luar La L,6i1g5ZRmJZAkDwBaUZ3f2i,True,Perfect match
+1540,Living Life In The Night,Cheriimoya,"Living Life, In The Night",Cheriimoya;Sierra Kidd,2kx5sQgmjYug0GiDh1a4sU,True,Perfect match
+1541,My Kind of Woman,Mac DeMarco,My Kind of Woman,Mac DeMarco,6jgkEbmQ2F2onEqsEhiliL,True,Perfect match
+1542,November Rain,Guns N' Roses,November Rain,Guns N' Roses,3YRCqOhFifThpSRFJ1VWFM,True,Perfect match
+1543,Night Changes,One Direction,Night Changes,One Direction,5O2P9iiztwhomNh8xkR9lJ,True,Perfect match
+1544,Those Eyes,New West,Those Eyes,New West,2GThBgzZoZfz0lx1JjBwfe,True,Perfect match
+1545,2002,Anne-Marie,2002,Anne-Marie,2BgEsaKNfHUdlh97KmvFyo,True,Perfect match
+1546,It Was a Good Day,Ice Cube,It Was A Good Day,Ice Cube,2qOm7ukLyHUXWyR4ZWLwxA,True,Perfect match
+1547,Cool for the Summer,Demi Lovato,Cool for the Summer,Demi Lovato,3uwnnTQcHM1rDqSfA4gQNz,True,Perfect match
+1548,All I Want,Kodaline,All I Want,Kodaline,0NlGoUyOJSuSHmngoibVAs,True,Perfect match
+1549,Revenge,XXXTENTACION,Revenge,XXXTENTACION,5TXDeTFVRVY7Cvt0Dw4vWW,True,Perfect match
